@@ -1,0 +1,38 @@
+BSP(1)                              General Commands Manual                             BSP(1)
+
+NAME
+     bsp - book search program
+
+SYNOPSIS
+	Python3 book.py --help
+	Python3 book.py author [keyword]
+	Python3 book.py book [keyword] [--title_sort | --year_sort]
+	Python3 book.py year <start_year> <end_year>
+
+
+DESCRIPTION
+	This command is to help search through a csv file containing a list of books, dates, and authors.
+	It allows users to search for books, authors, or dates that contain the keyword or range of dates provided by the user. 
+	The result is a book list sorted by title or publication year, depending on user input.  
+
+	For instance, were the user to specify "--books" and provide a keyword of "S", this command will return
+	a list of books that contain the letter "S".
+
+	The following options are available:
+	
+	--help, -h	 	Display this help and exit.
+
+	author, -a 		Prints an alphabetical list of authors by surname whose names contain the given <keyword> (case-insensitive). 
+				If no <keyword> is specified, alphabetically prints out all of the authors by surname.
+
+	book, -b 		Prints an alphabetical list of books whose titles contain the given <keyword> (case-insensitive) as the default.
+				If specified --year_sort, the book list will be sorted by publication year. If no <keyword> is specified, prints out all of the books, sorted by title.
+
+	year, -y		Prints a list of books published between the <start_year> and <end_year> in order of publication year (inclusive). 
+				If the user does not specify a start year or an end year, they must type in None in the field as a placeholder. 
+
+	--title_sort, -ts	Sorts the book list alphabetically based on book titles
+	
+	--year_sort, -ys 	Sorts the book list based on the publication year from oldest to youngest
+
+(END)
