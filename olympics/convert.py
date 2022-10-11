@@ -40,7 +40,7 @@ with open('athlete_events.csv') as original_data_file,\
                 events[event_category] = event_id
                 writer.writerow([event_id, event_category, event_name])
 
-#Mapping event_id to event_category and event_name and saving it to the events.csv file
+#Mapping game_id to game_year, game_season, and game_city and saving it to the games.csv file
 games = {}
 with open('athlete_events.csv') as original_data_file,\
         open('games.csv', 'w') as games_file:
