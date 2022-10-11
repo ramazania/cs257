@@ -1,0 +1,24 @@
+CREATE TABLE athletes (
+    id SERIAL,
+    name text
+);
+
+CREATE TABLE events (
+    id SERIAL,
+    category text,
+    name text
+);
+
+CREATE TABLE games (
+    id SERIAL,
+    year integer,
+    season text,
+    city text
+);
+
+CREATE TABLE linking-table (
+    athletes_id SERIAL,
+    event_id SERIAL,
+    game_id SERIAL,
+    medal text
+);
