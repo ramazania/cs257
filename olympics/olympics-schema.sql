@@ -6,7 +6,7 @@ CREATE TABLE nocs (
 
 CREATE TABLE athletes (
     athlete_id INTEGER,
-    ahtlete_name TEXT
+    athlete_name TEXT
 );
 
 CREATE TABLE teams (
@@ -28,6 +28,7 @@ CREATE TABLE games (
 );
 
 CREATE TABLE event_results(
+    noc_id INTEGER,
     athlete_id INTEGER,
     team_id INTEGER,
     event_id INTEGER,

@@ -2,7 +2,7 @@
 Ali Ramazani
 Software Design
 Fall 2022
-
+Collaborators: I got help from Quoc, Sydney, James, and Kimberly
 Note: You can get the athlete_events.csv source file from here:
 https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
 '''
@@ -21,7 +21,7 @@ with open('noc_regions.csv') as original_data_file,\
             noc_name = noc_name.replace(",", "")
             if noc_abbreviation not in nocs:
                 noc_id = len(nocs) + 1
-                nocs[noc_id] = noc_abbreviation
+                nocs[noc_abbreviation] = noc_id
                 writer.writerow([noc_id, noc_abbreviation, noc_name])
 
 #Mapping athlete_id to athlete_name and saving it to the athlete.csv file
@@ -85,13 +85,15 @@ with open('athlete_events.csv') as original_data_file,\
                 games[game_year] = game_id
                 writer.writerow([game_id, game_year, game_season, game_city])
 
-#Creating a linking_table and save into the linking_table.csv file
+#Creating a linking_table and saving it to the event_results.csv file
 with open('athlete_events.csv') as original_data_file,\
         open('event_results.csv', 'w', newline="\n") as event_results_file:
         reader = csv.reader(original_data_file)
         writer = csv.writer(event_results_file)
         heading_row = next(reader) # eat up and ignore the heading row of the data file
         for row in reader:
+            noc_abbreviation = row[7].replace("SGP", "SIN") #athlete_events.csv uses SGP, while noc_regions.csv uses SIN to represent Singapore
+            noc_id = nocs[noc_abbreviation]
             athlete_id = row[0]
             team_name = row[6]
             team_id = teams[team_name]
@@ -101,6 +103,6 @@ with open('athlete_events.csv') as original_data_file,\
             game_year = row[9]
             game_id = games[game_year]
             medal = row[14]
-            writer.writerow([athlete_id, team_id, event_id, game_id, medal])
+            writer.writerow([noc_id, athlete_id, team_id, event_id, game_id, medal])
 
 
