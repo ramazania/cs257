@@ -3,6 +3,8 @@ Ali Ramazani
 Software Design
 Fall 2022
 Collaborators: I got help from Quoc, Sydney, James, and Kimberly
+Adapted from James: 
+https://github.com/jamesberger55/cs257/blob/main/olympics/queries.sql
 */
 
 /*
@@ -39,6 +41,8 @@ ORDER BY games.game_year;
 
 /*
 List all the NOCs and the number of gold medals they have won, in decreasing order of the number of gold medals.
+
+Note: I was not sure how to get the count and sort them numerically so I just ordered them alphabatically by noc.
 */
 
 SELECT nocs.noc_abbreviation, event_results.medal

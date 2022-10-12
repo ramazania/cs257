@@ -3,7 +3,11 @@ Ali Ramazani
 Software Design
 Fall 2022
 Collaborators: I got help from Quoc, Sydney, James, and Kimberly
-Note: You can get the athlete_events.csv source file from here:
+
+Adapted from sample code provided by Professor Jeff: 
+https://github.com/ondich/cs257_2022_fall/blob/main/postgresql/olympics-convert.py
+
+Note: You can get the athlete_events.csv and noc_regions.csv source files from here:
 https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
 '''
 import csv
