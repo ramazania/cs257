@@ -1,0 +1,27 @@
+ODSP(1)                              General Commands Manual                             ODSP(1)
+
+NAME
+     ODSP - Olympics Database Search Program
+
+SYNOPSIS
+	Python3 olympics.py --help
+	Python3 olympics.py --noc
+	Python3 olympics.py --gold
+	Python3 olympics.py --team 
+
+
+DESCRIPTION
+	This command is to help search through a database containing a list of athletes, nocs,  medals, and teams.
+	Note: if a team name is longer than one word, then put it inside quotation mark. Ex. --team "United States"
+
+	The following options are available:
+	
+	--help, -h	 	Display this help and exit.
+
+	--noc, -n 		Prints a list of all athletes for a given noc.
+
+	--gold, -g  		Prints a list of gold_medals in decreasing_order for all nocs. 
+
+	--team, -t		Prints a list of all athletes for a given team.
+
+(END)
