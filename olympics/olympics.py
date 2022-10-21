@@ -53,7 +53,7 @@ def get_athletes_from_noc(noc_name):
     return athletes
 
 def get_medals(medal_name):
-    ''' Returns a list of gold medals for all nocs in decreasing order. '''
+    ''' Returns a list of the given medal name for all nocs in decreasing order. '''
     result = []
     try:
         # Create a "cursor", which is an object with which you can iterate
@@ -70,11 +70,11 @@ def get_medals(medal_name):
                     ORDER BY COUNT(event_results.medal) DESC'''      
         cursor.execute(query, (medal_name,))
 
-        # Iterate over the query results to produce the list of gold medal count for each NOC.
+        # Iterate over the query results to produce a list of the given medal count for each NOC.
         for row in cursor:
             noc = row[0]
-            gold_count = row[1]
-            result.append(f'{noc}: {gold_count}')
+            medal_count = row[1]
+            result.append(f'{noc}: {medal_count}')
             
     except Exception as e:
         print(e, file=sys.stderr)
@@ -132,7 +132,7 @@ def main():
             print(athlete)
         print()
             
-    #2. List all the NOCs and the number of given medals they have won, in decreasing order of the number of gold medals.
+    #2. List all the NOCs and the number of the given medal name they have won, in decreasing order of the number of medals.
     elif args.medal:
         print(f'========== {args.medal} medals for all nocs ==========')
         medals = get_medals(args.medal)

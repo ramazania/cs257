@@ -12,16 +12,16 @@ SYNOPSIS
 
 DESCRIPTION
 	This command is to help search through a database containing a list of athletes, nocs,  medals, and teams.
-	Note: if a team name is longer than one word, then put it inside quotation mark. Ex. --team "United States"
+	Note: if an input is longer than one word, then put it inside quotation mark. Ex. --team "United States"
 
 	The following options are available:
 	
-	--help, -h	 	Display this help and exit.
+	--help, -h	 	Display this help and exit. Ex. Python3 olympics.py --help
 
-	--noc, -n 		Prints a list of all athletes for a given noc.
+	--noc, -n 		Prints a list of all athletes for a given noc. Ex. Python3 olympics.py --noc USA
 
-	--medal, -m  		Prints a list of gold_medals in decreasing_order for all nocs. 
+	--medal, -m  		Prints a list of medals in decreasing_order for all nocs. Ex. Python3 olympics.py --medal Gold 
 
-	--team, -t		Prints a list of all athletes for a given team.
+	--team, -t		Prints a list of all athletes for a given team. Ex. Python3 olympics.py --team Afghanistan 
 
 (END)
