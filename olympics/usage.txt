@@ -6,7 +6,7 @@ NAME
 SYNOPSIS
 	Python3 olympics.py --help
 	Python3 olympics.py --noc
-	Python3 olympics.py --gold
+	Python3 olympics.py --medal
 	Python3 olympics.py --team 
 
 
@@ -20,7 +20,7 @@ DESCRIPTION
 
 	--noc, -n 		Prints a list of all athletes for a given noc.
 
-	--gold, -g  		Prints a list of gold_medals in decreasing_order for all nocs. 
+	--medal, -m  		Prints a list of gold_medals in decreasing_order for all nocs. 
 
 	--team, -t		Prints a list of all athletes for a given team.
 

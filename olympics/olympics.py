@@ -52,7 +52,7 @@ def get_athletes_from_noc(noc_name):
     connection.close()
     return athletes
 
-def gold_medals(medal_name):
+def get_medals(medal_name):
     ''' Returns a list of gold medals for all nocs in decreasing order. '''
     result = []
     try:
@@ -67,13 +67,13 @@ def gold_medals(medal_name):
                     WHERE event_results.medal = %s
                     AND nocs.noc_id = event_results.noc_id
                     GROUP BY nocs.noc_abbreviation
-                    ORDER BY COUNT(event_results.medal) DESC'''        
+                    ORDER BY COUNT(event_results.medal) DESC'''      
         cursor.execute(query, (medal_name,))
 
         # Iterate over the query results to produce the list of gold medal count for each NOC.
         for row in cursor:
             noc = row[0]
-            gold_count = [1]
+            gold_count = row[1]
             result.append(f'{noc}: {gold_count}')
             
     except Exception as e:
@@ -120,29 +120,29 @@ def main():
     
     parser = argparse.ArgumentParser(add_help=False)
     parser.add_argument('-n', '--noc', type=str)
-    parser.add_argument('-g', '--gold', type=str)
+    parser.add_argument('-m', '--medal', type=str)
     parser.add_argument('-t', '--team', type=str)
     args = parser.parse_args()
     
     #1. List the names of all the athletes from a specified NOC.
     if args.noc:
-        print('========== All athletes from ' + args.noc + ' ==========')
+        print(f'========== All athletes from {args.noc} ==========')
         athletes = get_athletes_from_noc(args.noc)
         for athlete in athletes:
             print(athlete)
         print()
             
-    #2. List all the NOCs and the number of gold medals they have won, in decreasing order of the number of gold medals.
-    elif args.gold:
-        print('========== Gold medals for all nocs ==========')
-        medals = gold_medals(args.gold)
+    #2. List all the NOCs and the number of given medals they have won, in decreasing order of the number of gold medals.
+    elif args.medal:
+        print(f'========== {args.medal} medals for all nocs ==========')
+        medals = get_medals(args.medal)
         for medal in medals:
             print(medal)
         print()
             
     #3. List the names of all the athletes from a specified team.
     elif args.team:
-        print('========== All athletes from ' + args.team + ' ==========')
+        print(f'========== All athletes from {args.team} ==========')
         athletes = get_athletes_from_team(args.team)
         for athlete in athletes:
             print(athlete)
