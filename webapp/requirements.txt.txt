@@ -1,0 +1,17 @@
+Authors: Zack Dong, Ali Ramazani and Muno Siyakurima
+
+Dataset: https://github.com/jfjelstul/worldcup. Click on data-csv
+
+Description: The World Cup Dataset is a comprehensive database about the FIFA World cup that covers all 21 World Cup tournaments from 1930 to 2018. Users can use data from this dataset to calculate statistics about teams, players, managers and referees. This data offers the chance for many visualizations and also predictions.
+
+Story 1: As a user I can search for football teams and see their world cup profile so that I can compare teams and learn about their achievements for each tournament year. 
+
+Implementation 1: Create a drop-down list for tournament years, in which the user could select a tournament year and it would take the user to a new page that has a list of all the teams that participated in the world cup tournament for that selected year. Then the user selects a team and it would redirect the user to a new page that showcases the profile for that selected team, which would include the list of players, games played along with results, group standings, and awards. (Subject to change).
+
+Story 2: As a user/soccer-fan I can know about the individual achievements of players at these different tournaments by going to the statistics page so that I can gain knowledge on general player statistics and awards like the golden ball, golden boot, golden glove and the best young player, etc. 
+
+Implementation 2: Have a statistics page(for a particular year) that shows rankings of individual goals, player of the match, cards and other match statistics. On clicking a particular option, the user is presented with a list of players in descending order based on the picked statistic. On the statistics page for each year, the awards section shows all individual accolades given to players at the end of the tournament e.g Golden Boot. 
+
+Story 3: As an editor, I can add new data everytime there is a world cup tournament in the future so that the website contains the most updated information. 
+
+Implementation 3: Create a feature that allows users to suggest edits and add new data similar to the way wikipedia works, where everyone can make an edit and add new data, but the owner has to confirm the changes and updates. We can add a button called updates that takes the user to a new page, where they can add new data for future tournaments and the owner can approve or reject it. (Not very clear on how to implement this feature at the moment)
