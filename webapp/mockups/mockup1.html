@@ -1,3 +1,4 @@
+<!-- Author: Zack Dong -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,7 +12,11 @@
     <h1> Fifa World Cup
         <div class ="Tournament Years">
             <button id="button"> Countries </button>
-            <button id="button"> <a href="mockups/mockup2.html"> Tournaments </a> </button>
+            <select name="Tournaments" id="Tournaments" onChange="window.location.href=this.value">
+            <option selected disabled>Tournaments</option>
+            <option value="mockup2.html">2018 Russia</option>
+            </select>
+            <!-- <button id="button"> <a href="mockups/mockup2.html"> Tournaments </a> </button> -->
         </div>
     </h1>
     <p> Taking place quadrennially, the FIFA Men's World Cup sees 32 nations compete against each other for the prize. 

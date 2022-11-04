@@ -1,3 +1,5 @@
+/* Authors: Zack Dong, Ali Ramazani and Muno Siyakurima */
+
 body {
     background-color: powderblue;
 }
@@ -17,4 +19,14 @@ img {
     width: 300px;
     height: 200px;
 
+}
+
+ul {
+    font-size: 20px;
+}
+
+pre {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center ;
 }
