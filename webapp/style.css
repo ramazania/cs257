@@ -1,9 +1,27 @@
 p {
-    color: white;
+    color: black;
+    font-size: 20pt;
 }
 
 h1 {
-    color: white;
+    color: black;
     text-align: center;
     font-size: 400%;
 }
+
+h2 {
+    color: black;
+    text-align: center;
+    font-size: 30pt;
+
+}
+
+figure {
+    display: inline-block;
+  }
+  
+  figcaption {
+    text-align: center;
+    font-size: 17pt;
+    font-weight: bold;
+  }
