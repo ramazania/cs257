@@ -1,0 +1,37 @@
+authors: Zack Dong, Muno Siyakurima, and Ali Ramazani 
+
+REQUEST: /teams[?name={TEAM_NAME}&year={TOURNAMENT_YEAR}]
+RESPONSE: a JSON list of dictionaries, each of which represents one
+team, sorted by name in alphabetical order. Each team dictionary will have the
+following fields.
+
+   name -- (string) the name of the team
+   code -- (string) the code of the team
+   year -- (integer) the year the team played
+
+
+REQUEST: /tournament / <year>
+RESPONSE: a JSON list of dictionaries, each of which represents one
+team, sorted by name in alphabetical order. Each team dictionary will have the
+following fields.
+
+   name -- (string) the name of the tournament
+   year -- (integer) the year of the tournament
+
+
+REQUEST: /statistics / <year>
+RESPONSE: a JSON list of dictionaries, each of which represents the statistics for the given year.
+
+   year -- (integer) the year of the tournament
+   winner -- (string) the name of the tournament
+   golden_ball -- (string) name of the best player
+   golden_boot -- (string) name of the top scorer player
+   golden_glove -- (string) name of the best goal-keeper
+   best_young_player -- (string) name of the best young player
+
+
+REQUEST: /tournaments
+RESPONSE: an alphabetized JSON list of strings, each of which is a FIFA Tournament.
+
+REQUEST: /teams
+RESPONSE: an alphabetized JSON list of strings, each of which is a qualified team.

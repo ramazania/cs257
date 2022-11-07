@@ -1,5 +1,7 @@
+authors: Zack Dong, Muno Siyakurima, and Ali Ramazani 
+
 CREATE TABLE players (
-    id SERIAL,
+    id text,
     firstname text,
     lastname text,
     country text,
@@ -8,17 +10,21 @@ CREATE TABLE players (
 );
 
 CREATE TABLE teams (
-    team_id text,
+    id text,
     team_name text,
-    team_code,
-    tournament_name text, 
-    tournament_id text, --maybe
-    count_matches int,
-    performance text
+    team_code text
 );
 
+CREATE TABLE tournaments (
+    id text,
+    tournament_name text,
+    year int,
+    host_country text,
+    winner text
+)
+
 CREATE TABLE group_standings (
-    id SERIAL,
+    id int,
     stage_name text,
     team_name text,
     group_name text, 
@@ -30,20 +36,19 @@ CREATE TABLE group_standings (
     goals_for int,
     goals_against int,
     goal_difference int,
-    points int,
-
+    points int
 );
 
 CREATE TABLE tournament_standings (
-    tournament_id SERIAL,
+    tournament_id text,
     team_name text,
     tournament_name text,
-    position int,
+    position int
 
 );
 
 CREATE TABLE matches (
-    id SERIAL,
+    id int,
     tournament_id text, --maybe
     match_name text, 
     stage_name text,
@@ -53,8 +58,17 @@ CREATE TABLE matches (
     away_team_name text,
     score text,
     home_team_score int,
-    away_team_score int,
+    away_team_score int
+);
 
-
+CREATE TABLE awards (
+    tournament_id text,
+    award_id text,
+    award_name text,
+    shared	int,
+    player_id text,
+    last_name text,
+    first_name text,
+    team_id text
 )
 
