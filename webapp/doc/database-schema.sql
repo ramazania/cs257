@@ -18,10 +18,10 @@ CREATE TABLE teams (
 CREATE TABLE tournaments (
     id text,
     tournament_name text,
-    year int,
+    year text,
     host_country text,
     winner text
-)
+);
 
 CREATE TABLE group_standings (
     id int,
