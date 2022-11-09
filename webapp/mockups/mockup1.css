@@ -1,6 +1,74 @@
+p {
+  color: black;
+  font-size: 20pt;
+  margin-left: 30px;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-size: 400%;
+}
+
+h2 {
+  color: black;
+  text-align: center;
+  font-size: 30pt;
+
+
+}
+
+figure {
+  display: inline-block;
+}
+
+figcaption {
+  text-align: center;
+  font-size: 17pt;
+  font-weight: bold;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  margin-left: 170px;
+}
+
+.topnav {
+  height: 60px;
+  width: 100%;
+  z-index: 2;
+  margin-left: 0px;
+  background-color:black;
+}
+
+.topnav ul {
+  height: 50px;
+  width: 100%;
+  z-index: 2;
+  top: 0;
+  left: 0;
+  background-color:black;
+}
+
+.topnav ul li {
+  float: left;
+}
+
+.topnav ul a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.topnav ul a:hover{
+  background-color: #111;
+}
+
 .sidenav {
     height: 100%;
-    width: 200px;
+    width: 170px;
     position: fixed;
     z-index: 1;
     top: 0;
@@ -8,6 +76,7 @@
     background-color: #f1f1f1;
     overflow-x: hidden;
   }
+
   
 .sidenav ul {
     list-style-type: none;
@@ -28,8 +97,8 @@
     padding: 6px 6px 6px 32px;
     text-decoration: none;
     font-size: 25px;
-    color: #818181;
-    background-color: #f1f1f1;
+    color: #f1f1f1;
+    background-color: #818181;
     display: block;
   }
   
@@ -38,11 +107,8 @@
     color: #f1f1f1;
   }
 
-.main {
-margin-left: 200px; /* Same as the width of the sidenav */
-  }
 
 @media screen and (max-height: 450px) {
 .sidenav {padding-top: 15px;}
-.sidenav a {font-size: 18px;}
+.sidenav ul {font-size: 18px;}
 }
