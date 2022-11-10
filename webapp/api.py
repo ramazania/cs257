@@ -6,7 +6,7 @@ import json
 import config 
 import psycopg2
 
-api = flask.Flask('api', __name__)
+api = flask.Blueprint('api', __name__)
 
 def get_connection():
     ''' Returns a connection to the database described in the

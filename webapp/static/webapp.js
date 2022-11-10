@@ -1,88 +1,51 @@
-/*
- * webapp.js
- * Jeff Ondich
- * 6 November 2020
- *
- * A little bit of Javascript for the tiny web app sample for CS257.
- */
-
 window.onload = initialize;
 
 function initialize() {
-    var element = document.getElementById('cats_button');
-    if (element) {
-        element.onclick = onCatsButton;
-    }
-
-    var element = document.getElementById('dogs_button');
-    if (element) {
-        element.onclick = onDogsButton;
-    }
+    var element = document.getElementById('tournaments_button');
+    element.onclick = onTournamentsButtonClicked;
 }
 
+// Returns the base URL of the API, onto which endpoint components can be appended.
 function getAPIBaseURL() {
-    var baseURL = window.location.protocol
-                    + '//' + window.location.hostname
-                    + ':' + window.location.port
-                    + '/api';
+    var baseURL = window.location.protocol + '//' + window.location.hostname + ':' + window.location.port + '/api';
     return baseURL;
 }
 
-function onCatsButton() {
-    var url = getAPIBaseURL() + '/cats/';
+function onTournamentsButtonClicked() {
+    var url = getAPIBaseURL() + '/tournaments/';
 
+    // Send the request to the Tournament API /tournaments/ endpoint
     fetch(url, {method: 'get'})
 
+    // When the results come back, transform them from a JSON string into
+    // a Javascript object (in this case, a list of author dictionaries).
     .then((response) => response.json())
 
-    .then(function(cats) {
-        var listBody = '';
-        for (var k = 0; k < cats.length; k++) {
-            var cat = cats[k];
-            listBody += '<li>' + cat['name']
-                      + ', ' + cat['birth_year']
-                      + '-' + cat['death_year']
-                      + ', ' + cat['description']
-                      + '</li>\n';
+    // Once you have your list of author dictionaries, use it to build
+    // an HTML table displaying the author names and lifespan.
+    .then(function(tournaments_list) {
+        // Build the table body.
+        var tableBody = '';
+        for (var k = 0; k < tournaments_list.length; k++) {
+            tableBody += '<tr>';
+            tableBody += '<td>' 
+                            + tournaments_list[k]['id'] + ' '
+                            + tournaments_list[k]['tournament_name'] + ' ' + tournaments_list[k]['year'] +
+                            + tournaments_list[k]['host_country'] + ', '
+                            + tournaments_list[k]['winner'] + '</td>';
+            tableBody += '</td>';
+            tableBody += '</tr>';
         }
 
-        var animalListElement = document.getElementById('animal_list');
-        if (animalListElement) {
-            animalListElement.innerHTML = listBody;
+        // Put the table body we just built inside the table that's already on the page.
+        var resultsTableElement = document.getElementById('results_table');
+        if (resultsTableElement) {
+            resultsTableElement.innerHTML = tableBody;
         }
     })
 
+    // Log the error if anything went wrong during the fetch.
     .catch(function(error) {
         console.log(error);
     });
 }
-
-function onDogsButton() {
-    var url = getAPIBaseURL() + '/dogs/';
-
-    fetch(url, {method: 'get'})
-
-    .then((response) => response.json())
-
-    .then(function(dogs) {
-        var listBody = '';
-        for (var k = 0; k < dogs.length; k++) {
-            var dog = dogs[k];
-            listBody += '<li>' + dog['name']
-                      + ', ' + dog['birth_year']
-                      + '-' + dog['death_year']
-                      + ', ' + dog['description']
-                      + '</li>\n';
-        }
-
-        var animalListElement = document.getElementById('animal_list');
-        if (animalListElement) {
-            animalListElement.innerHTML = listBody;
-        }
-    })
-
-    .catch(function(error) {
-        console.log(error);
-    });
-}
-
