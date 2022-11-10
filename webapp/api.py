@@ -35,7 +35,7 @@ def get_connection():
 # def get_statistics():
 #     return "Hello"
 
-@api.route('/tournaments')
+@api.route('/tournaments/')
 def get_all_tournaments():
     ''' Returns a list of all the tournament years in our database. 
         http://.../tournaments

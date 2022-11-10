@@ -24,15 +24,14 @@ function onTournamentsButtonClicked() {
     // Once you have your list of author dictionaries, use it to build
     // an HTML table displaying the author names and lifespan.
     .then(function(tournaments_list) {
-        // Build the table body.
         var tableBody = '';
         for (var k = 0; k < tournaments_list.length; k++) {
-            tableBody += '<tr>';
+            var tournament = tournaments_list[k];
             tableBody += '<td>' 
                             + tournaments_list[k]['id'] + ' '
                             + tournaments_list[k]['tournament_name'] + ' ' + tournaments_list[k]['year'] +
                             + tournaments_list[k]['host_country'] + ', '
-                            + tournaments_list[k]['winner'] + '</td>';
+                            + tournaments_list[k]['winner'];
             tableBody += '</td>';
             tableBody += '</tr>';
         }
