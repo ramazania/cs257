@@ -25,6 +25,15 @@ def get_main_page():
     ''' This is the only route intended for human users '''
     return flask.render_template('index.html')
 
+@app.route('/mockup2.html') 
+def get_mockup2():
+    ''' This is the only route intended for human users '''
+    return flask.render_template('mockup2.html')
+
+@app.route('/mockup3.html') 
+def get_mockup3():
+    ''' This is the only route intended for human users '''
+    return flask.render_template('mockup3.html')
 
 ########### Running the website server ###########
 if __name__ == '__main__':

@@ -6,14 +6,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type = "text/css" href="mockup1.css">
-    <script src="mockup1.js"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='webapp.js') }}" ></script>
     <title>Fifa World Cup</title>
 </head>
 <body>
 
     <h1> Fifa World Cup
         <div class ="Tournament Years">
-            <button id="button"> Countries </button>
+            <button id="tournaments_button"> Get Tournaments </button>
+            <table id="results_table"></table>
             <select name="Tournaments" id="Tournaments" onChange="window.location.href=this.value">
             <option selected disabled>Tournaments</option>
             <option value="mockup2.html">2018 Russia</option>
