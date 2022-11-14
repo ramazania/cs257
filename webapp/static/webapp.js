@@ -1,9 +1,11 @@
 window.onload = initialize;
 
 function initialize() {
-    //loadFirstList();
+    loadFirstList();
     var element = document.getElementById('tournaments_button');
+    var element = document.getElementById('particular_tournaments_button')
     element.onclick = onTournamentsButtonClicked;
+    element.onclick = onParticularTournamentButtonClicked;
 }
 
 // Returns the base URL of the API, onto which endpoint components can be appended.
@@ -53,24 +55,24 @@ function onTournamentsButtonClicked() {
 
 // --------------------------------------------------------------- Zack Javascript Code ----------------------------------------------//
 
-// function loadFirstList() {
-//     var firstList = document.getElementById('first-list');
-//     if (firstList) {
-//         // Load some <li> elements into the list. You could also
-//         // hard-code these into the HTML or obtain them from an API.
-//         var listBody = '<li>1930</li>\n<li>1934</li>\n<li>1938</li>\n<li>1950</li>\n<li>1954</li>\n<li>1958</li>\n<li>1962</li>\n<li>1966</li>\n<li>1970</li>\n<li>1974</li>\n<li>1978</li>\n<li>1982</li>\n<li>1986</li>\n<li>1990</li>\n<li>1994</li>\n<li>1998</li>\n<li>2002</li>\n<li>2006</li>\n<li>2010</li>\n<li>2014</li>\n<li>2018</li>\n<li>2022</li>';
-//         firstList.innerHTML = listBody;
+function loadFirstList() {
+    var firstList = document.getElementById('first-list');
+    if (firstList) {
+        // Load some <li> elements into the list. You could also
+        // hard-code these into the HTML or obtain them from an API.
+        var listBody = '<li>1930</li>\n<li>1934</li>\n<li>1938</li>\n<li>1950</li>\n<li>1954</li>\n<li>1958</li>\n<li>1962</li>\n<li>1966</li>\n<li>1970</li>\n<li>1974</li>\n<li>1978</li>\n<li>1982</li>\n<li>1986</li>\n<li>1990</li>\n<li>1994</li>\n<li>1998</li>\n<li>2002</li>\n<li>2006</li>\n<li>2010</li>\n<li>2014</li>\n<li>2018</li>\n<li>2022</li>';
+        firstList.innerHTML = listBody;
         
-//         // Give the <li> elements a click handler.
-//         for (var k=0; k < firstList.children.length; k++) {
-//             var child = firstList.children[k];
-//             child.onclick = function(e) {
-//                 updateSelection(firstList, this); // See updateSelection and the CSS for .selected
-//                 updateResults();
-//             }
-//         }
-//     }
-// }
+        // Give the <li> elements a click handler.
+        for (var k=0; k < firstList.children.length; k++) {
+            var child = firstList.children[k];
+            child.onclick = function(e) {
+                updateSelection(firstList, this); // See updateSelection and the CSS for .selected
+                updateResults();
+            }
+        }
+    }
+}
 
 // function updateResults() {
 //     var resultsElement = document.getElementById('results');
@@ -116,3 +118,55 @@ function onTournamentsButtonClicked() {
 //     }
 //     return selection;
 // }
+
+function onParticularTournamentButtonClicked() {
+    var url = getAPIBaseURL() + '/tournaments/<year>';
+
+    // Send the request to the Tournament API /tournaments/ endpoint
+    fetch(url, {method: 'get'})
+
+    // When the results come back, transform them from a JSON string into
+    // a Javascript object (in this case, a list of author dictionaries).
+    .then((response) => response.json())
+
+    // Once you have your list of author dictionaries, use it to build
+    // an HTML table displaying the author names and lifespan.
+    .then(function(teams_list) {
+        var tableBody = '';
+        for (var k = 0; k < teams_list.length; k++) {
+            var tournament = tournaments_list[k];
+            tableBody += '<td>' 
+                            + tournaments_list[k]['team_name'] + ' '
+            tableBody += '</tr>';
+        }
+
+        // Put the table body we just built inside the table that's already on the page.
+        var teamsTableElement = document.getElementById('teams_table');
+        if (teamsTableElement) {
+            teamsTableElement.innerHTML = tableBody;
+        }
+    }
+
+    .then(function(statistics_list) {
+        var stats_TableBody = '';
+        for (var k = 0; k < teams_list.length; k++) {
+            var statistic = statistics_list[k];
+            tableBody += '<td>' 
+                            + statistics_list[k]['award_name'] + ' '
+                            + statistics_list[k]['last_name'] + ' '
+                            + statistics_list[k]['first_name'] + ' '
+            tableBody += '</tr>';
+        }
+
+        // Put the table body we just built inside the table that's already on the page.
+        var statsTableElement = document.getElementById('statistics_table');
+        if (statsTableElement) {
+            statsTableElement.innerHTML = stats_TableBody;
+        }
+    })
+
+    // Log the error if anything went wrong during the fetch.
+    .catch(function(error) {
+        console.log(error);
+    }));
+}
