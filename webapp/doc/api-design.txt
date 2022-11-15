@@ -1,4 +1,4 @@
-authors: Zack Dong, Muno Siyakurima, and Ali Ramazani 
+Authors: Zack Dong, Muno Siyakurima, and Ali Ramazani 
 
 REQUEST: /teams[?name={TEAM_NAME}&year={TOURNAMENT_YEAR}]
 RESPONSE: a JSON list of dictionaries, each of which represents one
@@ -12,7 +12,7 @@ following fields.
 
 REQUEST: /tournament / <year>
 RESPONSE: a JSON list of dictionaries, each of which represents one
-team, sorted by name in alphabetical order. Each team dictionary will have the
+tournament, sorted by name in alphabetical order. Each tournament dictionary will have the
 following fields.
 
    name -- (string) the name of the tournament
@@ -20,7 +20,7 @@ following fields.
 
 
 REQUEST: /statistics / <year>
-RESPONSE: a JSON list of dictionaries, each of which represents the statistics for the given year.
+RESPONSE: a JSON list of dictionaries, each of which represents the tournament statistics for the given year.
 
    year -- (integer) the year of the tournament
    winner -- (string) the name of the tournament

@@ -25,6 +25,10 @@ def get_main_page():
     ''' This is the only route intended for human users '''
     return flask.render_template('index.html')
 
+@app.route('/help')
+def get_help():
+    return flask.render_template('help.html')
+
 @app.route('/mockup2.html') 
 def get_mockup2():
     ''' This is the only route intended for human users '''
