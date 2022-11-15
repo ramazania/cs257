@@ -1,0 +1,900 @@
+WC-1930,France v Mexico,group stage,Estadio Pocitos,Montevideo,France,T-44,MEX,4–1,4
+WC-1930,United States v Belgium,group stage,Estadio Gran Parque Central,Montevideo,United States,T-06,BEL,3–0,3
+WC-1930,Yugoslavia v Brazil,group stage,Estadio Gran Parque Central,Montevideo,Yugoslavia,T-09,BRA,2–1,2
+WC-1930,Romania v Peru,group stage,Estadio Pocitos,Montevideo,Romania,T-54,PER,3–1,3
+WC-1930,Argentina v France,group stage,Estadio Gran Parque Central,Montevideo,Argentina,T-28,FRA,1–0,1
+WC-1930,Chile v Mexico,group stage,Estadio Gran Parque Central,Montevideo,Chile,T-44,MEX,3–0,3
+WC-1930,Yugoslavia v Bolivia,group stage,Estadio Gran Parque Central,Montevideo,Yugoslavia,T-07,BOL,4–0,4
+WC-1930,United States v Paraguay,group stage,Estadio Gran Parque Central,Montevideo,United States,T-53,PRY,3–0,3
+WC-1930,Uruguay v Peru,group stage,Estadio Centenario,Montevideo,Uruguay,T-54,PER,1–0,1
+WC-1930,Chile v France,group stage,Estadio Centenario,Montevideo,Chile,T-28,FRA,1–0,1
+WC-1930,Argentina v Mexico,group stage,Estadio Centenario,Montevideo,Argentina,T-44,MEX,6–3,6
+WC-1930,Brazil v Bolivia,group stage,Estadio Centenario,Montevideo,Brazil,T-07,BOL,4–0,4
+WC-1930,Paraguay v Belgium,group stage,Estadio Centenario,Montevideo,Paraguay,T-06,BEL,1–0,1
+WC-1930,Uruguay v Romania,group stage,Estadio Centenario,Montevideo,Uruguay,T-58,ROU,4–0,4
+WC-1930,Argentina v Chile,group stage,Estadio Centenario,Montevideo,Argentina,T-13,CHL,3–1,3
+WC-1930,Argentina v United States,semi-finals,Estadio Centenario,Montevideo,Argentina,T-79,USA,6–1,6
+WC-1930,Uruguay v Yugoslavia,semi-finals,Estadio Centenario,Montevideo,Uruguay,T-83,YUG,6–1,6
+WC-1930,Uruguay v Argentina,final,Estadio Centenario,Montevideo,Uruguay,T-03,ARG,4–2,4
+WC-1934,Austria v France,round of 16,Stadio Benito Mussolini,Turin,Austria,T-28,FRA,3–2,3
+WC-1934,Czechoslovakia v Romania,round of 16,Stadio Littorio,Trieste,Czechoslovakia,T-58,ROU,2–1,2
+WC-1934,Germany v Belgium,round of 16,Stadio Giovanni Berta,Florence,Germany,T-06,BEL,5–2,5
+WC-1934,Hungary v Egypt,round of 16,Stadio Giorgio Ascarelli,Naples,Hungary,T-25,EGY,4–2,4
+WC-1934,Italy v United States,round of 16,Stadio Nazionale PNF,Rome,Italy,T-79,USA,7–1,7
+WC-1934,Spain v Brazil,round of 16,Stadio Luigi Ferraris,Genoa,Spain,T-09,BRA,3–1,3
+WC-1934,Sweden v Argentina,round of 16,Stadio Renato Dall'Ara,Bologna,Sweden,T-03,ARG,3–2,3
+WC-1934,Switzerland v Netherlands,round of 16,San Siro,Milan,Switzerland,T-46,NLD,3–2,3
+WC-1934,Austria v Hungary,quarter-finals,Stadio Renato Dall'Ara,Bologna,Austria,T-34,HUN,2–1,2
+WC-1934,Czechoslovakia v Switzerland,quarter-finals,Stadio Benito Mussolini,Turin,Czechoslovakia,T-72,CHE,3–2,3
+WC-1934,Germany v Sweden,quarter-finals,San Siro,Milan,Germany,T-71,SWE,2–1,2
+WC-1934,Italy v Spain,quarter-finals,Stadio Giovanni Berta,Florence,Italy,T-70,ESP,1–1,1
+WC-1934,Italy v Spain,quarter-finals,Stadio Giovanni Berta,Florence,Italy,T-70,ESP,1–0,1
+WC-1934,Czechoslovakia v Germany,semi-finals,Stadio Nazionale PNF,Rome,Czechoslovakia,T-29,DEU,3–1,3
+WC-1934,Italy v Austria,semi-finals,San Siro,Milan,Italy,T-05,AUT,1–0,1
+WC-1934,Germany v Austria,third-place match,Stadio Giorgio Ascarelli,Naples,Germany,T-05,AUT,3–2,3
+WC-1934,Italy v Czechoslovakia,final,Stadio Nazionale PNF,Rome,Italy,T-20,CSK,2–1,2
+WC-1938,Switzerland v Germany,round of 16,Parc des Princes,Paris,Switzerland,T-29,DEU,1–1,1
+WC-1938,Cuba v Romania,round of 16,Stade du T.O.E.C.,Toulouse,Cuba,T-58,ROU,3–3,3
+WC-1938,France v Belgium,round of 16,Stade Olympique de Colombes,Paris,France,T-06,BEL,3–1,3
+WC-1938,Hungary v Dutch East Indies,round of 16,Vélodrome Municipal,Reims,Hungary,T-22,IDN,6–0,6
+WC-1938,Italy v Norway,round of 16,Stade Vélodrome,Marseille,Italy,T-51,NOR,2–1,2
+WC-1938,Brazil v Poland,round of 16,Stade de la Meinau,Strasbourg,Brazil,T-55,POL,6–5,6
+WC-1938,Czechoslovakia v Netherlands,round of 16,Stade Jules Deschaseaux,Le Havre,Czechoslovakia,T-46,NLD,3–0,3
+WC-1938,Cuba v Romania,round of 16,Stade du T.O.E.C.,Toulouse,Cuba,T-58,ROU,2–1,2
+WC-1938,Switzerland v Germany,round of 16,Parc des Princes,Paris,Switzerland,T-29,DEU,4–2,4
+WC-1938,Brazil v Czechoslovakia,quarter-finals,Stade du Parc Lescure,Bordeaux,Brazil,T-20,CSK,1–1,1
+WC-1938,Hungary v Switzerland,quarter-finals,Stade Victor Boucquey,Lille,Hungary,T-72,CHE,2–0,2
+WC-1938,Italy v France,quarter-finals,Stade Olympique de Colombes,Paris,Italy,T-28,FRA,3–1,3
+WC-1938,Sweden v Cuba,quarter-finals,Stade du Fort Carré,Antibes,Sweden,T-18,CUB,8–0,8
+WC-1938,Brazil v Czechoslovakia,quarter-finals,Stade du Parc Lescure,Bordeaux,Brazil,T-20,CSK,2–1,2
+WC-1938,Hungary v Sweden,semi-finals,Parc des Princes,Paris,Hungary,T-71,SWE,5–1,5
+WC-1938,Italy v Brazil,semi-finals,Stade Vélodrome,Marseille,Italy,T-09,BRA,2–1,2
+WC-1938,Brazil v Sweden,third-place match,Stade du Parc Lescure,Bordeaux,Brazil,T-71,SWE,4–2,4
+WC-1938,Italy v Hungary,final,Stade Olympique de Colombes,Paris,Italy,T-34,HUN,4–2,4
+WC-1950,Brazil v Mexico,group stage,Estádio do Maracanã,Rio de Janeiro,Brazil,T-44,MEX,4–0,4
+WC-1950,Yugoslavia v Switzerland,group stage,Estádio Independência,Belo Horizonte,Yugoslavia,T-72,CHE,3–0,3
+WC-1950,England v Chile,group stage,Estádio do Maracanã,Rio de Janeiro,England,T-13,CHL,2–0,2
+WC-1950,Spain v United States,group stage,Estádio Vila Capanema,Curitiba,Spain,T-79,USA,3–1,3
+WC-1950,Sweden v Italy,group stage,Estádio do Pacaembu,São Paulo,Sweden,T-39,ITA,3–2,3
+WC-1950,Brazil v Switzerland,group stage,Estádio do Pacaembu,São Paulo,Brazil,T-72,CHE,2–2,2
+WC-1950,Yugoslavia v Mexico,group stage,Estádio dos Eucaliptos,Porto Alegre,Yugoslavia,T-44,MEX,4–1,4
+WC-1950,Spain v Chile,group stage,Estádio do Maracanã,Rio de Janeiro,Spain,T-13,CHL,2–0,2
+WC-1950,United States v England,group stage,Estádio Independência,Belo Horizonte,United States,T-27,ENG,1–0,1
+WC-1950,Sweden v Paraguay,group stage,Estádio Vila Capanema,Curitiba,Sweden,T-53,PRY,2–2,2
+WC-1950,Brazil v Yugoslavia,group stage,Estádio do Maracanã,Rio de Janeiro,Brazil,T-83,YUG,2–0,2
+WC-1950,Chile v United States,group stage,Estádio Ilha do Retiro,Recife,Chile,T-79,USA,5–2,5
+WC-1950,Spain v England,group stage,Estádio do Maracanã,Rio de Janeiro,Spain,T-27,ENG,1–0,1
+WC-1950,Italy v Paraguay,group stage,Estádio do Pacaembu,São Paulo,Italy,T-53,PRY,2–0,2
+WC-1950,Uruguay v Bolivia,group stage,Estádio Independência,Belo Horizonte,Uruguay,T-07,BOL,8–0,8
+WC-1950,Switzerland v Mexico,group stage,Estádio dos Eucaliptos,Porto Alegre,Switzerland,T-44,MEX,2–1,2
+WC-1950,Brazil v Sweden,final round,Estádio do Maracanã,Rio de Janeiro,Brazil,T-71,SWE,7–1,7
+WC-1950,Uruguay v Spain,final round,Estádio do Pacaembu,São Paulo,Uruguay,T-70,ESP,2–2,2
+WC-1950,Brazil v Spain,final round,Estádio do Maracanã,Rio de Janeiro,Brazil,T-70,ESP,6–1,6
+WC-1950,Uruguay v Sweden,final round,Estádio do Pacaembu,São Paulo,Uruguay,T-71,SWE,3–2,3
+WC-1950,Sweden v Spain,final round,Estádio do Pacaembu,São Paulo,Sweden,T-70,ESP,3–1,3
+WC-1950,Uruguay v Brazil,final round,Estádio do Maracanã,Rio de Janeiro,Uruguay,T-09,BRA,2–1,2
+WC-1954,Brazil v Mexico,group stage,Charmilles Stadium,Geneva,Brazil,T-44,MEX,5–0,5
+WC-1954,Yugoslavia v France,group stage,Stade Olympique de la Pontaise,Lausanne,Yugoslavia,T-28,FRA,1–0,1
+WC-1954,Austria v Scotland,group stage,Hardturm Stadium,Zürich,Austria,T-61,SCO,1–0,1
+WC-1954,Uruguay v Czechoslovakia,group stage,Wankdorf Stadium,Bern,Uruguay,T-20,CSK,2–0,2
+WC-1954,Switzerland v Italy,group stage,Stade Olympique de la Pontaise,Lausanne,Switzerland,T-39,ITA,2–1,2
+WC-1954,Hungary v South Korea,group stage,Hardturm Stadium,Zürich,Hungary,T-68,KOR,9–0,9
+WC-1954,West Germany v Turkey,group stage,Wankdorf Stadium,Bern,West Germany,T-76,TUR,4–1,4
+WC-1954,England v Belgium,group stage,St. Jakob Stadium,Basel,England,T-06,BEL,4–4,4
+WC-1954,Uruguay v Scotland,group stage,St. Jakob Stadium,Basel,Uruguay,T-61,SCO,7–0,7
+WC-1954,Brazil v Yugoslavia,group stage,Stade Olympique de la Pontaise,Lausanne,Brazil,T-83,YUG,1–1,1
+WC-1954,Austria v Czechoslovakia,group stage,Hardturm Stadium,Zürich,Austria,T-20,CSK,5–0,5
+WC-1954,France v Mexico,group stage,Charmilles Stadium,Geneva,France,T-44,MEX,3–2,3
+WC-1954,Hungary v West Germany,group stage,St. Jakob Stadium,Basel,Hungary,T-82,DEU,8–3,8
+WC-1954,Turkey v South Korea,group stage,Charmilles Stadium,Geneva,Turkey,T-68,KOR,7–0,7
+WC-1954,Italy v Belgium,group stage,Cornaredo Stadium,Lugano,Italy,T-06,BEL,4–1,4
+WC-1954,England v Switzerland,group stage,Wankdorf Stadium,Bern,England,T-72,CHE,2–0,2
+WC-1954,West Germany v Turkey,group stage,Hardturm Stadium,Zürich,West Germany,T-76,TUR,7–2,7
+WC-1954,Switzerland v Italy,group stage,St. Jakob Stadium,Basel,Switzerland,T-39,ITA,4–1,4
+WC-1954,Austria v Switzerland,quarter-finals,Stade Olympique de la Pontaise,Lausanne,Austria,T-72,CHE,7–5,7
+WC-1954,Uruguay v England,quarter-finals,St. Jakob Stadium,Basel,Uruguay,T-27,ENG,4–2,4
+WC-1954,Hungary v Brazil,quarter-finals,Wankdorf Stadium,Bern,Hungary,T-09,BRA,4–2,4
+WC-1954,West Germany v Yugoslavia,quarter-finals,Charmilles Stadium,Geneva,West Germany,T-83,YUG,2–0,2
+WC-1954,Hungary v Uruguay,semi-finals,Stade Olympique de la Pontaise,Lausanne,Hungary,T-80,URY,4–2,4
+WC-1954,West Germany v Austria,semi-finals,St. Jakob Stadium,Basel,West Germany,T-05,AUT,6–1,6
+WC-1954,Austria v Uruguay,third-place match,Hardturm Stadium,Zürich,Austria,T-80,URY,3–1,3
+WC-1954,West Germany v Hungary,final,Wankdorf Stadium,Bern,West Germany,T-34,HUN,3–2,3
+WC-1958,Sweden v Mexico,group stage,Råsunda Stadium,Solna,Sweden,T-44,MEX,3–0,3
+WC-1958,Argentina v West Germany,group stage,Malmö Stadion,Malmö,Argentina,T-82,DEU,1–3,1
+WC-1958,Northern Ireland v Czechoslovakia,group stage,Örjans Vall,Halmstad,Northern Ireland,T-20,CSK,1–0,1
+WC-1958,France v Paraguay,group stage,Idrottsparken,Norrköping,France,T-53,PRY,7–3,7
+WC-1958,Yugoslavia v Scotland,group stage,Arosvallen,Västerås,Yugoslavia,T-61,SCO,1–1,1
+WC-1958,Hungary v Wales,group stage,Jernvallen,Sandviken,Hungary,T-81,WAL,1–1,1
+WC-1958,Brazil v Austria,group stage,Rimnersvallen,Uddevalla,Brazil,T-05,AUT,3–0,3
+WC-1958,Soviet Union v England,group stage,Ullevi,Gothenburg,Soviet Union,T-27,ENG,2–2,2
+WC-1958,Argentina v Northern Ireland,group stage,Örjans Vall,Halmstad,Argentina,T-50,NIR,3–1,3
+WC-1958,West Germany v Czechoslovakia,group stage,Olympia,Helsingborg,West Germany,T-20,CSK,2–2,2
+WC-1958,Paraguay v Scotland,group stage,Idrottsparken,Norrköping,Paraguay,T-61,SCO,3–2,3
+WC-1958,Yugoslavia v France,group stage,Arosvallen,Västerås,Yugoslavia,T-28,FRA,3–2,3
+WC-1958,Mexico v Wales,group stage,Råsunda Stadium,Solna,Mexico,T-81,WAL,1–1,1
+WC-1958,Brazil v England,group stage,Ullevi,Gothenburg,Brazil,T-27,ENG,0–0,0
+WC-1958,Soviet Union v Austria,group stage,Ryavallen,Borås,Soviet Union,T-05,AUT,2–0,2
+WC-1958,Sweden v Hungary,group stage,Råsunda Stadium,Solna,Sweden,T-34,HUN,2–1,2
+WC-1958,Sweden v Wales,group stage,Råsunda Stadium,Solna,Sweden,T-81,WAL,0–0,0
+WC-1958,Czechoslovakia v Argentina,group stage,Olympia,Helsingborg,Czechoslovakia,T-03,ARG,6–1,6
+WC-1958,West Germany v Northern Ireland,group stage,Malmö Stadion,Malmö,West Germany,T-50,NIR,2–2,2
+WC-1958,France v Scotland,group stage,Eyravallen,Örebro,France,T-61,SCO,2–1,2
+WC-1958,Paraguay v Yugoslavia,group stage,Tunavallen,Eskilstuna,Paraguay,T-83,YUG,3–3,3
+WC-1958,Hungary v Mexico,group stage,Jernvallen,Sandviken,Hungary,T-44,MEX,4–0,4
+WC-1958,Brazil v Soviet Union,group stage,Ullevi,Gothenburg,Brazil,T-69,SUN,2–0,2
+WC-1958,England v Austria,group stage,Ryavallen,Borås,England,T-05,AUT,2–2,2
+WC-1958,Northern Ireland v Czechoslovakia,group stage,Malmö Stadion,Malmö,Northern Ireland,T-20,CSK,2–1,2
+WC-1958,Wales v Hungary,group stage,Råsunda Stadium,Solna,Wales,T-34,HUN,2–1,2
+WC-1958,Soviet Union v England,group stage,Ullevi,Gothenburg,Soviet Union,T-27,ENG,1–0,1
+WC-1958,Brazil v Wales,quarter-finals,Ullevi,Gothenburg,Brazil,T-81,WAL,1–0,1
+WC-1958,France v Northern Ireland,quarter-finals,Idrottsparken,Norrköping,France,T-50,NIR,4–0,4
+WC-1958,Sweden v Soviet Union,quarter-finals,Råsunda Stadium,Solna,Sweden,T-69,SUN,2–0,2
+WC-1958,West Germany v Yugoslavia,quarter-finals,Malmö Stadion,Malmö,West Germany,T-83,YUG,1–0,1
+WC-1958,Brazil v France,semi-finals,Råsunda Stadium,Solna,Brazil,T-28,FRA,5–2,5
+WC-1958,Sweden v West Germany,semi-finals,Ullevi,Gothenburg,Sweden,T-82,DEU,3–1,3
+WC-1958,France v West Germany,third-place match,Ullevi,Gothenburg,France,T-82,DEU,6–3,6
+WC-1958,Brazil v Sweden,final,Råsunda Stadium,Solna,Brazil,T-71,SWE,5–2,5
+WC-1962,Uruguay v Colombia,group stage,Estadio Carlos Dittborn,Arica,Uruguay,T-15,COL,2–1,2
+WC-1962,Chile v Switzerland,group stage,Estadio Nacional,Santiago,Chile,T-72,CHE,3–1,3
+WC-1962,Brazil v Mexico,group stage,Estadio Sausalito,Viña del Mar,Brazil,T-44,MEX,2–0,2
+WC-1962,Argentina v Bulgaria,group stage,Estadio El Teniente,Rancagua,Argentina,T-10,BGR,1–0,1
+WC-1962,Soviet Union v Yugoslavia,group stage,Estadio Carlos Dittborn,Arica,Soviet Union,T-83,YUG,2–0,2
+WC-1962,West Germany v Italy,group stage,Estadio Nacional,Santiago,West Germany,T-39,ITA,0–0,0
+WC-1962,Czechoslovakia v Spain,group stage,Estadio Sausalito,Viña del Mar,Czechoslovakia,T-70,ESP,1–0,1
+WC-1962,Hungary v England,group stage,Estadio El Teniente,Rancagua,Hungary,T-27,ENG,2–1,2
+WC-1962,Yugoslavia v Uruguay,group stage,Estadio Carlos Dittborn,Arica,Yugoslavia,T-80,URY,3–1,3
+WC-1962,Chile v Italy,group stage,Estadio Nacional,Santiago,Chile,T-39,ITA,2–0,2
+WC-1962,Brazil v Czechoslovakia,group stage,Estadio Sausalito,Viña del Mar,Brazil,T-20,CSK,0–0,0
+WC-1962,England v Argentina,group stage,Estadio El Teniente,Rancagua,England,T-03,ARG,3–1,3
+WC-1962,Soviet Union v Colombia,group stage,Estadio Carlos Dittborn,Arica,Soviet Union,T-15,COL,4–4,4
+WC-1962,West Germany v Switzerland,group stage,Estadio Nacional,Santiago,West Germany,T-72,CHE,2–1,2
+WC-1962,Spain v Mexico,group stage,Estadio Sausalito,Viña del Mar,Spain,T-44,MEX,1–0,1
+WC-1962,Hungary v Bulgaria,group stage,Estadio El Teniente,Rancagua,Hungary,T-10,BGR,6–1,6
+WC-1962,Soviet Union v Uruguay,group stage,Estadio Carlos Dittborn,Arica,Soviet Union,T-80,URY,2–1,2
+WC-1962,West Germany v Chile,group stage,Estadio Nacional,Santiago,West Germany,T-13,CHL,2–0,2
+WC-1962,Brazil v Spain,group stage,Estadio Sausalito,Viña del Mar,Brazil,T-70,ESP,2–1,2
+WC-1962,Hungary v Argentina,group stage,Estadio El Teniente,Rancagua,Hungary,T-03,ARG,0–0,0
+WC-1962,Yugoslavia v Colombia,group stage,Estadio Carlos Dittborn,Arica,Yugoslavia,T-15,COL,5–0,5
+WC-1962,Italy v Switzerland,group stage,Estadio Nacional,Santiago,Italy,T-72,CHE,3–0,3
+WC-1962,Mexico v Czechoslovakia,group stage,Estadio Sausalito,Viña del Mar,Mexico,T-20,CSK,3–1,3
+WC-1962,England v Bulgaria,group stage,Estadio El Teniente,Rancagua,England,T-10,BGR,0–0,0
+WC-1962,Brazil v England,quarter-finals,Estadio Sausalito,Viña del Mar,Brazil,T-27,ENG,3–1,3
+WC-1962,Chile v Soviet Union,quarter-finals,Estadio Carlos Dittborn,Arica,Chile,T-69,SUN,2–1,2
+WC-1962,Czechoslovakia v Hungary,quarter-finals,Estadio El Teniente,Rancagua,Czechoslovakia,T-34,HUN,1–0,1
+WC-1962,Yugoslavia v West Germany,quarter-finals,Estadio Nacional,Santiago,Yugoslavia,T-82,DEU,1–0,1
+WC-1962,Brazil v Chile,semi-finals,Estadio Nacional,Santiago,Brazil,T-13,CHL,4–2,4
+WC-1962,Czechoslovakia v Yugoslavia,semi-finals,Estadio Sausalito,Viña del Mar,Czechoslovakia,T-83,YUG,3–1,3
+WC-1962,Chile v Yugoslavia,third-place match,Estadio Nacional,Santiago,Chile,T-83,YUG,1–0,1
+WC-1962,Brazil v Czechoslovakia,final,Estadio Nacional,Santiago,Brazil,T-20,CSK,3–1,3
+WC-1966,England v Uruguay,group stage,Wembley Stadium,London,England,T-80,URY,0–0,0
+WC-1966,West Germany v Switzerland,group stage,Hillsborough Stadium,Sheffield,West Germany,T-72,CHE,5–0,5
+WC-1966,Brazil v Bulgaria,group stage,Goodison Park,Liverpool,Brazil,T-10,BGR,2–0,2
+WC-1966,Soviet Union v North Korea,group stage,Ayresome Park,Middlesbrough,Soviet Union,T-49,PRK,3–0,3
+WC-1966,France v Mexico,group stage,Wembley Stadium,London,France,T-44,MEX,1–1,1
+WC-1966,Argentina v Spain,group stage,Villa Park,Birmingham,Argentina,T-70,ESP,2–1,2
+WC-1966,Portugal v Hungary,group stage,Old Trafford,Manchester,Portugal,T-34,HUN,3–1,3
+WC-1966,Italy v Chile,group stage,Roker Park,Sunderland,Italy,T-13,CHL,2–0,2
+WC-1966,Uruguay v France,group stage,White City Stadium,London,Uruguay,T-28,FRA,2–1,2
+WC-1966,Spain v Switzerland,group stage,Hillsborough Stadium,Sheffield,Spain,T-72,CHE,2–1,2
+WC-1966,Hungary v Brazil,group stage,Goodison Park,Liverpool,Hungary,T-09,BRA,3–1,3
+WC-1966,Chile v North Korea,group stage,Ayresome Park,Middlesbrough,Chile,T-49,PRK,1–1,1
+WC-1966,Argentina v West Germany,group stage,Villa Park,Birmingham,Argentina,T-82,DEU,0–0,0
+WC-1966,Portugal v Bulgaria,group stage,Old Trafford,Manchester,Portugal,T-10,BGR,3–0,3
+WC-1966,Soviet Union v Italy,group stage,Roker Park,Sunderland,Soviet Union,T-39,ITA,1–0,1
+WC-1966,England v Mexico,group stage,Wembley Stadium,London,England,T-44,MEX,2–0,2
+WC-1966,Mexico v Uruguay,group stage,Wembley Stadium,London,Mexico,T-80,URY,0–0,0
+WC-1966,Argentina v Switzerland,group stage,Hillsborough Stadium,Sheffield,Argentina,T-72,CHE,2–0,2
+WC-1966,Portugal v Brazil,group stage,Goodison Park,Liverpool,Portugal,T-09,BRA,3–1,3
+WC-1966,North Korea v Italy,group stage,Ayresome Park,Middlesbrough,North Korea,T-39,ITA,1–0,1
+WC-1966,England v France,group stage,Wembley Stadium,London,England,T-28,FRA,2–0,2
+WC-1966,West Germany v Spain,group stage,Villa Park,Birmingham,West Germany,T-70,ESP,2–1,2
+WC-1966,Hungary v Bulgaria,group stage,Old Trafford,Manchester,Hungary,T-10,BGR,3–1,3
+WC-1966,Soviet Union v Chile,group stage,Roker Park,Sunderland,Soviet Union,T-13,CHL,2–1,2
+WC-1966,England v Argentina,quarter-finals,Wembley Stadium,London,England,T-03,ARG,1–0,1
+WC-1966,Portugal v North Korea,quarter-finals,Goodison Park,Liverpool,Portugal,T-49,PRK,5–3,5
+WC-1966,Soviet Union v Hungary,quarter-finals,Roker Park,Sunderland,Soviet Union,T-34,HUN,2–1,2
+WC-1966,West Germany v Uruguay,quarter-finals,Hillsborough Stadium,Sheffield,West Germany,T-80,URY,4–0,4
+WC-1966,West Germany v Soviet Union,semi-finals,Goodison Park,Liverpool,West Germany,T-69,SUN,2–1,2
+WC-1966,England v Portugal,semi-finals,Wembley Stadium,London,England,T-56,PRT,2–1,2
+WC-1966,Portugal v Soviet Union,third-place match,Wembley Stadium,London,Portugal,T-69,SUN,2–1,2
+WC-1966,England v West Germany,final,Wembley Stadium,London,England,T-82,DEU,4–2,4
+WC-1970,Mexico v Soviet Union,group stage,Estadio Azteca,Mexico City,Mexico,T-69,SUN,0–0,0
+WC-1970,Uruguay v Israel,group stage,Estadio Cuauhtémoc,Puebla,Uruguay,T-38,ISR,2–0,2
+WC-1970,England v Romania,group stage,Estadio Jalisco,Guadalajara,England,T-58,ROU,1–0,1
+WC-1970,Peru v Bulgaria,group stage,Estadio Nou Camp,León,Peru,T-10,BGR,3–2,3
+WC-1970,Belgium v El Salvador,group stage,Estadio Azteca,Mexico City,Belgium,T-26,SLV,3–0,3
+WC-1970,Italy v Sweden,group stage,La Bombonera,Toluca,Italy,T-71,SWE,1–0,1
+WC-1970,Brazil v Czechoslovakia,group stage,Estadio Jalisco,Guadalajara,Brazil,T-20,CSK,4–1,4
+WC-1970,West Germany v Morocco,group stage,Estadio Nou Camp,León,West Germany,T-45,MAR,2–1,2
+WC-1970,Soviet Union v Belgium,group stage,Estadio Azteca,Mexico City,Soviet Union,T-06,BEL,4–1,4
+WC-1970,Uruguay v Italy,group stage,Estadio Cuauhtémoc,Puebla,Uruguay,T-39,ITA,0–0,0
+WC-1970,Romania v Czechoslovakia,group stage,Estadio Jalisco,Guadalajara,Romania,T-20,CSK,2–1,2
+WC-1970,Peru v Morocco,group stage,Estadio Nou Camp,León,Peru,T-45,MAR,3–0,3
+WC-1970,Mexico v El Salvador,group stage,Estadio Azteca,Mexico City,Mexico,T-26,SLV,4–0,4
+WC-1970,Sweden v Israel,group stage,La Bombonera,Toluca,Sweden,T-38,ISR,1–1,1
+WC-1970,Brazil v England,group stage,Estadio Jalisco,Guadalajara,Brazil,T-27,ENG,1–0,1
+WC-1970,West Germany v Bulgaria,group stage,Estadio Nou Camp,León,West Germany,T-10,BGR,5–2,5
+WC-1970,Soviet Union v El Salvador,group stage,Estadio Azteca,Mexico City,Soviet Union,T-26,SLV,2–0,2
+WC-1970,Sweden v Uruguay,group stage,Estadio Cuauhtémoc,Puebla,Sweden,T-80,URY,1-0,1
+WC-1970,Brazil v Romania,group stage,Estadio Jalisco,Guadalajara,Brazil,T-58,ROU,3–2,3
+WC-1970,West Germany v Peru,group stage,Estadio Nou Camp,León,West Germany,T-54,PER,3–1,3
+WC-1970,Mexico v Belgium,group stage,Estadio Azteca,Mexico City,Mexico,T-06,BEL,1–0,1
+WC-1970,Italy v Israel,group stage,La Bombonera,Toluca,Italy,T-38,ISR,0–0,0
+WC-1970,England v Czechoslovakia,group stage,Estadio Jalisco,Guadalajara,England,T-20,CSK,1–0,1
+WC-1970,Bulgaria v Morocco,group stage,Estadio Nou Camp,León,Bulgaria,T-45,MAR,1–1,1
+WC-1970,Brazil v Peru,quarter-finals,Estadio Jalisco,Guadalajara,Brazil,T-54,PER,4–2,4
+WC-1970,Italy v Mexico,quarter-finals,La Bombonera,Toluca,Italy,T-44,MEX,4–1,4
+WC-1970,Soviet Union v Uruguay,quarter-finals,Estadio Azteca,Mexico City,Soviet Union,T-80,URY,0–1,0
+WC-1970,West Germany v England,quarter-finals,Estadio Nou Camp,León,West Germany,T-27,ENG,3–2,3
+WC-1970,Brazil v Uruguay,semi-finals,Estadio Jalisco,Guadalajara,Brazil,T-80,URY,3–1,3
+WC-1970,Italy v West Germany,semi-finals,Estadio Azteca,Mexico City,Italy,T-82,DEU,4–3,4
+WC-1970,West Germany v Uruguay,third-place match,Estadio Azteca,Mexico City,West Germany,T-80,URY,1–0,1
+WC-1970,Brazil v Italy,final,Estadio Azteca,Mexico City,Brazil,T-39,ITA,4–1,4
+WC-1974,Brazil v Yugoslavia,group stage,Waldstadion,Frankfurt,Brazil,T-83,YUG,0–0,0
+WC-1974,West Germany v Chile,group stage,Olympiastadion,Berlin,West Germany,T-13,CHL,1–0,1
+WC-1974,East Germany v Australia,group stage,Volksparkstadion,Hamburg,East Germany,T-04,AUS,2–0,2
+WC-1974,Zaire v Scotland,group stage,Westfalenstadion,Dortmund,Zaire,T-61,SCO,0–2,0
+WC-1974,Sweden v Bulgaria,group stage,Rheinstadion,Düsseldorf,Sweden,T-10,BGR,0–0,0
+WC-1974,Uruguay v Netherlands,group stage,Niedersachsenstadion,Hanover,Uruguay,T-46,NLD,0–2,0
+WC-1974,Italy v Haiti,group stage,Olympiastadion,Munich,Italy,T-32,HTI,3–1,3
+WC-1974,Poland v Argentina,group stage,Neckarstadion,Stuttgart,Poland,T-03,ARG,3–2,3
+WC-1974,Australia v West Germany,group stage,Volksparkstadion,Hamburg,Australia,T-82,DEU,0–3,0
+WC-1974,Chile v East Germany,group stage,Olympiastadion,Berlin,Chile,T-23,DDR,1–1,1
+WC-1974,Scotland v Brazil,group stage,Waldstadion,Frankfurt,Scotland,T-09,BRA,0–0,0
+WC-1974,Yugoslavia v Zaire,group stage,Parkstadion,Gelsenkirchen,Yugoslavia,T-84,COD,9–0,9
+WC-1974,Bulgaria v Uruguay,group stage,Niedersachsenstadion,Hanover,Bulgaria,T-80,URY,1–1,1
+WC-1974,Netherlands v Sweden,group stage,Westfalenstadion,Dortmund,Netherlands,T-71,SWE,0–0,0
+WC-1974,Argentina v Italy,group stage,Neckarstadion,Stuttgart,Argentina,T-39,ITA,1–1,1
+WC-1974,Haiti v Poland,group stage,Olympiastadion,Munich,Haiti,T-55,POL,0–7,0
+WC-1974,Australia v Chile,group stage,Olympiastadion,Berlin,Australia,T-13,CHL,0–0,0
+WC-1974,Scotland v Yugoslavia,group stage,Waldstadion,Frankfurt,Scotland,T-83,YUG,1–1,1
+WC-1974,Zaire v Brazil,group stage,Parkstadion,Gelsenkirchen,Zaire,T-09,BRA,0–3,0
+WC-1974,East Germany v West Germany,group stage,Volksparkstadion,Hamburg,East Germany,T-82,DEU,1–0,1
+WC-1974,Bulgaria v Netherlands,group stage,Westfalenstadion,Dortmund,Bulgaria,T-46,NLD,1–4,1
+WC-1974,Sweden v Uruguay,group stage,Rheinstadion,Düsseldorf,Sweden,T-80,URY,3–0,3
+WC-1974,Argentina v Haiti,group stage,Olympiastadion,Munich,Argentina,T-32,HTI,4–1,4
+WC-1974,Poland v Italy,group stage,Neckarstadion,Stuttgart,Poland,T-39,ITA,2–1,2
+WC-1974,Yugoslavia v West Germany,second group stage,Rheinstadion,Düsseldorf,Yugoslavia,T-82,DEU,0–2,0
+WC-1974,Brazil v East Germany,second group stage,Niedersachsenstadion,Hanover,Brazil,T-23,DDR,1–0,1
+WC-1974,Netherlands v Argentina,second group stage,Parkstadion,Gelsenkirchen,Netherlands,T-03,ARG,4–0,4
+WC-1974,Sweden v Poland,second group stage,Neckarstadion,Stuttgart,Sweden,T-55,POL,0–1,0
+WC-1974,Argentina v Brazil,second group stage,Niedersachsenstadion,Hanover,Argentina,T-09,BRA,1–2,1
+WC-1974,East Germany v Netherlands,second group stage,Parkstadion,Gelsenkirchen,East Germany,T-46,NLD,0–2,0
+WC-1974,Poland v Yugoslavia,second group stage,Waldstadion,Frankfurt,Poland,T-83,YUG,2–1,2
+WC-1974,West Germany v Sweden,second group stage,Rheinstadion,Düsseldorf,West Germany,T-71,SWE,4–2,4
+WC-1974,Poland v West Germany,second group stage,Waldstadion,Frankfurt,Poland,T-82,DEU,0–1,0
+WC-1974,Argentina v East Germany,second group stage,Parkstadion,Gelsenkirchen,Argentina,T-23,DDR,1–1,1
+WC-1974,Netherlands v Brazil,second group stage,Westfalenstadion,Dortmund,Netherlands,T-09,BRA,2–0,2
+WC-1974,Sweden v Yugoslavia,second group stage,Rheinstadion,Düsseldorf,Sweden,T-83,YUG,2–1,2
+WC-1974,Brazil v Poland,third-place match,Olympiastadion,Munich,Brazil,T-55,POL,0–1,0
+WC-1974,Netherlands v West Germany,final,Olympiastadion,Munich,Netherlands,T-82,DEU,1–2,1
+WC-1978,West Germany v Poland,group stage,Estadio Monumental,Buenos Aires,West Germany,T-55,POL,0–0,0
+WC-1978,Italy v France,group stage,Estadio José María Minella,Mar del Plata,Italy,T-28,FRA,2–1,2
+WC-1978,Tunisia v Mexico,group stage,Estadio Gigante de Arroyito,Rosario,Tunisia,T-44,MEX,3–1,3
+WC-1978,Argentina v Hungary,group stage,Estadio Monumental,Buenos Aires,Argentina,T-34,HUN,2–1,2
+WC-1978,Austria v Spain,group stage,Estadio José Amalfitani,Buenos Aires,Austria,T-70,ESP,2–1,2
+WC-1978,Brazil v Sweden,group stage,Estadio José María Minella,Mar del Plata,Brazil,T-71,SWE,1–1,1
+WC-1978,Netherlands v Iran,group stage,Estadio Ciudad de Mendoza,Mendoza,Netherlands,T-36,IRN,3–0,3
+WC-1978,Peru v Scotland,group stage,Estadio Chateau Carreras,Córdoba,Peru,T-61,SCO,3–1,3
+WC-1978,Italy v Hungary,group stage,Estadio José María Minella,Mar del Plata,Italy,T-34,HUN,3–1,3
+WC-1978,Poland v Tunisia,group stage,Estadio Gigante de Arroyito,Rosario,Poland,T-75,TUN,1–0,1
+WC-1978,West Germany v Mexico,group stage,Estadio Chateau Carreras,Córdoba,West Germany,T-44,MEX,6–0,6
+WC-1978,Argentina v France,group stage,Estadio Monumental,Buenos Aires,Argentina,T-28,FRA,2–1,2
+WC-1978,Austria v Sweden,group stage,Estadio José Amalfitani,Buenos Aires,Austria,T-71,SWE,1–0,1
+WC-1978,Brazil v Spain,group stage,Estadio José María Minella,Mar del Plata,Brazil,T-70,ESP,0–0,0
+WC-1978,Netherlands v Peru,group stage,Estadio Ciudad de Mendoza,Mendoza,Netherlands,T-54,PER,0–0,0
+WC-1978,Scotland v Iran,group stage,Estadio Chateau Carreras,Córdoba,Scotland,T-36,IRN,1–1,1
+WC-1978,France v Hungary,group stage,Estadio José María Minella,Mar del Plata,France,T-34,HUN,3–1,3
+WC-1978,Poland v Mexico,group stage,Estadio Gigante de Arroyito,Rosario,Poland,T-44,MEX,3–1,3
+WC-1978,West Germany v Tunisia,group stage,Estadio Chateau Carreras,Córdoba,West Germany,T-75,TUN,0–0,0
+WC-1978,Argentina v Italy,group stage,Estadio Monumental,Buenos Aires,Argentina,T-39,ITA,0–1,0
+WC-1978,Brazil v Austria,group stage,Estadio José María Minella,Mar del Plata,Brazil,T-05,AUT,1–0,1
+WC-1978,Spain v Sweden,group stage,Estadio José Amalfitani,Buenos Aires,Spain,T-71,SWE,1–0,1
+WC-1978,Peru v Iran,group stage,Estadio Chateau Carreras,Córdoba,Peru,T-36,IRN,4–1,4
+WC-1978,Scotland v Netherlands,group stage,Estadio Ciudad de Mendoza,Mendoza,Scotland,T-46,NLD,3–2,3
+WC-1978,Austria v Netherlands,second group stage,Estadio Chateau Carreras,Córdoba,Austria,T-46,NLD,1–5,1
+WC-1978,Italy v West Germany,second group stage,Estadio Monumental,Buenos Aires,Italy,T-82,DEU,0–0,0
+WC-1978,Brazil v Peru,second group stage,Estadio Ciudad de Mendoza,Mendoza,Brazil,T-54,PER,3–0,3
+WC-1978,Argentina v Poland,second group stage,Estadio Gigante de Arroyito,Rosario,Argentina,T-55,POL,2–0,2
+WC-1978,Peru v Poland,second group stage,Estadio Ciudad de Mendoza,Mendoza,Peru,T-55,POL,0–1,0
+WC-1978,Italy v Austria,second group stage,Estadio Monumental,Buenos Aires,Italy,T-05,AUT,1–0,1
+WC-1978,Netherlands v West Germany,second group stage,Estadio Chateau Carreras,Córdoba,Netherlands,T-82,DEU,2–2,2
+WC-1978,Argentina v Brazil,second group stage,Estadio Gigante de Arroyito,Rosario,Argentina,T-09,BRA,0–0,0
+WC-1978,Austria v West Germany,second group stage,Estadio Chateau Carreras,Córdoba,Austria,T-82,DEU,3–2,3
+WC-1978,Italy v Netherlands,second group stage,Estadio Monumental,Buenos Aires,Italy,T-46,NLD,1–2,1
+WC-1978,Brazil v Poland,second group stage,Estadio Ciudad de Mendoza,Mendoza,Brazil,T-55,POL,3–1,3
+WC-1978,Argentina v Peru,second group stage,Estadio Gigante de Arroyito,Rosario,Argentina,T-54,PER,6–0,6
+WC-1978,Brazil v Italy,third-place match,Estadio Monumental,Buenos Aires,Brazil,T-39,ITA,2–1,2
+WC-1978,Argentina v Netherlands,final,Estadio Monumental,Buenos Aires,Argentina,T-46,NLD,3–1,3
+WC-1982,Argentina v Belgium,group stage,Camp Nou,Barcelona,Argentina,T-06,BEL,0–1,0
+WC-1982,Italy v Poland,group stage,Balaídos,Vigo,Italy,T-55,POL,0–0,0
+WC-1982,Brazil v Soviet Union,group stage,Estadio Ramón Sánchez Pizjuán,Seville,Brazil,T-69,SUN,2–1,2
+WC-1982,Peru v Cameroon,group stage,Estadio Riazor,A Coruña,Peru,T-11,CMR,0–0,0
+WC-1982,Hungary v El Salvador,group stage,Nuevo Estadio,Elche,Hungary,T-26,SLV,10–1,10
+WC-1982,Scotland v New Zealand,group stage,Estadio La Rosaleda,Málaga,Scotland,T-47,NZL,5–2,5
+WC-1982,West Germany v Algeria,group stage,Estadio El Molinón,Gijón,West Germany,T-01,DZA,1–2,1
+WC-1982,England v France,group stage,Estadio San Mamés,Bilbao,England,T-28,FRA,3–1,3
+WC-1982,Spain v Honduras,group stage,Estadio Luis Casanova,Valencia,Spain,T-33,HND,1–1,1
+WC-1982,Chile v Austria,group stage,Estadio Carlos Tartiere,Oviedo,Chile,T-05,AUT,0–1,0
+WC-1982,Czechoslovakia v Kuwait,group stage,Estadio José Zorrilla,Valladolid,Czechoslovakia,T-43,KWT,1–1,1
+WC-1982,Yugoslavia v Northern Ireland,group stage,Estadio La Romareda,Zaragoza,Yugoslavia,T-50,NIR,0–0,0
+WC-1982,Italy v Peru,group stage,Balaídos,Vigo,Italy,T-54,PER,1–1,1
+WC-1982,Argentina v Hungary,group stage,Estadio José Rico Pérez,Alicante,Argentina,T-34,HUN,4–1,4
+WC-1982,Brazil v Scotland,group stage,Estadio Benito Villamarín,Seville,Brazil,T-61,SCO,4–1,4
+WC-1982,Poland v Cameroon,group stage,Estadio Riazor,A Coruña,Poland,T-11,CMR,0–0,0
+WC-1982,Belgium v El Salvador,group stage,Nuevo Estadio,Elche,Belgium,T-26,SLV,1–0,1
+WC-1982,Soviet Union v New Zealand,group stage,Estadio La Rosaleda,Málaga,Soviet Union,T-47,NZL,3–0,3
+WC-1982,West Germany v Chile,group stage,Estadio El Molinón,Gijón,West Germany,T-13,CHL,4–1,4
+WC-1982,England v Czechoslovakia,group stage,Estadio San Mamés,Bilbao,England,T-20,CSK,2–0,2
+WC-1982,Spain v Yugoslavia,group stage,Estadio Luis Casanova,Valencia,Spain,T-83,YUG,2–1,2
+WC-1982,Algeria v Austria,group stage,Estadio Carlos Tartiere,Oviedo,Algeria,T-05,AUT,0–2,0
+WC-1982,France v Kuwait,group stage,Estadio José Zorrilla,Valladolid,France,T-43,KWT,4–1,4
+WC-1982,Honduras v Northern Ireland,group stage,Estadio La Romareda,Zaragoza,Honduras,T-50,NIR,1–1,1
+WC-1982,Poland v Peru,group stage,Estadio Riazor,A Coruña,Poland,T-54,PER,5–1,5
+WC-1982,Belgium v Hungary,group stage,Nuevo Estadio,Elche,Belgium,T-34,HUN,1–1,1
+WC-1982,Soviet Union v Scotland,group stage,Estadio La Rosaleda,Málaga,Soviet Union,T-61,SCO,2–2,2
+WC-1982,Italy v Cameroon,group stage,Balaídos,Vigo,Italy,T-11,CMR,1–1,1
+WC-1982,Argentina v El Salvador,group stage,Estadio José Rico Pérez,Alicante,Argentina,T-26,SLV,2–0,2
+WC-1982,Brazil v New Zealand,group stage,Estadio Benito Villamarín,Seville,Brazil,T-47,NZL,4–0,4
+WC-1982,Algeria v Chile,group stage,Estadio Carlos Tartiere,Oviedo,Algeria,T-13,CHL,3–2,3
+WC-1982,France v Czechoslovakia,group stage,Estadio José Zorrilla,Valladolid,France,T-20,CSK,1–1,1
+WC-1982,Honduras v Yugoslavia,group stage,Estadio La Romareda,Zaragoza,Honduras,T-83,YUG,0–1,0
+WC-1982,West Germany v Austria,group stage,Estadio El Molinón,Gijón,West Germany,T-05,AUT,1–0,1
+WC-1982,England v Kuwait,group stage,Estadio San Mamés,Bilbao,England,T-43,KWT,1–0,1
+WC-1982,Spain v Northern Ireland,group stage,Estadio Luis Casanova,Valencia,Spain,T-50,NIR,0–1,0
+WC-1982,Austria v France,second group stage,Vicente Calderón,Madrid,Austria,T-28,FRA,0–1,0
+WC-1982,Poland v Belgium,second group stage,Camp Nou,Barcelona,Poland,T-06,BEL,3–0,3
+WC-1982,Italy v Argentina,second group stage,Estadi de Sarrià,Barcelona,Italy,T-03,ARG,2–1,2
+WC-1982,West Germany v England,second group stage,Estadio Santiago Bernabéu,Madrid,West Germany,T-27,ENG,0–0,0
+WC-1982,Austria v Northern Ireland,second group stage,Vicente Calderón,Madrid,Austria,T-50,NIR,2–2,2
+WC-1982,Belgium v Soviet Union,second group stage,Camp Nou,Barcelona,Belgium,T-69,SUN,0–1,0
+WC-1982,Argentina v Brazil,second group stage,Estadi de Sarrià,Barcelona,Argentina,T-09,BRA,1–3,1
+WC-1982,West Germany v Spain,second group stage,Estadio Santiago Bernabéu,Madrid,West Germany,T-70,ESP,2–1,2
+WC-1982,France v Northern Ireland,second group stage,Vicente Calderón,Madrid,France,T-50,NIR,4–1,4
+WC-1982,Soviet Union v Poland,second group stage,Camp Nou,Barcelona,Soviet Union,T-55,POL,0–0,0
+WC-1982,Italy v Brazil,second group stage,Estadi de Sarrià,Barcelona,Italy,T-09,BRA,3–2,3
+WC-1982,Spain v England,second group stage,Estadio Santiago Bernabéu,Madrid,Spain,T-27,ENG,0–0,0
+WC-1982,Poland v Italy,semi-finals,Camp Nou,Barcelona,Poland,T-39,ITA,0–2,0
+WC-1982,West Germany v France,semi-finals,Estadio Ramón Sánchez Pizjuán,Seville,West Germany,T-28,FRA,3–3,3
+WC-1982,Poland v France,third-place match,Estadio José Rico Pérez,Alicante,Poland,T-28,FRA,3–2,3
+WC-1982,Italy v West Germany,final,Estadio Santiago Bernabéu,Madrid,Italy,T-82,DEU,3–1,3
+WC-1986,Bulgaria v Italy,group stage,Estadio Azteca,Mexico City,Bulgaria,T-39,ITA,1–1,1
+WC-1986,Spain v Brazil,group stage,Estadio Jalisco,Guadalajara,Spain,T-09,BRA,0–1,0
+WC-1986,Canada v France,group stage,Estadio Nou Camp,León,Canada,T-28,FRA,0–1,0
+WC-1986,Argentina v South Korea,group stage,Estadio Olímpico Universitario,Mexico City,Argentina,T-68,KOR,3–1,3
+WC-1986,Soviet Union v Hungary,group stage,Estadio Sergio León Chavez,Irapuato,Soviet Union,T-34,HUN,6–0,6
+WC-1986,Morocco v Poland,group stage,Estadio Universitario,Monterrey,Morocco,T-55,POL,0–0,0
+WC-1986,Belgium v Mexico,group stage,Estadio Azteca,Mexico City,Belgium,T-44,MEX,1–2,1
+WC-1986,Algeria v Northern Ireland,group stage,Estadio Tres de Marzo,Guadalajara,Algeria,T-50,NIR,1–1,1
+WC-1986,Portugal v England,group stage,Estadio Tecnológico,Monterrey,Portugal,T-27,ENG,1–0,1
+WC-1986,Paraguay v Iraq,group stage,La Bombonera,Toluca,Paraguay,T-37,IRQ,1–0,1
+WC-1986,Uruguay v West Germany,group stage,Estadio La Corregidora,Querétaro,Uruguay,T-82,DEU,1–1,1
+WC-1986,Scotland v Denmark,group stage,Estadio Neza 86,Nezahualcóyotl,Scotland,T-21,DNK,0–1,0
+WC-1986,Italy v Argentina,group stage,Estadio Cuauhtémoc,Puebla,Italy,T-03,ARG,1–1,1
+WC-1986,France v Soviet Union,group stage,Estadio Nou Camp,León,France,T-69,SUN,1–1,1
+WC-1986,South Korea v Bulgaria,group stage,Estadio Olímpico Universitario,Mexico City,South Korea,T-10,BGR,1–1,1
+WC-1986,Hungary v Canada,group stage,Estadio Sergio León Chavez,Irapuato,Hungary,T-12,CAN,2–0,2
+WC-1986,Brazil v Algeria,group stage,Estadio Jalisco,Guadalajara,Brazil,T-01,DZA,1–0,1
+WC-1986,England v Morocco,group stage,Estadio Tecnológico,Monterrey,England,T-45,MAR,0–0,0
+WC-1986,Mexico v Paraguay,group stage,Estadio Azteca,Mexico City,Mexico,T-53,PRY,1–1,1
+WC-1986,Northern Ireland v Spain,group stage,Estadio Tres de Marzo,Guadalajara,Northern Ireland,T-70,ESP,1–2,1
+WC-1986,Poland v Portugal,group stage,Estadio Universitario,Monterrey,Poland,T-56,PRT,1–0,1
+WC-1986,Iraq v Belgium,group stage,La Bombonera,Toluca,Iraq,T-06,BEL,1–2,1
+WC-1986,West Germany v Scotland,group stage,Estadio La Corregidora,Querétaro,West Germany,T-61,SCO,2–1,2
+WC-1986,Denmark v Uruguay,group stage,Estadio Neza 86,Nezahualcóyotl,Denmark,T-80,URY,6–1,6
+WC-1986,Hungary v France,group stage,Estadio Nou Camp,León,Hungary,T-28,FRA,0–3,0
+WC-1986,Soviet Union v Canada,group stage,Estadio Sergio León Chavez,Irapuato,Soviet Union,T-12,CAN,2–0,2
+WC-1986,Argentina v Bulgaria,group stage,Estadio Olímpico Universitario,Mexico City,Argentina,T-10,BGR,2–0,2
+WC-1986,South Korea v Italy,group stage,Estadio Cuauhtémoc,Puebla,South Korea,T-39,ITA,2–3,2
+WC-1986,Iraq v Mexico,group stage,Estadio Azteca,Mexico City,Iraq,T-44,MEX,0–1,0
+WC-1986,Paraguay v Belgium,group stage,La Bombonera,Toluca,Paraguay,T-06,BEL,2–2,2
+WC-1986,England v Poland,group stage,Estadio Universitario,Monterrey,England,T-55,POL,3–0,3
+WC-1986,Portugal v Morocco,group stage,Estadio Tres de Marzo,Guadalajara,Portugal,T-45,MAR,1–3,1
+WC-1986,Algeria v Spain,group stage,Estadio Tecnológico,Monterrey,Algeria,T-70,ESP,0–3,0
+WC-1986,Northern Ireland v Brazil,group stage,Estadio Jalisco,Guadalajara,Northern Ireland,T-09,BRA,0–3,0
+WC-1986,Denmark v West Germany,group stage,Estadio La Corregidora,Querétaro,Denmark,T-82,DEU,2–0,2
+WC-1986,Scotland v Uruguay,group stage,Estadio Neza 86,Nezahualcóyotl,Scotland,T-80,URY,0–0,0
+WC-1986,Mexico v Bulgaria,round of 16,Estadio Azteca,Mexico City,Mexico,T-10,BGR,2–0,2
+WC-1986,Soviet Union v Belgium,round of 16,Estadio Nou Camp,León,Soviet Union,T-06,BEL,3–4,3
+WC-1986,Brazil v Poland,round of 16,Estadio Jalisco,Guadalajara,Brazil,T-55,POL,4–0,4
+WC-1986,Argentina v Uruguay,round of 16,Estadio Cuauhtémoc,Puebla,Argentina,T-80,URY,1–0,1
+WC-1986,Italy v France,round of 16,Estadio Olímpico Universitario,Mexico City,Italy,T-28,FRA,0–2,0
+WC-1986,Morocco v West Germany,round of 16,Estadio Universitario,Monterrey,Morocco,T-82,DEU,0–1,0
+WC-1986,England v Paraguay,round of 16,Estadio Azteca,Mexico City,England,T-53,PRY,3–0,3
+WC-1986,Denmark v Spain,round of 16,Estadio La Corregidora,Querétaro,Denmark,T-70,ESP,1–5,1
+WC-1986,Brazil v France,quarter-finals,Estadio Jalisco,Guadalajara,Brazil,T-28,FRA,1–1,1
+WC-1986,West Germany v Mexico,quarter-finals,Estadio Universitario,Monterrey,West Germany,T-44,MEX,0–0,0
+WC-1986,Argentina v England,quarter-finals,Estadio Azteca,Mexico City,Argentina,T-27,ENG,2–1,2
+WC-1986,Spain v Belgium,quarter-finals,Estadio Cuauhtémoc,Puebla,Spain,T-06,BEL,1–1,1
+WC-1986,France v West Germany,semi-finals,Estadio Jalisco,Guadalajara,France,T-82,DEU,0–2,0
+WC-1986,Argentina v Belgium,semi-finals,Estadio Azteca,Mexico City,Argentina,T-06,BEL,2–0,2
+WC-1986,Belgium v France,third-place match,Estadio Cuauhtémoc,Puebla,Belgium,T-28,FRA,2–4,2
+WC-1986,Argentina v West Germany,final,Estadio Azteca,Mexico City,Argentina,T-82,DEU,3–2,3
+WC-1990,Argentina v Cameroon,group stage,San Siro,Milan,Argentina,T-11,CMR,0–1,0
+WC-1990,Soviet Union v Romania,group stage,Stadio San Nicola,Bari,Soviet Union,T-58,ROU,0–2,0
+WC-1990,United Arab Emirates v Colombia,group stage,Stadio Renato Dall'Ara,Bologna,United Arab Emirates,T-15,COL,0–2,0
+WC-1990,Italy v Austria,group stage,Stadio Olimpico,Rome,Italy,T-05,AUT,1–0,1
+WC-1990,United States v Czechoslovakia,group stage,Stadio Comunale,Florence,United States,T-20,CSK,1–5,1
+WC-1990,Brazil v Sweden,group stage,Stadio delle Alpi,Turin,Brazil,T-71,SWE,2–1,2
+WC-1990,West Germany v Yugoslavia,group stage,San Siro,Milan,West Germany,T-83,YUG,4–1,4
+WC-1990,Costa Rica v Scotland,group stage,Stadio Luigi Ferraris,Genoa,Costa Rica,T-61,SCO,1–0,1
+WC-1990,England v Republic of Ireland,group stage,Stadio Sant'Elia,Cagliari,England,T-57,IRL,1–1,1
+WC-1990,Belgium v South Korea,group stage,Stadio Marc'Antonio Bentegodi,Verona,Belgium,T-68,KOR,2–0,2
+WC-1990,Netherlands v Egypt,group stage,Stadio La Favorita,Palermo,Netherlands,T-25,EGY,1–1,1
+WC-1990,Uruguay v Spain,group stage,Stadio Friuli,Udine,Uruguay,T-70,ESP,0–0,0
+WC-1990,Argentina v Soviet Union,group stage,Stadio San Paolo,Naples,Argentina,T-69,SUN,2–0,2
+WC-1990,Cameroon v Romania,group stage,Stadio San Nicola,Bari,Cameroon,T-58,ROU,2–1,2
+WC-1990,Yugoslavia v Colombia,group stage,Stadio Renato Dall'Ara,Bologna,Yugoslavia,T-15,COL,1–0,1
+WC-1990,Italy v United States,group stage,Stadio Olimpico,Rome,Italy,T-79,USA,1–0,1
+WC-1990,Austria v Czechoslovakia,group stage,Stadio Comunale,Florence,Austria,T-20,CSK,0–1,0
+WC-1990,West Germany v United Arab Emirates,group stage,San Siro,Milan,West Germany,T-78,ARE,5–1,5
+WC-1990,Brazil v Costa Rica,group stage,Stadio delle Alpi,Turin,Brazil,T-16,CRI,1–0,1
+WC-1990,Sweden v Scotland,group stage,Stadio Luigi Ferraris,Genoa,Sweden,T-61,SCO,1–2,1
+WC-1990,England v Netherlands,group stage,Stadio Sant'Elia,Cagliari,England,T-46,NLD,0–0,0
+WC-1990,Republic of Ireland v Egypt,group stage,Stadio La Favorita,Palermo,Republic of Ireland,T-25,EGY,0–0,0
+WC-1990,Belgium v Uruguay,group stage,Stadio Marc'Antonio Bentegodi,Verona,Belgium,T-80,URY,3–1,3
+WC-1990,South Korea v Spain,group stage,Stadio Friuli,Udine,South Korea,T-70,ESP,1–3,1
+WC-1990,Argentina v Romania,group stage,Stadio San Paolo,Naples,Argentina,T-58,ROU,1–1,1
+WC-1990,Cameroon v Soviet Union,group stage,Stadio San Nicola,Bari,Cameroon,T-69,SUN,0–4,0
+WC-1990,West Germany v Colombia,group stage,San Siro,Milan,West Germany,T-15,COL,1–1,1
+WC-1990,Yugoslavia v United Arab Emirates,group stage,Stadio Renato Dall'Ara,Bologna,Yugoslavia,T-78,ARE,4–1,4
+WC-1990,Austria v United States,group stage,Stadio Comunale,Florence,Austria,T-79,USA,2–1,2
+WC-1990,Italy v Czechoslovakia,group stage,Stadio Olimpico,Rome,Italy,T-20,CSK,2–0,2
+WC-1990,Brazil v Scotland,group stage,Stadio delle Alpi,Turin,Brazil,T-61,SCO,1–0,1
+WC-1990,Sweden v Costa Rica,group stage,Stadio Luigi Ferraris,Genoa,Sweden,T-16,CRI,1–2,1
+WC-1990,Belgium v Spain,group stage,Stadio Marc'Antonio Bentegodi,Verona,Belgium,T-70,ESP,1–2,1
+WC-1990,South Korea v Uruguay,group stage,Stadio Friuli,Udine,South Korea,T-80,URY,0–1,0
+WC-1990,England v Egypt,group stage,Stadio Sant'Elia,Cagliari,England,T-25,EGY,1–0,1
+WC-1990,Republic of Ireland v Netherlands,group stage,Stadio La Favorita,Palermo,Republic of Ireland,T-46,NLD,1–1,1
+WC-1990,Cameroon v Colombia,round of 16,Stadio San Paolo,Naples,Cameroon,T-15,COL,2–1,2
+WC-1990,Czechoslovakia v Costa Rica,round of 16,Stadio San Nicola,Bari,Czechoslovakia,T-16,CRI,4–1,4
+WC-1990,Brazil v Argentina,round of 16,Stadio delle Alpi,Turin,Brazil,T-03,ARG,0–1,0
+WC-1990,West Germany v Netherlands,round of 16,San Siro,Milan,West Germany,T-46,NLD,2–1,2
+WC-1990,Republic of Ireland v Romania,round of 16,Stadio Luigi Ferraris,Genoa,Republic of Ireland,T-58,ROU,0–0,0
+WC-1990,Italy v Uruguay,round of 16,Stadio Olimpico,Rome,Italy,T-80,URY,2–0,2
+WC-1990,Spain v Yugoslavia,round of 16,Stadio Marc'Antonio Bentegodi,Verona,Spain,T-83,YUG,1–2,1
+WC-1990,England v Belgium,round of 16,Stadio Renato Dall'Ara,Bologna,England,T-06,BEL,1–0,1
+WC-1990,Argentina v Yugoslavia,quarter-finals,Stadio Comunale,Florence,Argentina,T-83,YUG,0–0,0
+WC-1990,Republic of Ireland v Italy,quarter-finals,Stadio Olimpico,Rome,Republic of Ireland,T-39,ITA,0–1,0
+WC-1990,Czechoslovakia v West Germany,quarter-finals,San Siro,Milan,Czechoslovakia,T-82,DEU,0–1,0
+WC-1990,Cameroon v England,quarter-finals,Stadio San Paolo,Naples,Cameroon,T-27,ENG,2–3,2
+WC-1990,Argentina v Italy,semi-finals,Stadio San Paolo,Naples,Argentina,T-39,ITA,1–1,1
+WC-1990,West Germany v England,semi-finals,Stadio delle Alpi,Turin,West Germany,T-27,ENG,1–1,1
+WC-1990,Italy v England,third-place match,Stadio San Nicola,Bari,Italy,T-27,ENG,2–1,2
+WC-1990,West Germany v Argentina,final,Stadio Olimpico,Rome,West Germany,T-03,ARG,1–0,1
+WC-1994,Germany v Bolivia,group stage,Soldier Field,Chicago,Germany,T-07,BOL,1–0,1
+WC-1994,Spain v South Korea,group stage,Cotton Bowl,Dallas,Spain,T-68,KOR,2–2,2
+WC-1994,United States v Switzerland,group stage,Pontiac Silverdome,Pontiac,United States,T-72,CHE,1–1,1
+WC-1994,Italy v Republic of Ireland,group stage,Giants Stadium,East Rutherford,Italy,T-57,IRL,0–1,0
+WC-1994,Colombia v Romania,group stage,Rose Bowl,Pasadena,Colombia,T-58,ROU,1–3,1
+WC-1994,Belgium v Morocco,group stage,Citrus Bowl,Orlando,Belgium,T-45,MAR,1–0,1
+WC-1994,Norway v Mexico,group stage,RFK Stadium,"Washington, D.C.",Norway,T-44,MEX,1–0,1
+WC-1994,Cameroon v Sweden,group stage,Rose Bowl,Pasadena,Cameroon,T-71,SWE,2–2,2
+WC-1994,Brazil v Russia,group stage,Stanford Stadium,Stanford,Brazil,T-59,RUS,2–0,2
+WC-1994,Netherlands v Saudi Arabia,group stage,RFK Stadium,"Washington, D.C.",Netherlands,T-60,SAU,2–1,2
+WC-1994,Argentina v Greece,group stage,Foxboro Stadium,Foxborough,Argentina,T-31,GRC,4–0,4
+WC-1994,Germany v Spain,group stage,Soldier Field,Chicago,Germany,T-70,ESP,1–1,1
+WC-1994,Nigeria v Bulgaria,group stage,Cotton Bowl,Dallas,Nigeria,T-10,BGR,3–0,3
+WC-1994,Romania v Switzerland,group stage,Pontiac Silverdome,Pontiac,Romania,T-72,CHE,1–4,1
+WC-1994,United States v Colombia,group stage,Rose Bowl,Pasadena,United States,T-15,COL,2–1,2
+WC-1994,Italy v Norway,group stage,Giants Stadium,East Rutherford,Italy,T-51,NOR,1–0,1
+WC-1994,South Korea v Bolivia,group stage,Foxboro Stadium,Foxborough,South Korea,T-07,BOL,0–0,0
+WC-1994,Mexico v Republic of Ireland,group stage,Citrus Bowl,Orlando,Mexico,T-57,IRL,2–1,2
+WC-1994,Brazil v Cameroon,group stage,Stanford Stadium,Stanford,Brazil,T-11,CMR,3–0,3
+WC-1994,Sweden v Russia,group stage,Pontiac Silverdome,Pontiac,Sweden,T-59,RUS,3–1,3
+WC-1994,Belgium v Netherlands,group stage,Citrus Bowl,Orlando,Belgium,T-46,NLD,1–0,1
+WC-1994,Saudi Arabia v Morocco,group stage,Giants Stadium,East Rutherford,Saudi Arabia,T-45,MAR,2–1,2
+WC-1994,Argentina v Nigeria,group stage,Foxboro Stadium,Foxborough,Argentina,T-48,NGA,2–1,2
+WC-1994,Bulgaria v Greece,group stage,Soldier Field,Chicago,Bulgaria,T-31,GRC,4–0,4
+WC-1994,Switzerland v Colombia,group stage,Stanford Stadium,Stanford,Switzerland,T-15,COL,0–2,0
+WC-1994,United States v Romania,group stage,Rose Bowl,Pasadena,United States,T-58,ROU,0–1,0
+WC-1994,Bolivia v Spain,group stage,Soldier Field,Chicago,Bolivia,T-70,ESP,1–3,1
+WC-1994,Germany v South Korea,group stage,Cotton Bowl,Dallas,Germany,T-68,KOR,3–2,3
+WC-1994,Italy v Mexico,group stage,RFK Stadium,"Washington, D.C.",Italy,T-44,MEX,1–1,1
+WC-1994,Republic of Ireland v Norway,group stage,Giants Stadium,East Rutherford,Republic of Ireland,T-51,NOR,0–0,0
+WC-1994,Russia v Cameroon,group stage,Stanford Stadium,Stanford,Russia,T-11,CMR,6–1,6
+WC-1994,Brazil v Sweden,group stage,Pontiac Silverdome,Pontiac,Brazil,T-71,SWE,1–1,1
+WC-1994,Belgium v Saudi Arabia,group stage,RFK Stadium,"Washington, D.C.",Belgium,T-60,SAU,0–1,0
+WC-1994,Morocco v Netherlands,group stage,Citrus Bowl,Orlando,Morocco,T-46,NLD,1–2,1
+WC-1994,Argentina v Bulgaria,group stage,Cotton Bowl,Dallas,Argentina,T-10,BGR,0–2,0
+WC-1994,Greece v Nigeria,group stage,Foxboro Stadium,Foxborough,Greece,T-48,NGA,0–2,0
+WC-1994,Germany v Belgium,round of 16,Soldier Field,Chicago,Germany,T-06,BEL,3–2,3
+WC-1994,Spain v Switzerland,round of 16,RFK Stadium,"Washington, D.C.",Spain,T-72,CHE,3–0,3
+WC-1994,Saudi Arabia v Sweden,round of 16,Cotton Bowl,Dallas,Saudi Arabia,T-71,SWE,1–3,1
+WC-1994,Romania v Argentina,round of 16,Rose Bowl,Pasadena,Romania,T-03,ARG,3–2,3
+WC-1994,Netherlands v Republic of Ireland,round of 16,Citrus Bowl,Orlando,Netherlands,T-57,IRL,2–0,2
+WC-1994,Brazil v United States,round of 16,Stanford Stadium,Stanford,Brazil,T-79,USA,1–0,1
+WC-1994,Nigeria v Italy,round of 16,Foxboro Stadium,Foxborough,Nigeria,T-39,ITA,1–2,1
+WC-1994,Mexico v Bulgaria,round of 16,Giants Stadium,East Rutherford,Mexico,T-10,BGR,1–1,1
+WC-1994,Italy v Spain,quarter-finals,Foxboro Stadium,Foxborough,Italy,T-70,ESP,2–1,2
+WC-1994,Netherlands v Brazil,quarter-finals,Cotton Bowl,Dallas,Netherlands,T-09,BRA,2–3,2
+WC-1994,Bulgaria v Germany,quarter-finals,Giants Stadium,East Rutherford,Bulgaria,T-29,DEU,2–1,2
+WC-1994,Romania v Sweden,quarter-finals,Stanford Stadium,Stanford,Romania,T-71,SWE,2–2,2
+WC-1994,Bulgaria v Italy,semi-finals,Giants Stadium,East Rutherford,Bulgaria,T-39,ITA,1–2,1
+WC-1994,Sweden v Brazil,semi-finals,Rose Bowl,Pasadena,Sweden,T-09,BRA,0–1,0
+WC-1994,Sweden v Bulgaria,third-place match,Rose Bowl,Pasadena,Sweden,T-10,BGR,4–0,4
+WC-1994,Brazil v Italy,final,Rose Bowl,Pasadena,Brazil,T-39,ITA,0–0,0
+WC-1998,Brazil v Scotland,group stage,Stade de France,Saint-Denis,Brazil,T-61,SCO,2–1,2
+WC-1998,Morocco v Norway,group stage,Stade de la Mosson,Montpellier,Morocco,T-51,NOR,2–2,2
+WC-1998,Italy v Chile,group stage,Stade du Parc Lescure,Bordeaux,Italy,T-13,CHL,2–2,2
+WC-1998,Cameroon v Austria,group stage,Stade de Toulouse,Toulouse,Cameroon,T-05,AUT,1–1,1
+WC-1998,Paraguay v Bulgaria,group stage,Stade de la Mosson,Montpellier,Paraguay,T-10,BGR,0–0,0
+WC-1998,Saudi Arabia v Denmark,group stage,Stade Félix-Bollaert,Lens,Saudi Arabia,T-21,DNK,0–1,0
+WC-1998,France v South Africa,group stage,Stade Vélodrome,Marseille,France,T-67,ZAF,3–0,3
+WC-1998,Spain v Nigeria,group stage,Stade de la Beaujoire,Nantes,Spain,T-48,NGA,2–3,2
+WC-1998,South Korea v Mexico,group stage,Stade de Gerland,Lyon,South Korea,T-44,MEX,1–3,1
+WC-1998,Netherlands v Belgium,group stage,Stade de France,Saint-Denis,Netherlands,T-06,BEL,0–0,0
+WC-1998,Argentina v Japan,group stage,Stade de Toulouse,Toulouse,Argentina,T-42,JPN,1–0,1
+WC-1998,Yugoslavia v Iran,group stage,Stade Geoffroy-Guichard,Saint-Étienne,Yugoslavia,T-36,IRN,1–0,1
+WC-1998,Jamaica v Croatia,group stage,Stade Félix-Bollaert,Lens,Jamaica,T-17,HRV,1–3,1
+WC-1998,England v Tunisia,group stage,Stade Vélodrome,Marseille,England,T-75,TUN,2–0,2
+WC-1998,Romania v Colombia,group stage,Stade de Gerland,Lyon,Romania,T-15,COL,1–0,1
+WC-1998,Germany v United States,group stage,Parc des Princes,Paris,Germany,T-79,USA,2–0,2
+WC-1998,Scotland v Norway,group stage,Stade du Parc Lescure,Bordeaux,Scotland,T-51,NOR,1–1,1
+WC-1998,Brazil v Morocco,group stage,Stade de la Beaujoire,Nantes,Brazil,T-45,MAR,3–0,3
+WC-1998,Chile v Austria,group stage,Stade Geoffroy-Guichard,Saint-Étienne,Chile,T-05,AUT,1–1,1
+WC-1998,Italy v Cameroon,group stage,Stade de la Mosson,Montpellier,Italy,T-11,CMR,3–0,3
+WC-1998,South Africa v Denmark,group stage,Stade de Toulouse,Toulouse,South Africa,T-21,DNK,1–1,1
+WC-1998,France v Saudi Arabia,group stage,Stade de France,Saint-Denis,France,T-60,SAU,4–0,4
+WC-1998,Nigeria v Bulgaria,group stage,Parc des Princes,Paris,Nigeria,T-10,BGR,1–0,1
+WC-1998,Spain v Paraguay,group stage,Stade Geoffroy-Guichard,Saint-Étienne,Spain,T-53,PRY,0–0,0
+WC-1998,Japan v Croatia,group stage,Stade de la Beaujoire,Nantes,Japan,T-17,HRV,0–1,0
+WC-1998,Belgium v Mexico,group stage,Stade du Parc Lescure,Bordeaux,Belgium,T-44,MEX,2–2,2
+WC-1998,Netherlands v South Korea,group stage,Stade Vélodrome,Marseille,Netherlands,T-68,KOR,5–0,5
+WC-1998,Germany v Yugoslavia,group stage,Stade Félix-Bollaert,Lens,Germany,T-83,YUG,2–2,2
+WC-1998,Argentina v Jamaica,group stage,Parc des Princes,Paris,Argentina,T-41,JAM,5–0,5
+WC-1998,United States v Iran,group stage,Stade de Gerland,Lyon,United States,T-36,IRN,1–2,1
+WC-1998,Colombia v Tunisia,group stage,Stade de la Mosson,Montpellier,Colombia,T-75,TUN,1–0,1
+WC-1998,Romania v England,group stage,Stade de Toulouse,Toulouse,Romania,T-27,ENG,2–1,2
+WC-1998,Chile v Cameroon,group stage,Stade de la Beaujoire,Nantes,Chile,T-11,CMR,1–1,1
+WC-1998,Italy v Austria,group stage,Stade de France,Saint-Denis,Italy,T-05,AUT,2–1,2
+WC-1998,Brazil v Norway,group stage,Stade Vélodrome,Marseille,Brazil,T-51,NOR,1–2,1
+WC-1998,Scotland v Morocco,group stage,Stade Geoffroy-Guichard,Saint-Étienne,Scotland,T-45,MAR,0–3,0
+WC-1998,France v Denmark,group stage,Stade de Gerland,Lyon,France,T-21,DNK,2–1,2
+WC-1998,South Africa v Saudi Arabia,group stage,Stade du Parc Lescure,Bordeaux,South Africa,T-60,SAU,2–2,2
+WC-1998,Nigeria v Paraguay,group stage,Stade de Toulouse,Toulouse,Nigeria,T-53,PRY,1–3,1
+WC-1998,Spain v Bulgaria,group stage,Stade Félix-Bollaert,Lens,Spain,T-10,BGR,6–1,6
+WC-1998,Belgium v South Korea,group stage,Parc des Princes,Paris,Belgium,T-68,KOR,1–1,1
+WC-1998,Netherlands v Mexico,group stage,Stade Geoffroy-Guichard,Saint-Étienne,Netherlands,T-44,MEX,2–2,2
+WC-1998,Germany v Iran,group stage,Stade de la Mosson,Montpellier,Germany,T-36,IRN,2–0,2
+WC-1998,United States v Yugoslavia,group stage,Stade de la Beaujoire,Nantes,United States,T-83,YUG,0–1,0
+WC-1998,Argentina v Croatia,group stage,Stade du Parc Lescure,Bordeaux,Argentina,T-17,HRV,1–0,1
+WC-1998,Japan v Jamaica,group stage,Stade de Gerland,Lyon,Japan,T-41,JAM,1–2,1
+WC-1998,Colombia v England,group stage,Stade Félix-Bollaert,Lens,Colombia,T-27,ENG,0–2,0
+WC-1998,Romania v Tunisia,group stage,Stade de France,Saint-Denis,Romania,T-75,TUN,1–1,1
+WC-1998,Italy v Norway,round of 16,Stade Vélodrome,Marseille,Italy,T-51,NOR,1–0,1
+WC-1998,Brazil v Chile,round of 16,Parc des Princes,Paris,Brazil,T-13,CHL,4–1,4
+WC-1998,France v Paraguay,round of 16,Stade Félix-Bollaert,Lens,France,T-53,PRY,1–0,1
+WC-1998,Nigeria v Denmark,round of 16,Stade de France,Saint-Denis,Nigeria,T-21,DNK,1–4,1
+WC-1998,Germany v Mexico,round of 16,Stade de la Mosson,Montpellier,Germany,T-44,MEX,2–1,2
+WC-1998,Netherlands v Yugoslavia,round of 16,Stade de Toulouse,Toulouse,Netherlands,T-83,YUG,2–1,2
+WC-1998,Romania v Croatia,round of 16,Stade du Parc Lescure,Bordeaux,Romania,T-17,HRV,0–1,0
+WC-1998,Argentina v England,round of 16,Stade Geoffroy-Guichard,Saint-Étienne,Argentina,T-27,ENG,2–2,2
+WC-1998,Italy v France,quarter-finals,Stade de France,Saint-Denis,Italy,T-28,FRA,0–0,0
+WC-1998,Brazil v Denmark,quarter-finals,Stade de la Beaujoire,Nantes,Brazil,T-21,DNK,3–2,3
+WC-1998,Netherlands v Argentina,quarter-finals,Stade Vélodrome,Marseille,Netherlands,T-03,ARG,2–1,2
+WC-1998,Germany v Croatia,quarter-finals,Stade de Gerland,Lyon,Germany,T-17,HRV,0–3,0
+WC-1998,Brazil v Netherlands,semi-finals,Stade Vélodrome,Marseille,Brazil,T-46,NLD,1–1,1
+WC-1998,France v Croatia,semi-finals,Stade de France,Saint-Denis,France,T-17,HRV,2–1,2
+WC-1998,Netherlands v Croatia,third-place match,Parc des Princes,Paris,Netherlands,T-17,HRV,1–2,1
+WC-1998,Brazil v France,final,Stade de France,Saint-Denis,Brazil,T-28,FRA,0–3,0
+WC-2002,France v Senegal,group stage,Seoul World Cup Stadium,Seoul,France,T-62,SEN,0–1,0
+WC-2002,Republic of Ireland v Cameroon,group stage,Niigata Stadium,Niigata,Republic of Ireland,T-11,CMR,1–1,1
+WC-2002,Uruguay v Denmark,group stage,Ulsan Munsu Football Stadium,Ulsan,Uruguay,T-21,DNK,1–2,1
+WC-2002,Germany v Saudi Arabia,group stage,Sapporo Dome,Sapporo,Germany,T-60,SAU,8–0,8
+WC-2002,Argentina v Nigeria,group stage,Kashima Stadium,Ibaraki,Argentina,T-48,NGA,1–0,1
+WC-2002,Paraguay v South Africa,group stage,Busan Asiad Stadium,Busan,Paraguay,T-67,ZAF,2–2,2
+WC-2002,England v Sweden,group stage,Saitama Stadium,Saitama,England,T-71,SWE,1–1,1
+WC-2002,Spain v Slovenia,group stage,Gwangju World Cup Stadium,Gwangju,Spain,T-66,SVN,3–1,3
+WC-2002,Croatia v Mexico,group stage,Niigata Stadium,Niigata,Croatia,T-44,MEX,0–1,0
+WC-2002,Brazil v Turkey,group stage,Ulsan Munsu Football Stadium,Ulsan,Brazil,T-76,TUR,2–1,2
+WC-2002,Italy v Ecuador,group stage,Sapporo Dome,Sapporo,Italy,T-24,ECU,2–0,2
+WC-2002,China v Costa Rica,group stage,Gwangju World Cup Stadium,Gwangju,China,T-16,CRI,0–2,0
+WC-2002,Japan v Belgium,group stage,Saitama Stadium,Saitama,Japan,T-06,BEL,2–2,2
+WC-2002,South Korea v Poland,group stage,Busan Asiad Stadium,Busan,South Korea,T-55,POL,2–0,2
+WC-2002,Russia v Tunisia,group stage,Kobe Wing Stadium,Kobe,Russia,T-75,TUN,2–0,2
+WC-2002,United States v Portugal,group stage,Suwon World Cup Stadium,Suwon,United States,T-56,PRT,3–2,3
+WC-2002,Germany v Republic of Ireland,group stage,Kashima Stadium,Ibaraki,Germany,T-57,IRL,1–1,1
+WC-2002,Denmark v Senegal,group stage,Daegu World Cup Stadium,Daegu,Denmark,T-62,SEN,1–1,1
+WC-2002,Cameroon v Saudi Arabia,group stage,Saitama Stadium,Saitama,Cameroon,T-60,SAU,1–0,1
+WC-2002,France v Uruguay,group stage,Busan Asiad Stadium,Busan,France,T-80,URY,0–0,0
+WC-2002,Sweden v Nigeria,group stage,Kobe Wing Stadium,Kobe,Sweden,T-48,NGA,2–1,2
+WC-2002,Spain v Paraguay,group stage,Jeonju World Cup Stadium,Jeonju,Spain,T-53,PRY,3–1,3
+WC-2002,Argentina v England,group stage,Sapporo Dome,Sapporo,Argentina,T-27,ENG,0–1,0
+WC-2002,South Africa v Slovenia,group stage,Daegu World Cup Stadium,Daegu,South Africa,T-66,SVN,1–0,1
+WC-2002,Italy v Croatia,group stage,Kashima Stadium,Ibaraki,Italy,T-17,HRV,1–2,1
+WC-2002,Brazil v China,group stage,Jeju World Cup Stadium,Seogwipo,Brazil,T-14,CHN,4–0,4
+WC-2002,Mexico v Ecuador,group stage,Miyagi Stadium,Miyagi,Mexico,T-24,ECU,2–1,2
+WC-2002,Costa Rica v Turkey,group stage,Incheon Munhak Stadium,Incheon,Costa Rica,T-76,TUR,1–1,1
+WC-2002,Japan v Russia,group stage,International Stadium Yokohama,Yokohama,Japan,T-59,RUS,1–0,1
+WC-2002,South Korea v United States,group stage,Daegu World Cup Stadium,Daegu,South Korea,T-79,USA,1–1,1
+WC-2002,Tunisia v Belgium,group stage,Ōita Stadium,Ōita,Tunisia,T-06,BEL,1–1,1
+WC-2002,Portugal v Poland,group stage,Jeonju World Cup Stadium,Jeonju,Portugal,T-55,POL,4–0,4
+WC-2002,Denmark v France,group stage,Incheon Munhak Stadium,Incheon,Denmark,T-28,FRA,2–0,2
+WC-2002,Senegal v Uruguay,group stage,Suwon World Cup Stadium,Suwon,Senegal,T-80,URY,3–3,3
+WC-2002,Cameroon v Germany,group stage,Shizuoka Stadium ECOPA,Shizuoka,Cameroon,T-29,DEU,0–2,0
+WC-2002,Saudi Arabia v Republic of Ireland,group stage,International Stadium Yokohama,Yokohama,Saudi Arabia,T-57,IRL,0–3,0
+WC-2002,Nigeria v England,group stage,Nagai Stadium,Osaka,Nigeria,T-27,ENG,0–0,0
+WC-2002,Sweden v Argentina,group stage,Miyagi Stadium,Miyagi,Sweden,T-03,ARG,1–1,1
+WC-2002,Slovenia v Paraguay,group stage,Jeju World Cup Stadium,Seogwipo,Slovenia,T-53,PRY,1–3,1
+WC-2002,South Africa v Spain,group stage,Daejeon World Cup Stadium,Daejeon,South Africa,T-70,ESP,2–3,2
+WC-2002,Costa Rica v Brazil,group stage,Suwon World Cup Stadium,Suwon,Costa Rica,T-09,BRA,2–5,2
+WC-2002,Turkey v China,group stage,Seoul World Cup Stadium,Seoul,Turkey,T-14,CHN,3–0,3
+WC-2002,Ecuador v Croatia,group stage,International Stadium Yokohama,Yokohama,Ecuador,T-17,HRV,1–0,1
+WC-2002,Mexico v Italy,group stage,Ōita Stadium,Ōita,Mexico,T-39,ITA,1–1,1
+WC-2002,Belgium v Russia,group stage,Shizuoka Stadium ECOPA,Shizuoka,Belgium,T-59,RUS,3–2,3
+WC-2002,Tunisia v Japan,group stage,Nagai Stadium,Osaka,Tunisia,T-42,JPN,0–2,0
+WC-2002,Poland v United States,group stage,Daejeon World Cup Stadium,Daejeon,Poland,T-79,USA,3–1,3
+WC-2002,Portugal v South Korea,group stage,Incheon Munhak Stadium,Incheon,Portugal,T-68,KOR,0–1,0
+WC-2002,Germany v Paraguay,round of 16,Jeju World Cup Stadium,Seogwipo,Germany,T-53,PRY,1–0,1
+WC-2002,Denmark v England,round of 16,Niigata Stadium,Niigata,Denmark,T-27,ENG,0–3,0
+WC-2002,Sweden v Senegal,round of 16,Ōita Stadium,Ōita,Sweden,T-62,SEN,1–2,1
+WC-2002,Spain v Republic of Ireland,round of 16,Suwon World Cup Stadium,Suwon,Spain,T-57,IRL,1–1,1
+WC-2002,Mexico v United States,round of 16,Jeonju World Cup Stadium,Jeonju,Mexico,T-79,USA,0–2,0
+WC-2002,Brazil v Belgium,round of 16,Kobe Wing Stadium,Kobe,Brazil,T-06,BEL,2–0,2
+WC-2002,Japan v Turkey,round of 16,Miyagi Stadium,Miyagi,Japan,T-76,TUR,0–1,0
+WC-2002,South Korea v Italy,round of 16,Daejeon World Cup Stadium,Daejeon,South Korea,T-39,ITA,2–1,2
+WC-2002,England v Brazil,quarter-finals,Shizuoka Stadium ECOPA,Shizuoka,England,T-09,BRA,1–2,1
+WC-2002,Germany v United States,quarter-finals,Ulsan Munsu Football Stadium,Ulsan,Germany,T-79,USA,1–0,1
+WC-2002,Spain v South Korea,quarter-finals,Gwangju World Cup Stadium,Gwangju,Spain,T-68,KOR,0–0,0
+WC-2002,Senegal v Turkey,quarter-finals,Nagai Stadium,Osaka,Senegal,T-76,TUR,0–1,0
+WC-2002,Germany v South Korea,semi-finals,Seoul World Cup Stadium,Seoul,Germany,T-68,KOR,1–0,1
+WC-2002,Brazil v Turkey,semi-finals,Saitama Stadium,Saitama,Brazil,T-76,TUR,1–0,1
+WC-2002,South Korea v Turkey,third-place match,Daegu World Cup Stadium,Daegu,South Korea,T-76,TUR,2–3,2
+WC-2002,Germany v Brazil,final,International Stadium Yokohama,Yokohama,Germany,T-09,BRA,0–2,0
+WC-2006,Germany v Costa Rica,group stage,Allianz Arena,Munich,Germany,T-16,CRI,4–2,4
+WC-2006,Poland v Ecuador,group stage,Arena AufShalke,Gelsenkirchen,Poland,T-24,ECU,0–2,0
+WC-2006,England v Paraguay,group stage,Waldstadion,Frankfurt,England,T-53,PRY,1–0,1
+WC-2006,Trinidad and Tobago v Sweden,group stage,Westfalenstadion,Dortmund,Trinidad and Tobago,T-71,SWE,0–0,0
+WC-2006,Argentina v Ivory Coast,group stage,Volksparkstadion,Hamburg,Argentina,T-40,CIV,2–1,2
+WC-2006,Serbia and Montenegro v Netherlands,group stage,Zentralstadion,Leipzig,Serbia and Montenegro,T-46,NLD,0–1,0
+WC-2006,Mexico v Iran,group stage,Frankenstadion,Nuremberg,Mexico,T-36,IRN,3–1,3
+WC-2006,Angola v Portugal,group stage,RheinEnergieStadion,Cologne,Angola,T-56,PRT,0–1,0
+WC-2006,Australia v Japan,group stage,Fritz-Walter-Stadion,Kaiserslautern,Australia,T-42,JPN,3–1,3
+WC-2006,United States v Czech Republic,group stage,Arena AufShalke,Gelsenkirchen,United States,T-19,CZE,0–3,0
+WC-2006,Italy v Ghana,group stage,Niedersachsenstadion,Hanover,Italy,T-30,GHA,2–0,2
+WC-2006,South Korea v Togo,group stage,Waldstadion,Frankfurt,South Korea,T-73,TGO,2–1,2
+WC-2006,France v Switzerland,group stage,Neckarstadion,Stuttgart,France,T-72,CHE,0–0,0
+WC-2006,Brazil v Croatia,group stage,Olympiastadion,Berlin,Brazil,T-17,HRV,1–0,1
+WC-2006,Spain v Ukraine,group stage,Zentralstadion,Leipzig,Spain,T-77,UKR,4–0,4
+WC-2006,Tunisia v Saudi Arabia,group stage,Allianz Arena,Munich,Tunisia,T-60,SAU,2–2,2
+WC-2006,Germany v Poland,group stage,Westfalenstadion,Dortmund,Germany,T-55,POL,1–0,1
+WC-2006,Ecuador v Costa Rica,group stage,Volksparkstadion,Hamburg,Ecuador,T-16,CRI,3–0,3
+WC-2006,England v Trinidad and Tobago,group stage,Frankenstadion,Nuremberg,England,T-74,TTO,2–0,2
+WC-2006,Sweden v Paraguay,group stage,Olympiastadion,Berlin,Sweden,T-53,PRY,1–0,1
+WC-2006,Argentina v Serbia and Montenegro,group stage,Arena AufShalke,Gelsenkirchen,Argentina,T-64,SCG,6–0,6
+WC-2006,Netherlands v Ivory Coast,group stage,Neckarstadion,Stuttgart,Netherlands,T-40,CIV,2–1,2
+WC-2006,Mexico v Angola,group stage,Niedersachsenstadion,Hanover,Mexico,T-02,AGO,0–0,0
+WC-2006,Portugal v Iran,group stage,Waldstadion,Frankfurt,Portugal,T-36,IRN,2–0,2
+WC-2006,Czech Republic v Ghana,group stage,RheinEnergieStadion,Cologne,Czech Republic,T-30,GHA,0–2,0
+WC-2006,Italy v United States,group stage,Fritz-Walter-Stadion,Kaiserslautern,Italy,T-79,USA,1–1,1
+WC-2006,Japan v Croatia,group stage,Frankenstadion,Nuremberg,Japan,T-17,HRV,0–0,0
+WC-2006,Brazil v Australia,group stage,Allianz Arena,Munich,Brazil,T-04,AUS,2–0,2
+WC-2006,France v South Korea,group stage,Zentralstadion,Leipzig,France,T-68,KOR,1–1,1
+WC-2006,Togo v Switzerland,group stage,Westfalenstadion,Dortmund,Togo,T-72,CHE,0–2,0
+WC-2006,Saudi Arabia v Ukraine,group stage,Volksparkstadion,Hamburg,Saudi Arabia,T-77,UKR,0–4,0
+WC-2006,Spain v Tunisia,group stage,Neckarstadion,Stuttgart,Spain,T-75,TUN,3–1,3
+WC-2006,Costa Rica v Poland,group stage,Niedersachsenstadion,Hanover,Costa Rica,T-55,POL,1–2,1
+WC-2006,Ecuador v Germany,group stage,Olympiastadion,Berlin,Ecuador,T-29,DEU,0–3,0
+WC-2006,Paraguay v Trinidad and Tobago,group stage,Fritz-Walter-Stadion,Kaiserslautern,Paraguay,T-74,TTO,2–0,2
+WC-2006,Sweden v England,group stage,RheinEnergieStadion,Cologne,Sweden,T-27,ENG,2–2,2
+WC-2006,Iran v Angola,group stage,Zentralstadion,Leipzig,Iran,T-02,AGO,1–1,1
+WC-2006,Portugal v Mexico,group stage,Arena AufShalke,Gelsenkirchen,Portugal,T-44,MEX,2–1,2
+WC-2006,Ivory Coast v Serbia and Montenegro,group stage,Allianz Arena,Munich,Ivory Coast,T-64,SCG,3–2,3
+WC-2006,Netherlands v Argentina,group stage,Waldstadion,Frankfurt,Netherlands,T-03,ARG,0–0,0
+WC-2006,Czech Republic v Italy,group stage,Volksparkstadion,Hamburg,Czech Republic,T-39,ITA,0–2,0
+WC-2006,Ghana v United States,group stage,Frankenstadion,Nuremberg,Ghana,T-79,USA,2–1,2
+WC-2006,Croatia v Australia,group stage,Neckarstadion,Stuttgart,Croatia,T-04,AUS,2–2,2
+WC-2006,Japan v Brazil,group stage,Westfalenstadion,Dortmund,Japan,T-09,BRA,1–4,1
+WC-2006,Saudi Arabia v Spain,group stage,Fritz-Walter-Stadion,Kaiserslautern,Saudi Arabia,T-70,ESP,0–1,0
+WC-2006,Ukraine v Tunisia,group stage,Olympiastadion,Berlin,Ukraine,T-75,TUN,1–0,1
+WC-2006,Switzerland v South Korea,group stage,Niedersachsenstadion,Hanover,Switzerland,T-68,KOR,2–0,2
+WC-2006,Togo v France,group stage,RheinEnergieStadion,Cologne,Togo,T-28,FRA,0–2,0
+WC-2006,Germany v Sweden,round of 16,Allianz Arena,Munich,Germany,T-71,SWE,2–0,2
+WC-2006,Argentina v Mexico,round of 16,Zentralstadion,Leipzig,Argentina,T-44,MEX,2–1,2
+WC-2006,England v Ecuador,round of 16,Neckarstadion,Stuttgart,England,T-24,ECU,1–0,1
+WC-2006,Portugal v Netherlands,round of 16,Frankenstadion,Nuremberg,Portugal,T-46,NLD,1–0,1
+WC-2006,Italy v Australia,round of 16,Fritz-Walter-Stadion,Kaiserslautern,Italy,T-04,AUS,1–0,1
+WC-2006,Switzerland v Ukraine,round of 16,RheinEnergieStadion,Cologne,Switzerland,T-77,UKR,0–0,0
+WC-2006,Brazil v Ghana,round of 16,Westfalenstadion,Dortmund,Brazil,T-30,GHA,3–0,3
+WC-2006,Spain v France,round of 16,Niedersachsenstadion,Hanover,Spain,T-28,FRA,1–3,1
+WC-2006,Germany v Argentina,quarter-finals,Olympiastadion,Berlin,Germany,T-03,ARG,1–1,1
+WC-2006,Italy v Ukraine,quarter-finals,Volksparkstadion,Hamburg,Italy,T-77,UKR,3–0,3
+WC-2006,England v Portugal,quarter-finals,Arena AufShalke,Gelsenkirchen,England,T-56,PRT,0–0,0
+WC-2006,Brazil v France,quarter-finals,Waldstadion,Frankfurt,Brazil,T-28,FRA,0–1,0
+WC-2006,Germany v Italy,semi-finals,Westfalenstadion,Dortmund,Germany,T-39,ITA,0–2,0
+WC-2006,Portugal v France,semi-finals,Allianz Arena,Munich,Portugal,T-28,FRA,0–1,0
+WC-2006,Germany v Portugal,third-place match,Neckarstadion,Stuttgart,Germany,T-56,PRT,3–1,3
+WC-2006,Italy v France,final,Olympiastadion,Berlin,Italy,T-28,FRA,1–1,1
+WC-2010,South Africa v Mexico,group stage,Soccer City,Johannesburg,South Africa,T-44,MEX,1–1,1
+WC-2010,Uruguay v France,group stage,Cape Town Stadium,Cape Town,Uruguay,T-28,FRA,0–0,0
+WC-2010,South Korea v Greece,group stage,Nelson Mandela Bay Stadium,Port Elizabeth,South Korea,T-31,GRC,2–0,2
+WC-2010,Argentina v Nigeria,group stage,Ellis Park Stadium,Johannesburg,Argentina,T-48,NGA,1–0,1
+WC-2010,England v United States,group stage,Royal Bafokeng Stadium,Rustenburg,England,T-79,USA,1–1,1
+WC-2010,Algeria v Slovenia,group stage,Peter Mokaba Stadium,Polokwane,Algeria,T-66,SVN,0–1,0
+WC-2010,Serbia v Ghana,group stage,Loftus Versfeld Stadium,Pretoria,Serbia,T-30,GHA,0–1,0
+WC-2010,Germany v Australia,group stage,Moses Mabhida Stadium,Durban,Germany,T-04,AUS,4–0,4
+WC-2010,Netherlands v Denmark,group stage,Soccer City,Johannesburg,Netherlands,T-21,DNK,2–0,2
+WC-2010,Japan v Cameroon,group stage,Free State Stadium,Bloemfontein,Japan,T-11,CMR,1–0,1
+WC-2010,Italy v Paraguay,group stage,Cape Town Stadium,Cape Town,Italy,T-53,PRY,1–1,1
+WC-2010,New Zealand v Slovakia,group stage,Royal Bafokeng Stadium,Rustenburg,New Zealand,T-65,SVK,1–1,1
+WC-2010,Ivory Coast v Portugal,group stage,Nelson Mandela Bay Stadium,Port Elizabeth,Ivory Coast,T-56,PRT,0–0,0
+WC-2010,Brazil v North Korea,group stage,Ellis Park Stadium,Johannesburg,Brazil,T-49,PRK,2–1,2
+WC-2010,Honduras v Chile,group stage,Mbombela Stadium,Nelspruit,Honduras,T-13,CHL,0–1,0
+WC-2010,Spain v Switzerland,group stage,Moses Mabhida Stadium,Durban,Spain,T-72,CHE,0–1,0
+WC-2010,South Africa v Uruguay,group stage,Loftus Versfeld Stadium,Pretoria,South Africa,T-80,URY,0–3,0
+WC-2010,Argentina v South Korea,group stage,Soccer City,Johannesburg,Argentina,T-68,KOR,4–1,4
+WC-2010,Greece v Nigeria,group stage,Free State Stadium,Bloemfontein,Greece,T-48,NGA,2–1,2
+WC-2010,France v Mexico,group stage,Peter Mokaba Stadium,Polokwane,France,T-44,MEX,0–2,0
+WC-2010,Germany v Serbia,group stage,Nelson Mandela Bay Stadium,Port Elizabeth,Germany,T-63,SRB,0–1,0
+WC-2010,Slovenia v United States,group stage,Ellis Park Stadium,Johannesburg,Slovenia,T-79,USA,2–2,2
+WC-2010,England v Algeria,group stage,Cape Town Stadium,Cape Town,England,T-01,DZA,0–0,0
+WC-2010,Netherlands v Japan,group stage,Moses Mabhida Stadium,Durban,Netherlands,T-42,JPN,1–0,1
+WC-2010,Ghana v Australia,group stage,Royal Bafokeng Stadium,Rustenburg,Ghana,T-04,AUS,1–1,1
+WC-2010,Cameroon v Denmark,group stage,Loftus Versfeld Stadium,Pretoria,Cameroon,T-21,DNK,1–2,1
+WC-2010,Slovakia v Paraguay,group stage,Free State Stadium,Bloemfontein,Slovakia,T-53,PRY,0–2,0
+WC-2010,Italy v New Zealand,group stage,Mbombela Stadium,Nelspruit,Italy,T-47,NZL,1–1,1
+WC-2010,Brazil v Ivory Coast,group stage,Soccer City,Johannesburg,Brazil,T-40,CIV,3–1,3
+WC-2010,Portugal v North Korea,group stage,Cape Town Stadium,Cape Town,Portugal,T-49,PRK,7–0,7
+WC-2010,Chile v Switzerland,group stage,Nelson Mandela Bay Stadium,Port Elizabeth,Chile,T-72,CHE,1–0,1
+WC-2010,Spain v Honduras,group stage,Ellis Park Stadium,Johannesburg,Spain,T-33,HND,2–0,2
+WC-2010,France v South Africa,group stage,Free State Stadium,Bloemfontein,France,T-67,ZAF,1–2,1
+WC-2010,Mexico v Uruguay,group stage,Royal Bafokeng Stadium,Rustenburg,Mexico,T-80,URY,0–1,0
+WC-2010,Greece v Argentina,group stage,Peter Mokaba Stadium,Polokwane,Greece,T-03,ARG,0–2,0
+WC-2010,Nigeria v South Korea,group stage,Moses Mabhida Stadium,Durban,Nigeria,T-68,KOR,2–2,2
+WC-2010,Slovenia v England,group stage,Nelson Mandela Bay Stadium,Port Elizabeth,Slovenia,T-27,ENG,0–1,0
+WC-2010,United States v Algeria,group stage,Loftus Versfeld Stadium,Pretoria,United States,T-01,DZA,1–0,1
+WC-2010,Australia v Serbia,group stage,Mbombela Stadium,Nelspruit,Australia,T-63,SRB,2–1,2
+WC-2010,Ghana v Germany,group stage,Soccer City,Johannesburg,Ghana,T-29,DEU,0–1,0
+WC-2010,Paraguay v New Zealand,group stage,Peter Mokaba Stadium,Polokwane,Paraguay,T-47,NZL,0–0,0
+WC-2010,Slovakia v Italy,group stage,Ellis Park Stadium,Johannesburg,Slovakia,T-39,ITA,3–2,3
+WC-2010,Cameroon v Netherlands,group stage,Cape Town Stadium,Cape Town,Cameroon,T-46,NLD,1–2,1
+WC-2010,Denmark v Japan,group stage,Royal Bafokeng Stadium,Rustenburg,Denmark,T-42,JPN,1–3,1
+WC-2010,North Korea v Ivory Coast,group stage,Mbombela Stadium,Nelspruit,North Korea,T-40,CIV,0–3,0
+WC-2010,Portugal v Brazil,group stage,Moses Mabhida Stadium,Durban,Portugal,T-09,BRA,0–0,0
+WC-2010,Chile v Spain,group stage,Loftus Versfeld Stadium,Pretoria,Chile,T-70,ESP,1–2,1
+WC-2010,Switzerland v Honduras,group stage,Free State Stadium,Bloemfontein,Switzerland,T-33,HND,0–0,0
+WC-2010,Uruguay v South Korea,round of 16,Nelson Mandela Bay Stadium,Port Elizabeth,Uruguay,T-68,KOR,2–1,2
+WC-2010,United States v Ghana,round of 16,Royal Bafokeng Stadium,Rustenburg,United States,T-30,GHA,1–2,1
+WC-2010,Germany v England,round of 16,Free State Stadium,Bloemfontein,Germany,T-27,ENG,4–1,4
+WC-2010,Argentina v Mexico,round of 16,Soccer City,Johannesburg,Argentina,T-44,MEX,3–1,3
+WC-2010,Netherlands v Slovakia,round of 16,Moses Mabhida Stadium,Durban,Netherlands,T-65,SVK,2–1,2
+WC-2010,Brazil v Chile,round of 16,Ellis Park Stadium,Johannesburg,Brazil,T-13,CHL,3–0,3
+WC-2010,Paraguay v Japan,round of 16,Loftus Versfeld Stadium,Pretoria,Paraguay,T-42,JPN,0–0,0
+WC-2010,Spain v Portugal,round of 16,Cape Town Stadium,Cape Town,Spain,T-56,PRT,1–0,1
+WC-2010,Netherlands v Brazil,quarter-finals,Nelson Mandela Bay Stadium,Port Elizabeth,Netherlands,T-09,BRA,2–1,2
+WC-2010,Uruguay v Ghana,quarter-finals,Soccer City,Johannesburg,Uruguay,T-30,GHA,1–1,1
+WC-2010,Argentina v Germany,quarter-finals,Cape Town Stadium,Cape Town,Argentina,T-29,DEU,0–4,0
+WC-2010,Paraguay v Spain,quarter-finals,Ellis Park Stadium,Johannesburg,Paraguay,T-70,ESP,0–1,0
+WC-2010,Uruguay v Netherlands,semi-finals,Cape Town Stadium,Cape Town,Uruguay,T-46,NLD,2–3,2
+WC-2010,Germany v Spain,semi-finals,Moses Mabhida Stadium,Durban,Germany,T-70,ESP,0–1,0
+WC-2010,Uruguay v Germany,third-place match,Nelson Mandela Bay Stadium,Port Elizabeth,Uruguay,T-29,DEU,2–3,2
+WC-2010,Netherlands v Spain,final,Soccer City,Johannesburg,Netherlands,T-70,ESP,0–1,0
+WC-2014,Brazil v Croatia,group stage,Arena Corinthians,São Paulo,Brazil,T-17,HRV,3–1,3
+WC-2014,Mexico v Cameroon,group stage,Arena das Dunas,Natal,Mexico,T-11,CMR,1–0,1
+WC-2014,Spain v Netherlands,group stage,Arena Fonte Nova,Salvador,Spain,T-46,NLD,1–5,1
+WC-2014,Chile v Australia,group stage,Arena Pantanal,Cuiabá,Chile,T-04,AUS,3–1,3
+WC-2014,Colombia v Greece,group stage,Estádio Mineirão,Belo Horizonte,Colombia,T-31,GRC,3–0,3
+WC-2014,Uruguay v Costa Rica,group stage,Estádio Castelão,Fortaleza,Uruguay,T-16,CRI,1–3,1
+WC-2014,England v Italy,group stage,Arena da Amazônia,Manaus,England,T-39,ITA,1–2,1
+WC-2014,Ivory Coast v Japan,group stage,Arena Pernambuco,Recife,Ivory Coast,T-42,JPN,2–1,2
+WC-2014,Switzerland v Ecuador,group stage,Estádio Nacional,Brasília,Switzerland,T-24,ECU,2–1,2
+WC-2014,France v Honduras,group stage,Estádio Beira-Rio,Porto Alegre,France,T-33,HND,3–0,3
+WC-2014,Argentina v Bosnia and Herzegovina,group stage,Estádio do Maracanã,Rio de Janeiro,Argentina,T-08,BIH,2–1,2
+WC-2014,Germany v Portugal,group stage,Arena Fonte Nova,Salvador,Germany,T-56,PRT,4–0,4
+WC-2014,Iran v Nigeria,group stage,Arena da Baixada,Curitiba,Iran,T-48,NGA,0–0,0
+WC-2014,Ghana v United States,group stage,Arena das Dunas,Natal,Ghana,T-79,USA,1–2,1
+WC-2014,Belgium v Algeria,group stage,Estádio Mineirão,Belo Horizonte,Belgium,T-01,DZA,2–1,2
+WC-2014,Brazil v Mexico,group stage,Estádio Castelão,Fortaleza,Brazil,T-44,MEX,0–0,0
+WC-2014,Russia v South Korea,group stage,Arena Pantanal,Cuiabá,Russia,T-68,KOR,1–1,1
+WC-2014,Australia v Netherlands,group stage,Estádio Beira-Rio,Porto Alegre,Australia,T-46,NLD,2–3,2
+WC-2014,Spain v Chile,group stage,Estádio do Maracanã,Rio de Janeiro,Spain,T-13,CHL,0–2,0
+WC-2014,Cameroon v Croatia,group stage,Arena da Amazônia,Manaus,Cameroon,T-17,HRV,0–4,0
+WC-2014,Colombia v Ivory Coast,group stage,Estádio Nacional,Brasília,Colombia,T-40,CIV,2–1,2
+WC-2014,Uruguay v England,group stage,Arena Corinthians,São Paulo,Uruguay,T-27,ENG,2–1,2
+WC-2014,Japan v Greece,group stage,Arena das Dunas,Natal,Japan,T-31,GRC,0–0,0
+WC-2014,Italy v Costa Rica,group stage,Arena Pernambuco,Recife,Italy,T-16,CRI,0–1,0
+WC-2014,Switzerland v France,group stage,Arena Fonte Nova,Salvador,Switzerland,T-28,FRA,2–5,2
+WC-2014,Honduras v Ecuador,group stage,Arena da Baixada,Curitiba,Honduras,T-24,ECU,1–2,1
+WC-2014,Argentina v Iran,group stage,Estádio Mineirão,Belo Horizonte,Argentina,T-36,IRN,1–0,1
+WC-2014,Germany v Ghana,group stage,Estádio Castelão,Fortaleza,Germany,T-30,GHA,2–2,2
+WC-2014,Nigeria v Bosnia and Herzegovina,group stage,Arena Pantanal,Cuiabá,Nigeria,T-08,BIH,1–0,1
+WC-2014,Belgium v Russia,group stage,Estádio do Maracanã,Rio de Janeiro,Belgium,T-59,RUS,1–0,1
+WC-2014,South Korea v Algeria,group stage,Estádio Beira-Rio,Porto Alegre,South Korea,T-01,DZA,2–4,2
+WC-2014,United States v Portugal,group stage,Arena da Amazônia,Manaus,United States,T-56,PRT,2–2,2
+WC-2014,Australia v Spain,group stage,Arena da Baixada,Curitiba,Australia,T-70,ESP,0–3,0
+WC-2014,Netherlands v Chile,group stage,Arena Corinthians,São Paulo,Netherlands,T-13,CHL,2–0,2
+WC-2014,Cameroon v Brazil,group stage,Estádio Nacional,Brasília,Cameroon,T-09,BRA,1–4,1
+WC-2014,Croatia v Mexico,group stage,Arena Pernambuco,Recife,Croatia,T-44,MEX,1–3,1
+WC-2014,Costa Rica v England,group stage,Estádio Mineirão,Belo Horizonte,Costa Rica,T-27,ENG,0–0,0
+WC-2014,Italy v Uruguay,group stage,Arena das Dunas,Natal,Italy,T-80,URY,0–1,0
+WC-2014,Japan v Colombia,group stage,Arena Pantanal,Cuiabá,Japan,T-15,COL,1–4,1
+WC-2014,Greece v Ivory Coast,group stage,Estádio Castelão,Fortaleza,Greece,T-40,CIV,2–1,2
+WC-2014,Bosnia and Herzegovina v Iran,group stage,Arena Fonte Nova,Salvador,Bosnia and Herzegovina,T-36,IRN,3–1,3
+WC-2014,Nigeria v Argentina,group stage,Estádio Beira-Rio,Porto Alegre,Nigeria,T-03,ARG,2–3,2
+WC-2014,Honduras v Switzerland,group stage,Arena da Amazônia,Manaus,Honduras,T-72,CHE,0–3,0
+WC-2014,Ecuador v France,group stage,Estádio do Maracanã,Rio de Janeiro,Ecuador,T-28,FRA,0–0,0
+WC-2014,Portugal v Ghana,group stage,Estádio Nacional,Brasília,Portugal,T-30,GHA,2–1,2
+WC-2014,United States v Germany,group stage,Arena Pernambuco,Recife,United States,T-29,DEU,0–1,0
+WC-2014,Algeria v Russia,group stage,Arena da Baixada,Curitiba,Algeria,T-59,RUS,1–1,1
+WC-2014,South Korea v Belgium,group stage,Arena Corinthians,São Paulo,South Korea,T-06,BEL,0–1,0
+WC-2014,Brazil v Chile,round of 16,Estádio Mineirão,Belo Horizonte,Brazil,T-13,CHL,1–1,1
+WC-2014,Colombia v Uruguay,round of 16,Estádio do Maracanã,Rio de Janeiro,Colombia,T-80,URY,2–0,2
+WC-2014,Netherlands v Mexico,round of 16,Estádio Castelão,Fortaleza,Netherlands,T-44,MEX,2–1,2
+WC-2014,Costa Rica v Greece,round of 16,Arena Pernambuco,Recife,Costa Rica,T-31,GRC,1–1,1
+WC-2014,France v Nigeria,round of 16,Estádio Nacional,Brasília,France,T-48,NGA,2–0,2
+WC-2014,Germany v Algeria,round of 16,Estádio Beira-Rio,Porto Alegre,Germany,T-01,DZA,2–1,2
+WC-2014,Argentina v Switzerland,round of 16,Arena Corinthians,São Paulo,Argentina,T-72,CHE,1–0,1
+WC-2014,Belgium v United States,round of 16,Arena Fonte Nova,Salvador,Belgium,T-79,USA,2–1,2
+WC-2014,France v Germany,quarter-finals,Estádio do Maracanã,Rio de Janeiro,France,T-29,DEU,0–1,0
+WC-2014,Brazil v Colombia,quarter-finals,Estádio Castelão,Fortaleza,Brazil,T-15,COL,2–1,2
+WC-2014,Argentina v Belgium,quarter-finals,Estádio Nacional,Brasília,Argentina,T-06,BEL,1–0,1
+WC-2014,Netherlands v Costa Rica,quarter-finals,Arena Fonte Nova,Salvador,Netherlands,T-16,CRI,0–0,0
+WC-2014,Brazil v Germany,semi-finals,Estádio Mineirão,Belo Horizonte,Brazil,T-29,DEU,1–7,1
+WC-2014,Netherlands v Argentina,semi-finals,Arena Corinthians,São Paulo,Netherlands,T-03,ARG,0–0,0
+WC-2014,Brazil v Netherlands,third-place match,Estádio Nacional,Brasília,Brazil,T-46,NLD,0–3,0
+WC-2014,Germany v Argentina,final,Estádio do Maracanã,Rio de Janeiro,Germany,T-03,ARG,1–0,1
+WC-2018,Russia v Saudi Arabia,group stage,Luzhniki Stadium,Moscow,Russia,T-60,SAU,5–0,5
+WC-2018,Egypt v Uruguay,group stage,Central Stadium,Yekaterinburg,Egypt,T-80,URY,0–1,0
+WC-2018,Morocco v Iran,group stage,Krestovsky Stadium,Saint Petersburg,Morocco,T-36,IRN,0–1,0
+WC-2018,Portugal v Spain,group stage,Fisht Olympic Stadium,Sochi,Portugal,T-70,ESP,3–3,3
+WC-2018,France v Australia,group stage,Kazan Arena,Kazan,France,T-04,AUS,2–1,2
+WC-2018,Argentina v Iceland,group stage,Otkritie Arena,Moscow,Argentina,T-35,ISL,1–1,1
+WC-2018,Peru v Denmark,group stage,Mordovia Arena,Saransk,Peru,T-21,DNK,0–1,0
+WC-2018,Croatia v Nigeria,group stage,Kaliningrad Stadium,Kaliningrad,Croatia,T-48,NGA,2–0,2
+WC-2018,Costa Rica v Serbia,group stage,Samara Arena,Samara,Costa Rica,T-63,SRB,0–1,0
+WC-2018,Germany v Mexico,group stage,Luzhniki Stadium,Moscow,Germany,T-44,MEX,0–1,0
+WC-2018,Brazil v Switzerland,group stage,Rostov Arena,Rostov-on-Don,Brazil,T-72,CHE,1–1,1
+WC-2018,Sweden v South Korea,group stage,Nizhny Novgorod Stadium,Nizhny Novgorod,Sweden,T-68,KOR,1–0,1
+WC-2018,Belgium v Panama,group stage,Fisht Olympic Stadium,Sochi,Belgium,T-52,PAN,3–0,3
+WC-2018,Tunisia v England,group stage,Volgograd Arena,Volgograd,Tunisia,T-27,ENG,1–2,1
+WC-2018,Colombia v Japan,group stage,Mordovia Arena,Saransk,Colombia,T-42,JPN,1–2,1
+WC-2018,Poland v Senegal,group stage,Otkritie Arena,Moscow,Poland,T-62,SEN,1–2,1
+WC-2018,Russia v Egypt,group stage,Krestovsky Stadium,Saint Petersburg,Russia,T-25,EGY,3–1,3
+WC-2018,Portugal v Morocco,group stage,Luzhniki Stadium,Moscow,Portugal,T-45,MAR,1–0,1
+WC-2018,Uruguay v Saudi Arabia,group stage,Rostov Arena,Rostov-on-Don,Uruguay,T-60,SAU,1–0,1
+WC-2018,Iran v Spain,group stage,Kazan Arena,Kazan,Iran,T-70,ESP,0–1,0
+WC-2018,Denmark v Australia,group stage,Samara Arena,Samara,Denmark,T-04,AUS,1–1,1
+WC-2018,France v Peru,group stage,Central Stadium,Yekaterinburg,France,T-54,PER,1–0,1
+WC-2018,Argentina v Croatia,group stage,Nizhny Novgorod Stadium,Nizhny Novgorod,Argentina,T-17,HRV,0–3,0
+WC-2018,Brazil v Costa Rica,group stage,Krestovsky Stadium,Saint Petersburg,Brazil,T-16,CRI,2–0,2
+WC-2018,Nigeria v Iceland,group stage,Volgograd Arena,Volgograd,Nigeria,T-35,ISL,2–0,2
+WC-2018,Serbia v Switzerland,group stage,Kaliningrad Stadium,Kaliningrad,Serbia,T-72,CHE,1–2,1
+WC-2018,Belgium v Tunisia,group stage,Otkritie Arena,Moscow,Belgium,T-75,TUN,5–2,5
+WC-2018,South Korea v Mexico,group stage,Rostov Arena,Rostov-on-Don,South Korea,T-44,MEX,1–2,1
+WC-2018,Germany v Sweden,group stage,Fisht Olympic Stadium,Sochi,Germany,T-71,SWE,2–1,2
+WC-2018,England v Panama,group stage,Nizhny Novgorod Stadium,Nizhny Novgorod,England,T-52,PAN,6–1,6
+WC-2018,Japan v Senegal,group stage,Central Stadium,Yekaterinburg,Japan,T-62,SEN,2–2,2
+WC-2018,Poland v Colombia,group stage,Kazan Arena,Kazan,Poland,T-15,COL,0–3,0
+WC-2018,Saudi Arabia v Egypt,group stage,Volgograd Arena,Volgograd,Saudi Arabia,T-25,EGY,2–1,2
+WC-2018,Uruguay v Russia,group stage,Samara Arena,Samara,Uruguay,T-59,RUS,3–0,3
+WC-2018,Spain v Morocco,group stage,Kaliningrad Stadium,Kaliningrad,Spain,T-45,MAR,2–2,2
+WC-2018,Iran v Portugal,group stage,Mordovia Arena,Saransk,Iran,T-56,PRT,1–1,1
+WC-2018,Australia v Peru,group stage,Fisht Olympic Stadium,Sochi,Australia,T-54,PER,0–2,0
+WC-2018,Denmark v France,group stage,Luzhniki Stadium,Moscow,Denmark,T-28,FRA,0–0,0
+WC-2018,Iceland v Croatia,group stage,Rostov Arena,Rostov-on-Don,Iceland,T-17,HRV,1–2,1
+WC-2018,Nigeria v Argentina,group stage,Krestovsky Stadium,Saint Petersburg,Nigeria,T-03,ARG,1–2,1
+WC-2018,South Korea v Germany,group stage,Kazan Arena,Kazan,South Korea,T-29,DEU,2–0,2
+WC-2018,Mexico v Sweden,group stage,Central Stadium,Yekaterinburg,Mexico,T-71,SWE,0–3,0
+WC-2018,Serbia v Brazil,group stage,Otkritie Arena,Moscow,Serbia,T-09,BRA,0–2,0
+WC-2018,Switzerland v Costa Rica,group stage,Nizhny Novgorod Stadium,Nizhny Novgorod,Switzerland,T-16,CRI,2–2,2
+WC-2018,Japan v Poland,group stage,Volgograd Arena,Volgograd,Japan,T-55,POL,0–1,0
+WC-2018,Senegal v Colombia,group stage,Samara Arena,Samara,Senegal,T-15,COL,0–1,0
+WC-2018,England v Belgium,group stage,Kaliningrad Stadium,Kaliningrad,England,T-06,BEL,0–1,0
+WC-2018,Panama v Tunisia,group stage,Mordovia Arena,Saransk,Panama,T-75,TUN,1–2,1
+WC-2018,France v Argentina,round of 16,Kazan Arena,Kazan,France,T-03,ARG,4–3,4
+WC-2018,Uruguay v Portugal,round of 16,Fisht Olympic Stadium,Sochi,Uruguay,T-56,PRT,2–1,2
+WC-2018,Spain v Russia,round of 16,Luzhniki Stadium,Moscow,Spain,T-59,RUS,1–1,1
+WC-2018,Croatia v Denmark,round of 16,Nizhny Novgorod Stadium,Nizhny Novgorod,Croatia,T-21,DNK,1–1,1
+WC-2018,Brazil v Mexico,round of 16,Samara Arena,Samara,Brazil,T-44,MEX,2–0,2
+WC-2018,Belgium v Japan,round of 16,Rostov Arena,Rostov-on-Don,Belgium,T-42,JPN,3–2,3
+WC-2018,Sweden v Switzerland,round of 16,Krestovsky Stadium,Saint Petersburg,Sweden,T-72,CHE,1–0,1
+WC-2018,Colombia v England,round of 16,Otkritie Arena,Moscow,Colombia,T-27,ENG,1–1,1
+WC-2018,Uruguay v France,quarter-finals,Nizhny Novgorod Stadium,Nizhny Novgorod,Uruguay,T-28,FRA,0–2,0
+WC-2018,Brazil v Belgium,quarter-finals,Kazan Arena,Kazan,Brazil,T-06,BEL,1–2,1
+WC-2018,Sweden v England,quarter-finals,Samara Arena,Samara,Sweden,T-27,ENG,0–2,0
+WC-2018,Russia v Croatia,quarter-finals,Fisht Olympic Stadium,Sochi,Russia,T-17,HRV,2–2,2
+WC-2018,France v Belgium,semi-finals,Krestovsky Stadium,Saint Petersburg,France,T-06,BEL,1–0,1
+WC-2018,Croatia v England,semi-finals,Luzhniki Stadium,Moscow,Croatia,T-27,ENG,2–1,2
+WC-2018,Belgium v England,third-place match,Krestovsky Stadium,Saint Petersburg,Belgium,T-27,ENG,2–0,2
+WC-2018,France v Croatia,final,Luzhniki Stadium,Moscow,France,T-17,HRV,4–2,4

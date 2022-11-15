@@ -1,4 +1,4 @@
-authors: Zack Dong, Muno Siyakurima, and Ali Ramazani 
+/* authors: Zack Dong, Muno Siyakurima, and Ali Ramazani */
 
 CREATE TABLE players (
     id text,
@@ -6,7 +6,8 @@ CREATE TABLE players (
     lastname text,
     country text,
     count_tournaments int,
-    list_tournaments text
+    list_tournaments text,
+    player_fullname text
 );
 
 CREATE TABLE teams (
@@ -55,7 +56,7 @@ CREATE TABLE qualified_teams (
 
 CREATE TABLE matches (
     id int,
-    tournament_id text, --maybe
+    tournament_id text, 
     match_name text, 
     stage_name text,
     stadium_name text,

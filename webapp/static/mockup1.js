@@ -10,7 +10,7 @@
         if (firstList) {
             // Load some <li> elements into the list. You could also
             // hard-code these into the HTML or obtain them from an API.
-            var listBody = '<li>1930</li>\n<li>1934</li>\n<li>1938</li>\n<li>1950</li>\n<li>1954</li>\n<li>1958</li>\n<li>1962</li>\n<li>1966</li>\n<li>1970</li>\n<li>1974</li>\n<li>1978</li>\n<li>1982</li>\n<li>1986</li>\n<li>1990</li>\n<li>1994</li>\n<li>1998</li>\n<li>2002</li>\n<li>2006</li>\n<li>2010</li>\n<li>2014</li>\n<li>2018</li>\n<li>2022</li>';
+            var listBody = '<li>1930</li>\n<li>1934</li>\n<li>1938</li>\n<li>1950</li>\n<li>1954</li>\n<li>1958</li>\n<li>1962</li>\n<li>1966</li>\n<li>1970</li>\n<li>1974</li>\n<li>1978</li>\n<li>1982</li>\n<li>1986</li>\n<li>1990</li>\n<li>1994</li>\n<li>1998</li>\n<li>2002</li>\n<li>2006</li>\n<li>2010</li>\n<li>2014</li>\n<li>2018</li>';
             firstList.innerHTML = listBody;
             
             // Give the <li> elements a click handler.
