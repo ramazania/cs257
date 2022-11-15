@@ -24,7 +24,7 @@ CREATE TABLE tournaments (
 );
 
 CREATE TABLE group_standings (
-    id int,
+    tournament_id text,
     stage_name text,
     team_name text,
     group_name text, 
@@ -46,6 +46,12 @@ CREATE TABLE tournament_standings (
     position int
 
 );
+
+CREATE TABLE qualified_teams (
+    tournament_id text,
+    team_id text,
+    team_name text
+)
 
 CREATE TABLE matches (
     id int,
