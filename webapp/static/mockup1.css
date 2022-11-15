@@ -116,8 +116,13 @@ body {
     color: #f1f1f1;
   }
 
+.sidenav button {
+  border: none;
+  
+}
 
 @media screen and (max-height: 450px) {
 .sidenav {padding-top: 15px;}
 .sidenav ul {font-size: 18px;}
 }
+

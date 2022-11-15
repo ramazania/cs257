@@ -54,7 +54,6 @@ with open('data-csv/group_standings.csv') as group_standings, open('parsed-data/
     heading_row = next(reader)
     for column in reader:
         gs_tournament_id = column[1]
-        gs_stage_number = column[3]
         gs_stage_name = column[4]
         gs_team_name = column[8]
         gs_group_name = column[5]
@@ -67,7 +66,8 @@ with open('data-csv/group_standings.csv') as group_standings, open('parsed-data/
         gs_goals_against = column[15]
         gs_goal_difference = column[16]
         gs_points = column[17]
-        writer.writerow([gs_tournament_id, gs_stage_number, gs_stage_name, gs_team_name, gs_group_name, gs_position, gs_played, gs_wins, gs_draws, gs_losses, gs_goals_for, gs_goals_against, gs_goal_difference, gs_points])
+        writer.writerow([gs_tournament_id, gs_stage_name, gs_team_name, gs_group_name, gs_position, gs_played, gs_wins, gs_draws,
+                        gs_losses, gs_goals_for, gs_goals_against, gs_goal_difference, gs_points])
 
 
 with open('data-csv/tournament_standings.csv') as original_data_file, open('parsed-data/tournament_standings.csv', 'w', newline="\n") as tournament_standings_file:

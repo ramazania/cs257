@@ -35,7 +35,7 @@ def get_mockup3():
     ''' This is the only route intended for human users '''
     return flask.render_template('mockup3.html')
 
-@app.route('/tournament/<year>')
+
 
 ########### Running the website server ###########
 if __name__ == '__main__':

@@ -26,7 +26,7 @@ def get_connection():
 #     return "Hello"
 
 
-@api.route('/tournament / <year>')
+@api.route('/tournament/<year>')
 def get_tournament():
     ''' Returns the teams and statistics from a specific tournament year in our database. 
         e.g http://.../tournaments/2018
@@ -34,20 +34,22 @@ def get_tournament():
     '''
     query = '''SELECT tournament_id, team_name
             FROM qualified_teams 
-            WHERE tournament_id =WC-%year%'''
+            WHERE tournament_id =%s'''
     query2 = '''SELECT award_name, last_name, first_name
             FROM awards
-            WHERE tournament_id = WC%year%'''
+            WHERE tournament_id =%s'''
     
     teams_list = []
     statistics_list = []
+    tournament_id = changedata(parameter)
+    
 
     try:
         connection = get_connection()
         cursor = connection.cursor()
         cursor2 = connection.cursor()
-        cursor.execute(query)
-        cursor2.execute(query2)
+        cursor.execute(query, tournament_id)
+        cursor2.execute(query2, tournament_id)
         for row in cursor:
             team = {'tournament_id':row[0],
                       'team_name':row[2]}

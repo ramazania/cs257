@@ -4,7 +4,6 @@ CREATE TABLE players (
     id text,
     firstname text,
     lastname text,
-    country text,
     count_tournaments int,
     list_tournaments text,
     player_fullname text
@@ -52,7 +51,7 @@ CREATE TABLE qualified_teams (
     tournament_id text,
     team_id text,
     team_name text
-)
+);
 
 CREATE TABLE matches (
     id int,
@@ -64,8 +63,8 @@ CREATE TABLE matches (
     home_team_name text, 
     away_team_name text,
     score text,
-    home_team_score int,
-    away_team_score int
+    home_team_score text,
+    away_team_score text
 );
 
 CREATE TABLE awards (
@@ -77,5 +76,5 @@ CREATE TABLE awards (
     last_name text,
     first_name text,
     team_id text
-)
+);
 
