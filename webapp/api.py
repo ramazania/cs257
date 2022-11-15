@@ -17,13 +17,13 @@ def get_connection():
                             password=config.password)
 
 
-# @api.route('/')
-# def get_main_page():
-#     return flask.render_template('index.html')
+@api.route('/')
+def get_main_page():
+    return flask.render_template('index.html')
 
-# @api.route('/teams[?name={TEAM_NAME}&year={TOURNAMENT_YEAR}]')
-# def get_team():
-#     return "Hello"
+@api.route('/teams[?name={TEAM_NAME}&year={TOURNAMENT_YEAR}]')
+def get_team():
+    return "Hello"
 
 
 @api.route('/tournament/<year>')
@@ -70,9 +70,9 @@ def get_tournament():
 
 
 
-# @api.route('/statistics / <year>')
-# def get_statistics():
-#     return "Hello"
+@api.route('/statistics / <year>')
+def get_statistics():
+    return "Hello"
 
 @api.route('/tournaments/')
 def get_all_tournaments():
@@ -80,7 +80,7 @@ def get_all_tournaments():
         http://.../tournaments
         Returns an empty list if there's any database failure.
     '''
-    query = '''SELECT tournament_id, tournament_name, team_name, host_country, winner
+    query = '''SELECT id, tournament_name, year, host_country, winner
             FROM tournaments '''
 
     tournaments_list = []
