@@ -25,12 +25,15 @@ function changedata(parameter){
     .then((response) => response.json())
 
     .then(function(tournament_teams_list) {
-        var tableBody = '<tr><th>' + 'Teams in the' + parameter + '</th></tr>';
+        var tableBody = '<tr><th>' + 'Teams in the ' + parameter + '</th></tr>';
         tableBody += '<tr>';
+        count = 0;
         for (var k = 0; k < tournament_teams_list.length; k++) {
-            
+            count += 1;
+            if (count % 4 ==0) '</tr> <tr>'
             tableBody += '<td>' + tournament_teams_list[k]['team_name'] + '</td>'
-            
+
+
         }
         tableBody += '</tr>';
         // Put the table body we just built inside the table that's already on the page.

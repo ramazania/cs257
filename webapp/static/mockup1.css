@@ -118,7 +118,8 @@ body {
 
 .sidenav button {
   border: none;
-  
+  width: 160px;
+  text-align: left;
 }
 
 @media screen and (max-height: 450px) {
