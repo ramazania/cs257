@@ -58,46 +58,34 @@ def get_team():
     return "Hello"
 
 
-# @api.route('/tournament/<year>')
-# def get_tournament():
-#     ''' Returns the teams and statistics from a specific tournament year in our database. 
-#         e.g http://.../tournaments/2018
-#         Returns an empty list if there's any database failure.
-#     '''
-#     query = '''SELECT tournament_id, team_name
-#             FROM qualified_teams 
-#             WHERE tournament_id =%s'''
-#     query2 = '''SELECT award_name, last_name, first_name
-#             FROM awards
-#             WHERE tournament_id =%s'''
+@api.route('/getTournament/<tournament_id>')
+def get_tournament(tournament_id):
+    ''' Returns the teams and statistics from a specific tournament year in our database. 
+        e.g http://.../tournaments/2018
+        Returns an empty list if there's any database failure.
+    '''
+    query = '''SELECT tournament_id, team_id, team_name
+            FROM qualified_teams 
+            WHERE qualified_teams.tournament_id = %s'''
     
-#     teams_list = []
-#     statistics_list = []
-#     tournament_id = changedata(parameter)
+    teams_list = []
     
 
-#     try:
-#         connection = get_connection()
-#         cursor = connection.cursor()
-#         cursor2 = connection.cursor()
-#         cursor.execute(query, tournament_id)
-#         cursor2.execute(query2, tournament_id)
-#         for row in cursor:
-#             team = {'tournament_id':row[0],
-#                       'team_name':row[2]}
-#             teams_list.append(team)
-#         cursor.close()
-#         for row in cursor2:
-#             stat = {'award_name':row[2],
-#                       'last_name':row[5],
-#                       'first_name': row[6]}
-#             statistics_list.append(stat)
-#         cursor.close()
-#         connection.close()
-#     except Exception as e:
-#         print(e, file=sys.stderr)
+    try:
+        connection = get_connection()
+        cursor = connection.cursor()
+        cursor.execute(query, (tournament_id,))
+        for row in cursor:
+            team = {'tournament_id':row[0],
+                    'team_id' : row[1],
+                      'team_name':row[2]}
+            teams_list.append(team)
+        cursor.close()
+        connection.close()
+    except Exception as e:
+        print(e, file=sys.stderr)
 
-#     return json.dumps(teams_list, statistics_list)
+    return json.dumps(teams_list)
 
 
 

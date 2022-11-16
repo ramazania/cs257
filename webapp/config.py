@@ -1,3 +1,3 @@
-user='ramazania'
-password='4965'
+user='munotida'
+password='ShalomMuno55'
 database='fifa_world_cup'
