@@ -25,13 +25,15 @@ function changedata(parameter){
     .then((response) => response.json())
 
     .then(function(tournament_teams_list) {
-        var tableBody = '<tr><th>' + 'Teams in the ' + parameter + '</th></tr>';
-        tableBody += '<tr>';
-        count = 0;
+        var table_name = parameter.substring(3) + " World Cup Teams";
+        var tableBody = '<caption>' + table_name + '</caption> <tr>';
+        count = -1;
         for (var k = 0; k < tournament_teams_list.length; k++) {
             count += 1;
-            if (count % 4 ==0) '</tr> <tr>'
-            tableBody += '<td>' + tournament_teams_list[k]['team_name'] + '</td>'
+            if (count % 4 ==0) {
+              tableBody +=  '</tr> <tr>';
+            }
+            tableBody += '<td>' + tournament_teams_list[k]['team_name'] + '</td>';
 
 
         }
@@ -42,6 +44,25 @@ function changedata(parameter){
             resultsTableElement.innerHTML = tableBody;
         }
     })
+
+//     .then(function(statistics_list) {
+//     var statsBody = '<tr>';
+//     for (var k = 0; k < statistics_list.length; k++) {
+//         statsBody += '<td>' 
+//                         + statistics_list[k]['award_name'] + ' '
+//                         + statistics_list[k]['last_name'] + ' '
+//                         + statistics_list[k]['first_name'] + ' '
+//         statsBody += '</td>';
+        
+//     }
+    
+//     statsBody += '</tr>';
+//     // Put the table body we just built inside the table that's already on the page.
+//     var statsTableElement = document.getElementById('statistics_table');
+//     if (statsTableElement) {
+//         statsTableElement.innerHTML = statsBody;
+//     }
+// })
     
 
     .catch(function(error) {

@@ -68,7 +68,12 @@ def get_tournament(tournament_id):
             FROM qualified_teams 
             WHERE qualified_teams.tournament_id = %s'''
     
+    # query2 = '''SELECT tournament_id, award_name, last_name, first_name
+    #         FROM awards 
+    #         WHERE awards.tournament_id = %s'''
+    
     teams_list = []
+    # statistics_list = []
     
 
     try:
@@ -78,14 +83,31 @@ def get_tournament(tournament_id):
         for row in cursor:
             team = {'tournament_id':row[0],
                     'team_id' : row[1],
-                      'team_name':row[2]}
+                    'team_name':row[2]}
             teams_list.append(team)
         cursor.close()
         connection.close()
     except Exception as e:
         print(e, file=sys.stderr)
+    
+    # try:
+    #     connection2 = get_connection()
+    #     cursor2 = connection2.cursor()
+    #     cursor2.execute(query2, (tournament_id,))
+    #     for row in cursor2:
+    #         statistic = {'tournament_id':row[0],
+    #                 'award_name' : row[2],
+    #                   'last_name':row[5],
+    #                   'first_name': row[6]}
+    #         statistics_list.append(statistic)
+    #     cursor2.close()
+    #     connection2.close()
+    # except Exception as e:
+    #     print(e, file=sys.stderr)
 
     return json.dumps(teams_list)
+
+    
 
 
 
