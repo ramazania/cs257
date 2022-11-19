@@ -53,9 +53,11 @@ def get_all_tournaments():
 
     return json.dumps(tournaments_list)
 
-@api.route('/teams[?name={TEAM_NAME}&year={TOURNAMENT_YEAR}]')
-def get_team():
-    return "Hello"
+@api.route('/teams/<team_name>/team_id>')
+def get_team(team_name, tournament_id):
+
+    query = '''SELECT '''
+    return 
 
 
 @api.route('/getTournament/<tournament_id>')
@@ -68,12 +70,12 @@ def get_tournament(tournament_id):
             FROM qualified_teams 
             WHERE qualified_teams.tournament_id = %s'''
     
-    # query2 = '''SELECT tournament_id, award_name, last_name, first_name
-    #         FROM awards 
-    #         WHERE awards.tournament_id = %s'''
+    query2 = '''SELECT tournament_id, award_name, last_name, first_name
+            FROM awards 
+            WHERE awards.tournament_id = %s'''
     
     teams_list = []
-    # statistics_list = []
+    statistics_list = []
     
 
     try:
@@ -90,20 +92,20 @@ def get_tournament(tournament_id):
     except Exception as e:
         print(e, file=sys.stderr)
     
-    # try:
-    #     connection2 = get_connection()
-    #     cursor2 = connection2.cursor()
-    #     cursor2.execute(query2, (tournament_id,))
-    #     for row in cursor2:
-    #         statistic = {'tournament_id':row[0],
-    #                 'award_name' : row[2],
-    #                   'last_name':row[5],
-    #                   'first_name': row[6]}
-    #         statistics_list.append(statistic)
-    #     cursor2.close()
-    #     connection2.close()
-    # except Exception as e:
-    #     print(e, file=sys.stderr)
+    try:
+        connection2 = get_connection()
+        cursor2 = connection2.cursor()
+        cursor2.execute(query2, (tournament_id,))
+        for row in cursor2:
+            statistic = {'tournament_id':row[0],
+                    'award_name' : row[2],
+                      'last_name':row[5],
+                      'first_name': row[6]}
+            statistics_list.append(statistic)
+        cursor2.close()
+        connection2.close()
+    except Exception as e:
+        print(e, file=sys.stderr)
 
     return json.dumps(teams_list)
 

@@ -35,7 +35,6 @@ function changedata(parameter){
             }
             tableBody += '<td>' + tournament_teams_list[k]['team_name'] + '</td>';
 
-
         }
         tableBody += '</tr>';
         // Put the table body we just built inside the table that's already on the page.

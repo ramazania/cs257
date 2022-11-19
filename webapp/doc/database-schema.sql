@@ -15,6 +15,17 @@ CREATE TABLE teams (
     team_code text
 );
 
+CREATE TABLE squads (
+    team_id text,
+    team_name text,
+    player_id text,
+    last_name text,
+    first_name text,
+    shirt_number int,
+    position text
+);
+
+
 CREATE TABLE tournaments (
     id text,
     tournament_name text,
