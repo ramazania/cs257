@@ -16,6 +16,7 @@ CREATE TABLE teams (
 );
 
 CREATE TABLE squads (
+    tournament_id text,
     team_id text,
     team_name text,
     player_id text,

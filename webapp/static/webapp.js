@@ -33,7 +33,8 @@ function changedata(parameter){
             if (count % 4 ==0) {
               tableBody +=  '</tr> <tr>';
             }
-            tableBody += '<td>' + tournament_teams_list[k]['team_name'] + '</td>';
+            tableBody += '<td><button onclick="getTeam()">'
+                        + tournament_teams_list[k]['team_name'] + '</button></td>';
 
         }
         tableBody += '</tr>';
@@ -41,6 +42,20 @@ function changedata(parameter){
         var resultsTableElement = document.getElementById('s_table');
         if (resultsTableElement) {
             resultsTableElement.innerHTML = tableBody;
+        }
+        var statsBody = '<tr>';
+        for (var k = 0; k < tournament_teams_list.length; k++) {
+            statsBody += '<td>' 
+                            + tournament_teams_list[k]['award_name'] + ' '
+                            + tournament_teams_list[k]['last_name'] + ' '
+                            + tournament_teams_list[k]['first_name'] + ' '
+            statsBody += '</td> </tr> <tr>';
+        }
+        statsBody += '</tr>';
+        // Put the table body we just built inside the table that's already on the page.
+        var statsTableElement = document.getElementById('statistics_table');
+        if (statsTableElement) {
+            statsTableElement.innerHTML = statsBody;
         }
     })
 
@@ -51,10 +66,8 @@ function changedata(parameter){
 //                         + statistics_list[k]['award_name'] + ' '
 //                         + statistics_list[k]['last_name'] + ' '
 //                         + statistics_list[k]['first_name'] + ' '
-//         statsBody += '</td>';
-        
+//         statsBody += '</td> </tr> <tr>';
 //     }
-    
 //     statsBody += '</tr>';
 //     // Put the table body we just built inside the table that's already on the page.
 //     var statsTableElement = document.getElementById('statistics_table');
@@ -68,6 +81,35 @@ function changedata(parameter){
         console.log(error);
     });
 
+}
+
+function getTeam(){
+    var url = getAPIBaseURL() + '/teams';
+
+    fetch(url, {method: 'get'})
+
+    .then((response) => response.json())
+
+
+    // .then(function(players_list) {
+    //     var tableBody = '<tr><th>' + teamName + '</th></tr>';
+    //     for (var k = 0; k < players_list.length; k++) {
+    //         tableBody += '<tr>';
+    //         tableBody += '<td>' + players_list[k]['last_name'] 
+    //                             + players_list[k]['first_name'] 
+    //                             + players_list[k]['shirt_number'] + '</td>';
+    //         tableBody += '</tr>';
+    //     }
+    //     var resultsTableElement = document.getElementById('results_table');
+    //     if (resultsTableElement) {
+    //         resultsTableElement.innerHTML = tableBody;
+    //     }
+    // })
+
+    .catch(function(error) {
+        console.log(error);
+    });
+    
 }
 
 // window.onload = initialize;

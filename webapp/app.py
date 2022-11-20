@@ -40,6 +40,10 @@ def get_mockup3():
     return flask.render_template('mockup3.html')
 
 
+@app.route('/teams') 
+def get_team_page():
+    return flask.render_template('team.html')
+
 
 ########### Running the website server ###########
 if __name__ == '__main__':

@@ -40,14 +40,17 @@ with open ('data-csv/squads.csv') as original_data_file, open ('parsed-data/squa
         writer = csv.writer(squads_file)
         heading_row = next(reader) 
         for column in reader:
+            tournament_id = column[1]
             team_id = column[3]
             team_name = column[4]
             player_id = column[6]
             last_name = column[7]
             first_name = column[8]
+            if first_name == "not applicable":
+                player_firstname = ""
             shirt_number = column[9]
             position = column[10]
-            writer.writerow([team_id, team_name, player_id, last_name, first_name, shirt_number, position])
+            writer.writerow([tournament_id, team_id, team_name, player_id, last_name, first_name, shirt_number, position])
 
 
 # with open('data-csv/tournaments.csv') as tournaments, open('parsed-data/tournaments.csv', 'w', newline="\n") as tournaments_file:
