@@ -1,5 +1,12 @@
 body {
   background-color: powderblue;
+  font-family: "Lato", sans-serif;
+  margin-left: 170px;
+}
+
+img {
+  width: 500px;
+  height: 300px;
 }
 
 p {
@@ -12,10 +19,17 @@ p {
 td {
   padding: 10px;
   font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 caption {
   font-size: 30px;
+}
+
+th {
+  padding:10px;
+  font-size: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h1 {
@@ -40,12 +54,7 @@ figcaption {
   font-weight: bold;
 }
 
-body {
-  font-family: "Lato", sans-serif;
-  margin-left: 170px;
-}
-
-.topnav {
+/* .topnav {
   height: 60px;
   width: 100%;
   z-index: 2;
@@ -76,11 +85,11 @@ body {
 
 .topnav ul a:hover{
   background-color: #111;
-}
+} */
 
 .sidenav {
     height: 100%;
-    width: 170px;
+    width: 140px;
     position: fixed;
     z-index: 1;
     top: 0;
@@ -94,7 +103,7 @@ body {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    width: 200px;
+    width: 140px;
     background-color: #f1f1f1;
 }
 
@@ -102,7 +111,7 @@ body {
     padding: 6px 6px 6px 32px;
     text-decoration: none;
     font-size: 25px;
-    color: #818181;
+    color: black;
     display: block;
 }
 .sidenav a {
@@ -110,7 +119,7 @@ body {
     text-decoration: none;
     font-size: 25px;
     color: #f1f1f1;
-    background-color: #818181;
+    background-color: black;
     display: block;
   }
   
@@ -121,7 +130,7 @@ body {
 
 .sidenav button {
   border: none;
-  width: 160px;
+  width: 140px;
   text-align: left;
 }
 

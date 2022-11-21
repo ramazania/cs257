@@ -16,43 +16,45 @@ def get_connection():
                             user=config.user,
                             password=config.password)
 
-
+#Returns the home page for the website
 @api.route('/')
 def get_main_page():
     return flask.render_template('index.html')
 
+#Returns the page with all the api endpoints.
 @api.route('/help')
 def get_help():
     return flask.render_template('help.html')
 
-@api.route('/tournaments/')
-def get_all_tournaments():
-    ''' Returns a list of all the tournament years in our database. 
-        http://.../tournaments
-        Returns an empty list if there's any database failure.
-    '''
-    query = '''SELECT id, tournament_name, year, host_country, winner
-            FROM tournaments '''
+# @api.route('/tournaments/')
+# def get_all_tournaments():
+#     ''' Returns a list of all the tournament years in our database. 
+#         http://.../tournaments
+#         Returns an empty list if there's any database failure.
+#     '''
+#     query = '''SELECT id, tournament_name, year, host_country, winner
+#             FROM tournaments '''
 
-    tournaments_list = []
-    try:
-        connection = get_connection()
-        cursor = connection.cursor()
-        cursor.execute(query)
-        for row in cursor:
-            tournament = {'id':row[0],
-                      'tournament_name':row[1],
-                      'year':row[2],
-                      'host_country':row[3],
-                      'winner':row[4]}
-            tournaments_list.append(tournament)
-        cursor.close()
-        connection.close()
-    except Exception as e:
-        print(e, file=sys.stderr)
+#     tournaments_list = []
+#     try:
+#         connection = get_connection()
+#         cursor = connection.cursor()
+#         cursor.execute(query)
+#         for row in cursor:
+#             tournament = {'id':row[0],
+#                       'tournament_name':row[1],
+#                       'year':row[2],
+#                       'host_country':row[3],
+#                       'winner':row[4]}
+#             tournaments_list.append(tournament)
+#         cursor.close()
+#         connection.close()
+#     except Exception as e:
+#         print(e, file=sys.stderr)
 
-    return json.dumps(tournaments_list)
+#     return json.dumps(tournaments_list)
 
+#Returns a list of players for a given tournament year and team name. 
 @api.route('/teams/<tournament_id>/<team_name>')
 def get_team(tournament_id, team_name):
 
@@ -80,25 +82,19 @@ def get_team(tournament_id, team_name):
     return json.dumps(players_list)
     
 
+#Returns a list of teams that played in the given tournament
 @api.route('/getTournament/<tournament_id>')
 def get_tournament(tournament_id):
-    ''' Returns the teams and statistics from a specific tournament year in our database. 
-        e.g http://.../tournaments/2018
+    ''' Returns the teams from a specific tournament year in our database. 
+        e.g http://.../tournaments/WC-2018
         Returns an empty list if there's any database failure.
     '''
     query = '''SELECT tournament_id, team_id, team_name
             FROM qualified_teams
             WHERE qualified_teams.tournament_id = %s'''
     
-    # query2 = '''SELECT award_name, last_name, first_name
-    #         FROM awards
-    #         WHERE awards.tournament_id = %s'''
-    
     teams_list = []
-    #stats_list = []
-
     
-
     try:
         connection = get_connection()
         cursor = connection.cursor()
@@ -113,55 +109,35 @@ def get_tournament(tournament_id):
     except Exception as e:
         print(e, file=sys.stderr)
 
-    # try:
-    #     connection2 = get_connection()
-    #     cursor2 = connection2.cursor()
-    #     cursor2.execute(query2, (tournament_id,))
-    #     for row in cursor2:
-    #         stats = {'award_name' : row[0],
-    #                 'last_name':row[1],
-    #                 'first_name': row[2]}
-    #         stats_list.append(stats)
-    #     cursor2.close()
-    #     connection2.close()
-    # except Exception as e:
-    #     print(e, file=sys.stderr)
-
-    # list3 = teams_list + stats_list
     return json.dumps(teams_list)
     
     
 
-
-
-
-@api.route('/stats /<tournament_id>')
+#Returns the awards for a given tournament
+@api.route('/awards/<tournament_id>')
 def get_statistics(tournament_id):
-    query = '''SELECT tournament_id, team_id, team_name
-            FROM qualified_teams
-            WHERE qualified_teams.tournament_id = %s'''
     
-    # query2 = '''SELECT award_name, last_name, first_name
-    #         FROM awards
-    #         WHERE awards.tournament_id = %s'''
+    query = '''SELECT award_name, last_name, first_name
+            FROM awards
+            WHERE awards.tournament_id = %s'''
     
-    stats_list = []
+    awards_list = []
     try:
         connection = get_connection()
         cursor = connection.cursor()
         cursor.execute(query, (tournament_id,))
         for row in cursor:
-            stats = {'award_name' : row[0],
+            award = {'award_name' : row[0],
                     'last_name':row[1],
                     'first_name': row[2]}
-            stats_list.append(stats)
+            awards_list.append(award)
         cursor.close()
         connection.close()
     except Exception as e:
         print(e, file=sys.stderr)
 
 
-    return json.dumps(stats_list)
+    return json.dumps(awards_list)
 
     
 @api.route('/teams')
