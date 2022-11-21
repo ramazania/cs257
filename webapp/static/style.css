@@ -1,8 +1,37 @@
 /* Authors: Zack Dong, Ali Ramazani and Muno Siyakurima */
+body {
+    background-color: powderblue;
+    font-family: "Lato", sans-serif;
+    margin-left: 170px;
+}
+
+img {
+    width: 500px;
+    height: 300px;
+}
 
 p {
     color: black;
-    font-size: 20pt;
+    font-size: 20px;
+    margin-left: 30px;
+    text-align: center;
+}
+
+td {
+    padding: 10px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+caption {
+    font-size: 30px;
+}
+
+th {
+    padding:10px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h1 {
@@ -15,15 +44,92 @@ h2 {
     color: black;
     text-align: center;
     font-size: 30pt;
-
 }
 
 figure {
     display: inline-block;
-  }
-  
-  figcaption {
+}
+
+figcaption {
     text-align: center;
     font-size: 17pt;
     font-weight: bold;
-  }
+}
+
+
+.sidenav {
+    height: 100%;
+    width: 140px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #f1f1f1;
+    overflow-x: hidden;
+}
+
+
+.sidenav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 140px;
+    background-color: #f1f1f1;
+}
+
+.sidenav ul li {
+    padding: 6px 6px 6px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    display: block;
+}
+.sidenav a {
+    padding: 6px 6px 6px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #f1f1f1;
+    background-color: black;
+    display: block;
+}
+
+.sidenav ul li:hover {
+    background-color: #555;
+    color: #f1f1f1;
+}
+
+.sidenav button {
+    border: none;
+    width: 140px;
+    text-align: left;
+}
+
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav ul {font-size: 18px;}
+}
+
+.tabs {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+
+.tab {
+    width: 33%;
+    margin: 0;
+    padding: 0 1vw;
+}
+
+.getTeam{
+    margin: 0;
+    border: none;
+    background-color: #555;
+    color: #f1f1f1;
+    width: 70px;
+    height: 40px;
+}

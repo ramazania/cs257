@@ -5,22 +5,13 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type = "text/css" href="../static/mockup1.css">
+    <link rel="stylesheet" type = "text/css" href="../static/style.css">
     <script type="text/javascript" src="../static/webapp.js" ></script>
     <title>Fifa World Cup</title>
 </head>
 <body>
 
-    <h1><a href="http://localhost:5000/">FIFA World Cup </a>
-    <!-- <div class ="Tournament Years">
-            <button id="tournaments_button"> Get Tournaments </button>
-            <center><table id="results_table"></table></center>
-            <select name="Tournaments" id="Tournaments" onChange="window.location.href=this.value">
-            <option selected disabled>Tournaments</option>
-            <option value="mockup2.html">2018 Russia</option>
-            </select>
-        </div> -->
-    </h1>
+    <h1><a style="text-decoration:none" href="http://localhost:5000/">FIFA World Cup </a></h1>
 
     <div id="Main_outline">
         <p> Taking place quadrennially, the FIFA Men's World Cup sees 32 nations compete against each other for the prize.</p> 
@@ -55,13 +46,16 @@
             <button onclick="changedata('WC-2018')"><li>2018</li></button>
         </ul>
     </div>
-
-    <div>
-        <p> </p>
-        <p> </p>
-        <center><table id="s_table"></table></center>
-        <center> <table id="results_table"></table> </center>
+    <br> </br>
+    <div class="tabs"> 
+        <div class="tab">
+            <center><table id="awards_table"></table></center>
+        </div>
+        <div class="tab">
+            <center><table id="teams_table"></table></center>
     </div>
+    <br></br>
+    <center> <table id="squads_table"></table> </center>
 
 </body>
 

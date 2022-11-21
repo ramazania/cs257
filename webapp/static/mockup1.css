@@ -20,6 +20,7 @@ td {
   padding: 10px;
   font-size: 20px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
 }
 
 caption {
@@ -54,38 +55,6 @@ figcaption {
   font-weight: bold;
 }
 
-/* .topnav {
-  height: 60px;
-  width: 100%;
-  z-index: 2;
-  margin-left: 0px;
-  background-color:black;
-}
-
-.topnav ul {
-  height: 50px;
-  width: 100%;
-  z-index: 2;
-  top: 0;
-  left: 0;
-  background-color:black;
-}
-
-.topnav ul li {
-  float: left;
-}
-
-.topnav ul a{
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-.topnav ul a:hover{
-  background-color: #111;
-} */
 
 .sidenav {
     height: 100%;
@@ -137,5 +106,21 @@ figcaption {
 @media screen and (max-height: 450px) {
 .sidenav {padding-top: 15px;}
 .sidenav ul {font-size: 18px;}
+}
+
+.tabs {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+  align-items: flex-start;
+}
+
+.tab {
+  width: 33%;
+  margin: 0;
+  padding: 0 1vw;
 }
 

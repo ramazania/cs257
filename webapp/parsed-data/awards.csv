@@ -4,31 +4,31 @@ WC-1930,A-6,Bronze Boot,0,P-09215,Patenaude,Bert,T-79
 WC-1934,A-4,Golden Boot,0,P-05627,Nejedlý,Oldřich,T-20
 WC-1934,A-5,Silver Boot,1,P-03649,Conen,Edmund,T-29
 WC-1934,A-5,Silver Boot,1,P-02250,Schiavio,Angelo,T-39
-WC-1938,A-4,Golden Boot,0,P-03023,Leônidas,not applicable,T-09
+WC-1938,A-4,Golden Boot,0,P-03023,Leônidas,,T-09
 WC-1938,A-5,Silver Boot,1,P-08824,Piola,Silvio,T-39
 WC-1938,A-5,Silver Boot,1,P-02366,Sárosi,György,T-34
 WC-1938,A-5,Silver Boot,1,P-04466,Zsengellér,Gyula,T-34
-WC-1950,A-4,Golden Boot,0,P-04188,Ademir,not applicable,T-09
+WC-1950,A-4,Golden Boot,0,P-04188,Ademir,,T-09
 WC-1950,A-5,Silver Boot,0,P-06216,Míguez,Oscar,T-80
 WC-1950,A-6,Bronze Boot,1,P-08187,Basora,Estanislau,T-70
-WC-1950,A-6,Bronze Boot,1,P-02577,Chico,not applicable,T-09
+WC-1950,A-6,Bronze Boot,1,P-02577,Chico,,T-09
 WC-1950,A-6,Bronze Boot,1,P-03281,Zarra,Telmo,T-70
 WC-1954,A-4,Golden Boot,0,P-07498,Kocsis,Sándor,T-34
 WC-1954,A-5,Silver Boot,1,P-05476,Hügi,Josef,T-72
 WC-1954,A-5,Silver Boot,1,P-01070,Morlock,Max,T-82
 WC-1954,A-5,Silver Boot,1,P-01943,Probst,Erich,T-05
 WC-1958,A-4,Golden Boot,0,P-00643,Fontaine,Just,T-28
-WC-1958,A-5,Silver Boot,1,P-03795,Pelé,not applicable,T-09
+WC-1958,A-5,Silver Boot,1,P-03795,Pelé,,T-09
 WC-1958,A-5,Silver Boot,1,P-08148,Rahn,Helmut,T-82
-WC-1958,A-8,Best Young Player,0,P-03795,Pelé,not applicable,T-09
+WC-1958,A-8,Best Young Player,0,P-03795,Pelé,,T-09
 WC-1962,A-4,Golden Boot,1,P-05509,Albert,Flórián,T-34
-WC-1962,A-4,Golden Boot,1,P-04025,Garrincha,not applicable,T-09
+WC-1962,A-4,Golden Boot,1,P-04025,Garrincha,,T-09
 WC-1962,A-4,Golden Boot,1,P-03508,Ivanov,Valentin,T-69
 WC-1962,A-4,Golden Boot,1,P-00009,Jerković,Dražan,T-83
 WC-1962,A-4,Golden Boot,1,P-06737,Sánchez,Leonel,T-13
-WC-1962,A-4,Golden Boot,1,P-01219,Vavá,not applicable,T-09
+WC-1962,A-4,Golden Boot,1,P-01219,Vavá,,T-09
 WC-1962,A-8,Best Young Player,0,P-05509,Albert,Flórián,T-34
-WC-1966,A-4,Golden Boot,0,P-01633,Eusébio,not applicable,T-56
+WC-1966,A-4,Golden Boot,0,P-01633,Eusébio,,T-56
 WC-1966,A-5,Silver Boot,0,P-08039,Haller,Helmut,T-82
 WC-1966,A-6,Bronze Boot,1,P-04356,Beckenbauer,Franz,T-82
 WC-1966,A-6,Bronze Boot,1,P-02995,Bene,Ferenc,T-34
@@ -36,7 +36,7 @@ WC-1966,A-6,Bronze Boot,1,P-03234,Hurst,Geoff,T-27
 WC-1966,A-6,Bronze Boot,1,P-06927,Porkujan,Valeriy,T-69
 WC-1966,A-8,Best Young Player,0,P-04356,Beckenbauer,Franz,T-82
 WC-1970,A-4,Golden Boot,0,P-02483,Müller,Gerd,T-82
-WC-1970,A-5,Silver Boot,0,P-07877,Jairzinho,not applicable,T-09
+WC-1970,A-5,Silver Boot,0,P-07877,Jairzinho,,T-09
 WC-1970,A-6,Bronze Boot,0,P-01348,Cubillas,Teófilo,T-54
 WC-1970,A-8,Best Young Player,0,P-01348,Cubillas,Teófilo,T-54
 WC-1974,A-4,Golden Boot,0,P-07200,Lato,Grzegorz,T-55
@@ -45,24 +45,24 @@ WC-1974,A-5,Silver Boot,1,P-00830,Szarmach,Andrzej,T-55
 WC-1974,A-8,Best Young Player,0,P-02284,Żmuda,Władysław,T-55
 WC-1978,A-1,Golden Ball,0,P-07202,Kempes,Mario,T-03
 WC-1978,A-2,Silver Ball,0,P-08703,Rossi,Paolo,T-39
-WC-1978,A-3,Bronze Ball,0,P-02014,Dirceu,not applicable,T-09
+WC-1978,A-3,Bronze Ball,0,P-02014,Dirceu,,T-09
 WC-1978,A-4,Golden Boot,0,P-07202,Kempes,Mario,T-03
 WC-1978,A-5,Silver Boot,0,P-01348,Cubillas,Teófilo,T-54
 WC-1978,A-6,Bronze Boot,0,P-07325,Rensenbrink,Rob,T-46
 WC-1978,A-8,Best Young Player,0,P-05548,Cabrini,Antonio,T-39
 WC-1982,A-1,Golden Ball,0,P-08703,Rossi,Paolo,T-39
-WC-1982,A-2,Silver Ball,0,P-05820,Falcão,not applicable,T-09
+WC-1982,A-2,Silver Ball,0,P-05820,Falcão,,T-09
 WC-1982,A-3,Bronze Ball,0,P-08975,Rummenigge,Karl-Heinz,T-82
 WC-1982,A-4,Golden Boot,0,P-08703,Rossi,Paolo,T-39
 WC-1982,A-5,Silver Boot,0,P-08975,Rummenigge,Karl-Heinz,T-82
-WC-1982,A-6,Bronze Boot,0,P-03653,Zico,not applicable,T-09
+WC-1982,A-6,Bronze Boot,0,P-03653,Zico,,T-09
 WC-1982,A-8,Best Young Player,0,P-09137,Amoros,Manuel,T-28
 WC-1986,A-1,Golden Ball,0,P-06516,Maradona,Diego,T-03
 WC-1986,A-2,Silver Ball,0,P-03585,Schumacher,Harald,T-82
 WC-1986,A-3,Bronze Ball,0,P-06503,Elkjær,Preben,T-21
 WC-1986,A-4,Golden Boot,0,P-02777,Lineker,Gary,T-27
 WC-1986,A-5,Silver Boot,1,P-07608,Butragueño,Emilio,T-70
-WC-1986,A-5,Silver Boot,1,P-08699,Careca,not applicable,T-09
+WC-1986,A-5,Silver Boot,1,P-08699,Careca,,T-09
 WC-1986,A-5,Silver Boot,1,P-06516,Maradona,Diego,T-03
 WC-1986,A-8,Best Young Player,0,P-00872,Scifo,Enzo,T-06
 WC-1990,A-1,Golden Ball,0,P-04373,Schillaci,Salvatore,T-39
@@ -73,16 +73,16 @@ WC-1990,A-5,Silver Boot,0,P-03413,Skuhravý,Tomáš,T-20
 WC-1990,A-6,Bronze Boot,1,P-02777,Lineker,Gary,T-27
 WC-1990,A-6,Bronze Boot,1,P-00994,Milla,Roger,T-11
 WC-1990,A-8,Best Young Player,0,P-07639,Prosinečki,Robert,T-83
-WC-1994,A-1,Golden Ball,0,P-07489,Romário,not applicable,T-09
+WC-1994,A-1,Golden Ball,0,P-07489,Romário,,T-09
 WC-1994,A-2,Silver Ball,0,P-09078,Baggio,Roberto,T-39
 WC-1994,A-3,Bronze Ball,0,P-06855,Stoichkov,Hristo,T-10
 WC-1994,A-4,Golden Boot,1,P-07023,Salenko,Oleg,T-59
 WC-1994,A-4,Golden Boot,1,P-06855,Stoichkov,Hristo,T-10
 WC-1994,A-6,Bronze Boot,1,P-08602,Andersson,Kennet,T-71
-WC-1994,A-6,Bronze Boot,1,P-07489,Romário,not applicable,T-09
+WC-1994,A-6,Bronze Boot,1,P-07489,Romário,,T-09
 WC-1994,A-7,Golden Glove,0,P-09628,Preud'homme,Michel,T-06
 WC-1994,A-8,Best Young Player,0,P-08704,Overmars,Marc,T-46
-WC-1998,A-1,Golden Ball,0,P-04601,Ronaldo,not applicable,T-09
+WC-1998,A-1,Golden Ball,0,P-04601,Ronaldo,,T-09
 WC-1998,A-2,Silver Ball,0,P-04705,Šuker,Davor,T-17
 WC-1998,A-3,Bronze Ball,0,P-01770,Thuram,Lilian,T-28
 WC-1998,A-4,Golden Boot,0,P-04705,Šuker,Davor,T-17
@@ -91,11 +91,11 @@ WC-1998,A-5,Silver Boot,1,P-04765,Vieri,Christian,T-39
 WC-1998,A-7,Golden Glove,0,P-06099,Barthez,Fabien,T-28
 WC-1998,A-8,Best Young Player,0,P-07705,Owen,Michael,T-27
 WC-2002,A-1,Golden Ball,0,P-04412,Kahn,Oliver,T-29
-WC-2002,A-2,Silver Ball,0,P-04601,Ronaldo,not applicable,T-09
+WC-2002,A-2,Silver Ball,0,P-04601,Ronaldo,,T-09
 WC-2002,A-3,Bronze Ball,0,P-04298,Hong,Myung-bo,T-68
-WC-2002,A-4,Golden Boot,0,P-04601,Ronaldo,not applicable,T-09
+WC-2002,A-4,Golden Boot,0,P-04601,Ronaldo,,T-09
 WC-2002,A-5,Silver Boot,1,P-05239,Klose,Miroslav,T-29
-WC-2002,A-5,Silver Boot,1,P-00008,Rivaldo,not applicable,T-09
+WC-2002,A-5,Silver Boot,1,P-00008,Rivaldo,,T-09
 WC-2002,A-7,Golden Glove,0,P-04412,Kahn,Oliver,T-29
 WC-2002,A-8,Best Young Player,0,P-06818,Donovan,Landon,T-79
 WC-2006,A-1,Golden Ball,0,P-03582,Zidane,Zinedine,T-28
@@ -103,7 +103,7 @@ WC-2006,A-2,Silver Ball,0,P-08617,Cannavaro,Fabio,T-39
 WC-2006,A-3,Bronze Ball,0,P-09247,Pirlo,Andrea,T-39
 WC-2006,A-4,Golden Boot,0,P-05239,Klose,Miroslav,T-29
 WC-2006,A-5,Silver Boot,0,P-07013,Crespo,Hernán,T-03
-WC-2006,A-6,Bronze Boot,0,P-04601,Ronaldo,not applicable,T-09
+WC-2006,A-6,Bronze Boot,0,P-04601,Ronaldo,,T-09
 WC-2006,A-7,Golden Glove,0,P-00132,Buffon,Gianluigi,T-39
 WC-2006,A-8,Best Young Player,0,P-07597,Podolski,Lukas,T-29
 WC-2010,A-1,Golden Ball,0,P-01628,Forlán,Diego,T-80
@@ -119,7 +119,7 @@ WC-2014,A-2,Silver Ball,0,P-00904,Müller,Thomas,T-29
 WC-2014,A-3,Bronze Ball,0,P-06098,Robben,Arjen,T-46
 WC-2014,A-4,Golden Boot,0,P-03676,Rodríguez,James,T-15
 WC-2014,A-5,Silver Boot,0,P-00904,Müller,Thomas,T-29
-WC-2014,A-6,Bronze Boot,0,P-01576,Neymar,not applicable,T-09
+WC-2014,A-6,Bronze Boot,0,P-01576,Neymar,,T-09
 WC-2014,A-7,Golden Glove,0,P-06554,Neuer,Manuel,T-29
 WC-2014,A-8,Best Young Player,0,P-06083,Pogba,Paul,T-28
 WC-2018,A-1,Golden Ball,0,P-03056,Modrić,Luka,T-17

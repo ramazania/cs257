@@ -5,7 +5,6 @@
     A tiny Flask application that provides a website with an accompanying
     API (which is also tiny) to support that website.
 
-    Your website and API will be more complex.
 '''
 import sys
 import flask
@@ -19,30 +18,30 @@ app.register_blueprint(api.api, url_prefix='/api')
 
 
 ########### The website routes ###########
-# (As you can see, there's not much of a website in this example.)
 @app.route('/') 
 def get_main_page():
     ''' This is the only route intended for human users '''
     return flask.render_template('index.html')
 
-@app.route('/help')
-def get_help():
-    return flask.render_template('help.html')
+@app.route('/mockup1.html') 
+def get_mockup1():
+    ''' This is the only route intended for human users '''
+    return flask.render_template('mockups/mockup1.html')
 
 @app.route('/mockup2.html') 
 def get_mockup2():
     ''' This is the only route intended for human users '''
-    return flask.render_template('mockup2.html')
+    return flask.render_template('mockups/mockup2.html')
 
 @app.route('/mockup3.html') 
 def get_mockup3():
     ''' This is the only route intended for human users '''
-    return flask.render_template('mockup3.html')
+    return flask.render_template('mockups/mockup3.html')
 
-
-@app.route('/teams') 
+@app.route('/mockup4.html') 
 def get_team_page():
-    return flask.render_template('team.html')
+    ''' This is the only route intended for human users '''
+    return flask.render_template('mockups/mockup4.html')
 
 
 ########### Running the website server ###########

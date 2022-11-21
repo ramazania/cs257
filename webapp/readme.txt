@@ -8,21 +8,17 @@ DATA License: The copyright for the original structure and organization of the F
 DATA Access: you can get the data here: https://github.com/jfjelstul/worldcup and click on data-csv. We also included the data-csv in our repository. 
 
 STATUS:
-
     FEATURES CURRENTLY WORKING:
-    - The side bar displayes all the tournament years
-    - The user can click on a tournament year and get a table of teams that played in that tournament
+    - The side bar displayes all the tournament years 
+    - The user can click on a tournament year and get a list of teams that played in that tournament
+    - The user can click on a team to get a list of players, which includes their shirt number and position
+    - The Get Awards button displays a table of awards for the selected tournament year
+    - The data are cleared from the page when the user clicks on a different tournament year from the side bar
     - The title of the main page is clickable and reloads to a fresh homepage
 
     FEATURES NOT YET WORKING:
-    - The teams are not clickable to get the stats
-    - 
+    - We couldn't position the tables all the way to right and left side of the main page to use the free space
 
-
-NOTES: Optional
-
-STATUS: [a concise description of what works, what's not working
-yet, and any other information that might help me
-test and evaluate your work]
-
-NOTES: [(Optional) anything else you'd like to add]
+NOTES: When you click on a team, scroll down to see the results. The players from 1930-1950 did not have shirt numbers.
+       Also, the api-help.txt is inside the templates because it wouldn't work when I moved it outside of templates folder.
+       Jeff, I have your info in config.py, but it's commented. 
