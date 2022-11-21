@@ -12,8 +12,8 @@ function getAPIBaseURL() {
     return baseURL;
 }
 
-function onSquadButtonClicked() {
-    var url = getAPIBaseURL() + '/teams/WC-2018/Argentina';
+function onSquadButtonClicked(tournament_id, team_name) {
+    var url = getAPIBaseURL() + '/teams/' + tournament_id + "/" + team_name;
 
 
     // Send the request to the Books API /authors/ endpoint
@@ -31,8 +31,8 @@ function onSquadButtonClicked() {
         for (var k = 0; k < playerList.length; k++) {
             tableBody += '<tr>';
             tableBody += '<td>'
-                            + playerList[k]['first_name'] + ' ' + playerList[k]['last_name'] + ' ' 
-                            + playerList[k]['shirt_number'] + ' ' + playerList[k]['position'] + '</td>';
+                            + playerList[k]['first_name'] + ' ' + playerList[k]['last_name'] + '</td> <td>' 
+                            + playerList[k]['shirt_number'] + '</td> <td>' + playerList[k]['position'] + '</td>';
             tableBody += '</tr>';
         }
 
